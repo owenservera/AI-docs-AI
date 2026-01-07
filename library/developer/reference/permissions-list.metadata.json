@@ -1,0 +1,91 @@
+{
+  "url": "https://developer.chrome.com/docs/extensions/reference/permissions-list",
+  "title": "Permissions \u00a0|\u00a0 Chrome for Developers",
+  "description": "A list of permissions and user warnings available on the extensions platform.",
+  "content_type": "reference",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "java",
+      "go"
+    ],
+    "database": [
+      "oracle"
+    ],
+    "platform": [
+      "windows",
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "setUiOptions",
+      "url",
+      "open",
+      "function",
+      "getElementsByTagName",
+      "insertBefore",
+      "sendNativeMessage",
+      "connectNative",
+      "createElement"
+    ],
+    "api_endpoints": [
+      "/api/certificateProvider",
+      "/api/audio",
+      "/api/contentSettings",
+      "/api/contextMenus",
+      "/api/debugger",
+      "/api/bookmarks",
+      "/api/cookies",
+      "/api/declarativeContent",
+      "/api/alarms",
+      "/api/browsingData"
+    ],
+    "file_extensions": [
+      "apps",
+      "825",
+      "5C21",
+      "web",
+      "55",
+      "8C15",
+      "2333",
+      "175",
+      "6L19",
+      "9C6"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 6367,
+  "code_blocks_count": 159,
+  "heading_count": 4,
+  "link_count": 201,
+  "image_count": 2,
+  "keywords": [
+    "devsite",
+    "track",
+    "class",
+    "code",
+    "chrome",
+    "docs",
+    "metadata",
+    "href",
+    "data",
+    "https",
+    "extensions",
+    "reference",
+    "quot",
+    "translate",
+    "developer",
+    "item",
+    "span",
+    "label",
+    "type",
+    "position"
+  ],
+  "reading_time": 32,
+  "complexity_score": 3.9,
+  "metadata_generated": "2026-01-07T02:00:39.135442"
+}

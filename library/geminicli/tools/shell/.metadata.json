@@ -1,0 +1,100 @@
+{
+  "url": "https://geminicli.com/docs/tools/shell/",
+  "title": "Shell tool (`run_shell_command`) | Gemini CLI",
+  "description": "This document describes therun_shell_commandtool for the Gemini CLI.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go",
+      "rust"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "18a4",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "sh",
+      "31",
+      "test"
+    ],
+    "command_names": [
+      "exe -NoProfile",
+      "rebase -i",
+      "bash -c",
+      "ls -la"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 6831,
+  "code_blocks_count": 125,
+  "heading_count": 16,
+  "link_count": 118,
+  "image_count": 5,
+  "keywords": [
+    "class",
+    "span",
+    "astro",
+    "code",
+    "style",
+    "href",
+    "aria",
+    "auto",
+    "depth",
+    "docs",
+    "current",
+    "false",
+    "data",
+    "hidden",
+    "command",
+    "path",
+    "true",
+    "width",
+    "icon",
+    "line"
+  ],
+  "reading_time": 34,
+  "complexity_score": 5.2,
+  "metadata_generated": "2026-01-06T17:08:00.951216"
+}

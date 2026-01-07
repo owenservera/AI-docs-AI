@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/docs/extensions/develop/ui/themes",
+  "name": "What are themes? \u00a0|\u00a0 Chrome for Developers",
+  "description": "Guidelines on how to create a theme.",
+  "keywords": [
+    "devsite",
+    "class",
+    "span",
+    "track",
+    "docs",
+    "metadata",
+    "data",
+    "chrome",
+    "extensions",
+    "develop"
+  ]
+}

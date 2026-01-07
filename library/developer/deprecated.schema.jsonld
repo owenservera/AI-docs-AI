@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://developer.chrome.com/deprecated",
+  "name": "Chrome Archive \u00a0|\u00a0 Build with Chrome \u00a0|\u00a0 Chrome for Developers",
+  "description": "",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "metadata",
+    "chrome",
+    "https",
+    "href",
+    "data",
+    "item",
+    "docs"
+  ]
+}

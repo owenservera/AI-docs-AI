@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://geminicli.com/docs/faq",
+  "name": "Frequently asked questions (FAQ) | Gemini CLI",
+  "description": "This page provides answers to common questions and solutions to frequent\nproblems encountered while using Gemini CLI.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Yourpackage.jsonhas\"type\": \"module\"."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Yourtsconfig.jsonhas\"module\": \"NodeNext\"or a compatible setting in\nthecompilerOptions."
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "class",
+    "astro",
+    "span",
+    "style",
+    "href",
+    "depth",
+    "aria",
+    "gemini",
+    "code",
+    "google"
+  ]
+}

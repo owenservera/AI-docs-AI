@@ -1,0 +1,90 @@
+{
+  "url": "https://opencode.ai/docs/ecosystem/",
+  "title": "Ecosystem | OpenCode",
+  "description": "Projects and integrations built with OpenCode.",
+  "content_type": "conceptual",
+  "taxonomies": {
+    "language": [
+      "typescript",
+      "go"
+    ],
+    "cloud": [
+      "vercel"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "tmpl",
+      "openBtn",
+      "getItem",
+      "replaceChildren",
+      "matchMedia",
+      "shortcut",
+      "forEach",
+      "querySelectorAll",
+      "querySelector",
+      "storedTheme",
+      "updatePickers",
+      "newIcon",
+      "theme",
+      "SidebarRestore",
+      "select",
+      "oldIcon",
+      "t",
+      "s",
+      "platformKey"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "mdx",
+      "31",
+      "64",
+      "17",
+      "5547",
+      "18a4",
+      "8805",
+      "33c",
+      "54a1",
+      "16"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2025-12-31T16:54:01.000Z",
+  "word_count": 3345,
+  "code_blocks_count": 0,
+  "heading_count": 5,
+  "link_count": 86,
+  "image_count": 2,
+  "keywords": [
+    "astro",
+    "class",
+    "wiagppvi",
+    "span",
+    "href",
+    "opencode",
+    "color",
+    "aria",
+    "badge",
+    "style",
+    "docs",
+    "https",
+    "hidden",
+    "size",
+    "github",
+    "where",
+    "current",
+    "width",
+    "height",
+    "text"
+  ],
+  "reading_time": 17,
+  "complexity_score": 4.0,
+  "metadata_generated": "2026-01-01T22:20:04.158608"
+}

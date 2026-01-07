@@ -1,0 +1,77 @@
+{
+  "url": "https://repomix.com/guide/use-cases",
+  "title": "Use Cases | Repomix",
+  "description": "Pack your codebase into AI-friendly formats",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "push",
+      "com",
+      "lean",
+      "css",
+      "svg",
+      "js",
+      "gg",
+      "blog"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 2456,
+  "code_blocks_count": 29,
+  "heading_count": 27,
+  "link_count": 88,
+  "image_count": 1,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "code",
+    "button",
+    "aria",
+    "vplink",
+    "guide",
+    "quot",
+    "tabindex",
+    "label",
+    "cases",
+    "github",
+    "repomix",
+    "codebase",
+    "text",
+    "content",
+    "title"
+  ],
+  "reading_time": 12,
+  "complexity_score": 5.5,
+  "metadata_generated": "2026-01-06T15:32:02.076279"
+}

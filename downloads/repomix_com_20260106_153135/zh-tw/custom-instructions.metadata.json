@@ -1,0 +1,78 @@
+{
+  "url": "https://repomix.com/zh-tw/guide/custom-instructions",
+  "title": "\u81ea\u5b9a\u7fa9\u6307\u4ee4 | Repomix",
+  "description": "\u5c07\u7a0b\u5f0f\u78bc\u5eab\u6253\u5305\u6210AI\u53cb\u597d\u7684\u683c\u5f0f",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "typescript",
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "json",
+      "push",
+      "com",
+      "lean",
+      "css",
+      "svg",
+      "js",
+      "gg"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 1519,
+  "code_blocks_count": 8,
+  "heading_count": 9,
+  "link_count": 67,
+  "image_count": 1,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "shiki",
+    "link",
+    "href",
+    "dark",
+    "style",
+    "light",
+    "vplink",
+    "guide",
+    "line",
+    "button",
+    "aria",
+    "text",
+    "instructions",
+    "item",
+    "level",
+    "content",
+    "repomix"
+  ],
+  "reading_time": 8,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-06T15:33:24.554856"
+}

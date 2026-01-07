@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://opencode.ai/docs/providers",
+  "name": "Providers | OpenCode",
+  "description": "Using any LLM provider in OpenCode.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Add the API keys for the provider using the/connectcommand."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Configure the provider in your OpenCode config."
+    }
+  ],
+  "dateModified": "2025-12-31T16:54:01.000Z",
+  "version": "v",
+  "keywords": [
+    "span",
+    "class",
+    "code",
+    "style",
+    "astro",
+    "line",
+    "data",
+    "button",
+    "copy",
+    "ufgicomt"
+  ]
+}

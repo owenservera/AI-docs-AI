@@ -1,0 +1,81 @@
+{
+  "url": "https://developer.chrome.com/docs/extensions/reference/api/webNavigation",
+  "title": "chrome.webNavigation \u00a0|\u00a0 API \u00a0|\u00a0 Chrome for Developers",
+  "description": "DescriptionUse thechrome.webNavigationAPI to receive notifications about the status of navigation requests in-flight.",
+  "content_type": "reference",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "typescript",
+      "java",
+      "go"
+    ],
+    "database": [
+      "oracle"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "windows",
+      "ios",
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "rgba",
+      "url"
+    ],
+    "api_endpoints": [
+      "/api/webNavigation?hl",
+      "/api/webNavigation"
+    ],
+    "file_extensions": [
+      "apps",
+      "825",
+      "5C21",
+      "web",
+      "55",
+      "8C15",
+      "2333",
+      "175",
+      "9C6",
+      "25em"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 11827,
+  "code_blocks_count": 77,
+  "heading_count": 45,
+  "link_count": 241,
+  "image_count": 2,
+  "keywords": [
+    "class",
+    "devsite",
+    "span",
+    "code",
+    "track",
+    "docs",
+    "type",
+    "data",
+    "extensions",
+    "reference",
+    "chrome",
+    "metadata",
+    "href",
+    "syntax",
+    "item",
+    "title",
+    "label",
+    "https",
+    "events",
+    "event"
+  ],
+  "reading_time": 59,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-07T02:01:19.483914"
+}

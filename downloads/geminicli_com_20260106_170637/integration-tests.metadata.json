@@ -1,0 +1,99 @@
+{
+  "url": "https://geminicli.com/docs/integration-tests",
+  "title": "Integration tests | Gemini CLI",
+  "description": "This document provides information about the integration testing framework used\nin this project.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go",
+      "rust"
+    ],
+    "cloud": [
+      "docker"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "18a4",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "678",
+      "31",
+      "test"
+    ],
+    "command_names": [
+      "yml --ref <your"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 7161,
+  "code_blocks_count": 63,
+  "heading_count": 20,
+  "link_count": 128,
+  "image_count": 5,
+  "keywords": [
+    "class",
+    "span",
+    "astro",
+    "style",
+    "code",
+    "href",
+    "aria",
+    "depth",
+    "test",
+    "data",
+    "docs",
+    "path",
+    "tests",
+    "true",
+    "hidden",
+    "current",
+    "false",
+    "button",
+    "width",
+    "icon"
+  ],
+  "reading_time": 36,
+  "complexity_score": 5.1,
+  "metadata_generated": "2026-01-06T17:10:22.289967"
+}

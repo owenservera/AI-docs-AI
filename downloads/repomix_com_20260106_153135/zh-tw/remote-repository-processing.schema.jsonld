@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://repomix.com/zh-tw/guide/remote-repository-processing",
+  "name": "GitHub \u5009\u5eab\u8655\u7406 | Repomix",
+  "description": "\u5c07\u7a0b\u5f0f\u78bc\u5eab\u6253\u5305\u6210AI\u53cb\u597d\u7684\u683c\u5f0f",
+  "dateModified": "2026-01-04T13:42:35.000Z",
+  "version": "v",
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "shiki",
+    "link",
+    "href",
+    "dark",
+    "style",
+    "light",
+    "vplink"
+  ]
+}

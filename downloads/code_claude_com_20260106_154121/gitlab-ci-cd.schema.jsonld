@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://code.claude.com/docs/en/gitlab-ci-cd",
+  "name": "Claude Code GitLab CI/CD - Claude Code Docs",
+  "description": "Learn about integrating Claude Code into your development workflow with GitLab CI/CD",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Event-driven orchestration: GitLab listens for your chosen triggers (for example, a comment that mentions@claudein an issue, MR, or review thread). The job collects context from the thread and repository, builds prompts from that input, and runs Claude Code."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Provider abstraction: Use the provider that fits your environment:Claude API (SaaS)AWS Bedrock (IAM-based access, cross-region options)Google Vertex AI (GCP-native, Workload Identity Federation)"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Claude API (SaaS)"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "AWS Bedrock (IAM-based access, cross-region options)"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Google Vertex AI (GCP-native, Workload Identity Federation)"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Sandboxed execution: Each interaction runs in a container with strict network and filesystem rules. Claude Code enforces workspace-scoped permissions to constrain writes. Every change flows through an MR so reviewers see the diff and approvals still apply."
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "span",
+    "dark",
+    "children",
+    "code",
+    "claude",
+    "color",
+    "text",
+    "style",
+    "shiki",
+    "class"
+  ]
+}

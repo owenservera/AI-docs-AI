@@ -1,0 +1,71 @@
+{
+  "url": "https://developer.chrome.com/docs/chromium",
+  "title": "Chromium \u00a0|\u00a0 Chrome for Developers",
+  "description": "Find resources on the Chromium project.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "platform": [
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "url",
+      "function",
+      "getElementsByTagName",
+      "insertBefore",
+      "var",
+      "createElement"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "apps",
+      "35",
+      "825",
+      "3917",
+      "9C20",
+      "web",
+      "7C7",
+      "8C15",
+      "5167",
+      "8583"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 4302,
+  "code_blocks_count": 0,
+  "heading_count": 14,
+  "link_count": 104,
+  "image_count": 3,
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "metadata",
+    "chrome",
+    "docs",
+    "https",
+    "item",
+    "href",
+    "data",
+    "developer",
+    "chromium",
+    "link",
+    "span",
+    "null",
+    "role",
+    "type",
+    "position",
+    "label",
+    "landing"
+  ],
+  "reading_time": 22,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-07T01:59:47.157611"
+}

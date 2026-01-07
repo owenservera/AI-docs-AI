@@ -1,0 +1,79 @@
+{
+  "url": "https://developer.chrome.com/docs/extensions/support/find-a-bug",
+  "title": "Find and follow a bug \u00a0|\u00a0 Chrome Extensions \u00a0|\u00a0 Chrome for Developers",
+  "description": "Check whether a bug or feature request has already been reported.",
+  "content_type": "faq",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "java",
+      "go"
+    ],
+    "database": [
+      "oracle"
+    ],
+    "platform": [
+      "linux",
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "url",
+      "function",
+      "getElementsByTagName",
+      "insertBefore",
+      "createElement",
+      "eval"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "apps",
+      "35",
+      "825",
+      "3917",
+      "9C20",
+      "web",
+      "7C7",
+      "8C15",
+      "5167",
+      "8583"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 5574,
+  "code_blocks_count": 2,
+  "heading_count": 4,
+  "link_count": 147,
+  "image_count": 2,
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "metadata",
+    "docs",
+    "data",
+    "chrome",
+    "span",
+    "href",
+    "extensions",
+    "https",
+    "item",
+    "label",
+    "type",
+    "developer",
+    "title",
+    "tooltip",
+    "site",
+    "link",
+    "eventdetail"
+  ],
+  "reading_time": 28,
+  "complexity_score": 3.8,
+  "metadata_generated": "2026-01-07T02:01:29.603321"
+}

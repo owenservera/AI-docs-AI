@@ -1,0 +1,99 @@
+{
+  "url": "https://geminicli.com/docs/get-started/authentication/",
+  "title": "Gemini CLI authentication setup | Gemini CLI",
+  "description": "To use Gemini CLI, you\u2019ll need to authenticate with Google. This guide helps you\nquickly find the best way to sign in based on your account type and how you\u2019re\nusing the CLI.",
+  "content_type": "api_reference",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go",
+      "rust"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "env",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "678",
+      "31",
+      "test"
+    ],
+    "command_names": [
+      "mkdir -p ~/.gemini\u007fcat >> ~/.gemini/.env <<&#x27;EOF&#x27;\u007fGOOGLE_CLOUD_PROJECT=&#x22;your"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 7181,
+  "code_blocks_count": 58,
+  "heading_count": 16,
+  "link_count": 144,
+  "image_count": 5,
+  "keywords": [
+    "class",
+    "span",
+    "astro",
+    "style",
+    "href",
+    "code",
+    "google",
+    "aria",
+    "gemini",
+    "depth",
+    "docs",
+    "data",
+    "current",
+    "false",
+    "path",
+    "hidden",
+    "cloud",
+    "button",
+    "width",
+    "icon"
+  ],
+  "reading_time": 36,
+  "complexity_score": 5.1,
+  "metadata_generated": "2026-01-06T17:07:08.499327"
+}

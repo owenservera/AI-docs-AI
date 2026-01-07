@@ -1,0 +1,109 @@
+{
+  "url": "https://code.claude.com/docs/en/common-workflows",
+  "title": "Common workflows - Claude Code Docs",
+  "description": "Learn about common workflows with Claude Code.",
+  "content_type": "conceptual",
+  "taxonomies": {
+    "framework": [
+      "react"
+    ],
+    "language": [
+      "python",
+      "javascript",
+      "typescript",
+      "java",
+      "go",
+      "rust",
+      "c++"
+    ],
+    "cloud": [
+      "azure"
+    ],
+    "tool": [
+      "git",
+      "npm",
+      "yarn",
+      "webpack"
+    ],
+    "platform": [
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "langDir",
+      "docsClaudeCodeDest",
+      "function",
+      "e",
+      "c",
+      "d",
+      "getItem",
+      "i",
+      "for",
+      "docsClaudeCodeSrc",
+      "_components",
+      "entries",
+      "languageDirs",
+      "langCode",
+      "ignoreList",
+      "setAttribute",
+      "if",
+      "link",
+      "a",
+      "getElementById",
+      "key",
+      "f"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "1624",
+      "096",
+      "413",
+      "9624",
+      "push",
+      "3C10",
+      "json",
+      "5719",
+      "0125",
+      "6974"
+    ],
+    "command_names": [
+      "bg-background-dark -z-10 pointer",
+      "whitespace-nowrap -translate-x-1",
+      "pb-4 -mt-10 pt"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 75973,
+  "code_blocks_count": 218,
+  "heading_count": 38,
+  "link_count": 132,
+  "image_count": 5,
+  "keywords": [
+    "dark",
+    "text",
+    "children",
+    "code",
+    "class",
+    "span",
+    "gray",
+    "shiki",
+    "claude",
+    "group",
+    "stroke",
+    "color",
+    "hover",
+    "white",
+    "style",
+    "button",
+    "data",
+    "path",
+    "href",
+    "title"
+  ],
+  "reading_time": 380,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-06T15:41:52.437177"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://repomix.com/it/guide/",
+  "name": "Iniziare con Repomix | Repomix",
+  "description": "Impacchetta il tuo codice in formati adatti all'IA",
+  "dateModified": "2026-01-04T13:42:35.000Z",
+  "version": "v",
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "repomix",
+    "vplink",
+    "guide",
+    "aria",
+    "button"
+  ]
+}

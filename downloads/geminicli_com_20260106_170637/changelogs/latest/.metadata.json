@@ -1,0 +1,104 @@
+{
+  "url": "https://geminicli.com/docs/changelogs/latest/",
+  "title": "Latest stable release: v0.21.0 - v0.21.1 | Gemini CLI",
+  "description": "For most users, our latest stable release is the recommended release. Install\nthe latest stable version with:",
+  "content_type": "troubleshooting",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go",
+      "rust"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "linux",
+      "web"
+    ],
+    "version": [
+      "v0.21.0",
+      "v0.21.1"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "18a4",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "678",
+      "31",
+      "test"
+    ],
+    "command_names": [
+      "install -g @google/gemini"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 4909,
+  "code_blocks_count": 9,
+  "heading_count": 4,
+  "link_count": 180,
+  "image_count": 5,
+  "keywords": [
+    "gemini",
+    "astro",
+    "class",
+    "https",
+    "google",
+    "span",
+    "github",
+    "pull",
+    "href",
+    "aria",
+    "docs",
+    "current",
+    "style",
+    "false",
+    "hidden",
+    "width",
+    "script",
+    "icon",
+    "sidebar",
+    "true"
+  ],
+  "reading_time": 25,
+  "complexity_score": 3.8,
+  "metadata_generated": "2026-01-06T17:08:47.974010"
+}

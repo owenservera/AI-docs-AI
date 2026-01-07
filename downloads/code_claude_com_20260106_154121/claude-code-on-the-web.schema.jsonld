@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://code.claude.com/docs/en/claude-code-on-the-web",
+  "name": "Claude Code on the web - Claude Code Docs",
+  "description": "Run Claude Code tasks asynchronously on secure cloud infrastructure",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Visitclaude.ai/code"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Connect your GitHub account"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Install the Claude GitHub app in your repositories"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Select your default environment"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Submit your coding task"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Review changes and create a pull request in GitHub"
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "children",
+    "claude",
+    "code",
+    "dark",
+    "href",
+    "text",
+    "gray",
+    "class",
+    "static",
+    "group"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://repomix.com/guide/remote-repository-processing",
+  "name": "GitHub Repository Processing | Repomix",
+  "description": "Pack your codebase into AI-friendly formats",
+  "dateModified": "2026-01-04T13:42:35.000Z",
+  "version": "v",
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "shiki",
+    "link",
+    "href",
+    "dark",
+    "style",
+    "light",
+    "vplink"
+  ]
+}

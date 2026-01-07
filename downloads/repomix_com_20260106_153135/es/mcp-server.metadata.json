@@ -1,0 +1,88 @@
+{
+  "url": "https://repomix.com/es/guide/mcp-server",
+  "title": "Servidor MCP | Repomix",
+  "description": "Empaqueta tu c\u00f3digo en formatos amigables para IA",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "framework": [
+      "vue"
+    ],
+    "language": [
+      "javascript",
+      "typescript",
+      "java",
+      "go"
+    ],
+    "cloud": [
+      "gcp",
+      "docker"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "json",
+      "com",
+      "push",
+      "ts",
+      "txt",
+      "000Z",
+      "lean",
+      "css"
+    ],
+    "command_names": [
+      "grep -A",
+      "grep -B"
+    ]
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 3226,
+  "code_blocks_count": 51,
+  "heading_count": 20,
+  "link_count": 86,
+  "image_count": 3,
+  "keywords": [
+    "span",
+    "class",
+    "data",
+    "shiki",
+    "dark",
+    "quot",
+    "light",
+    "style",
+    "code",
+    "link",
+    "href",
+    "line",
+    "repomix",
+    "para",
+    "button",
+    "vplink",
+    "guide",
+    "aria",
+    "strong",
+    "github"
+  ],
+  "reading_time": 16,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-06T15:34:31.394932"
+}

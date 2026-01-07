@@ -1,0 +1,72 @@
+{
+  "url": "https://developer.chrome.com/docs/performance",
+  "title": "Performance \u00a0|\u00a0 Chrome for Developers",
+  "description": "Optimize the performance of your web applications with Chrome's performance tools.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "java",
+      "go"
+    ],
+    "platform": [
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "url",
+      "function",
+      "getElementsByTagName",
+      "insertBefore",
+      "createElement"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "apps",
+      "35",
+      "825",
+      "3917",
+      "9C20",
+      "web",
+      "7C7",
+      "8C15",
+      "5167",
+      "8583"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 4840,
+  "code_blocks_count": 0,
+  "heading_count": 17,
+  "link_count": 115,
+  "image_count": 3,
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "metadata",
+    "chrome",
+    "docs",
+    "item",
+    "https",
+    "data",
+    "href",
+    "developer",
+    "performance",
+    "span",
+    "link",
+    "position",
+    "landing",
+    "role",
+    "label",
+    "type",
+    "null"
+  ],
+  "reading_time": 24,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-07T02:00:09.491089"
+}

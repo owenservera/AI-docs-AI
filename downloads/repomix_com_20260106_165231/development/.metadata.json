@@ -1,0 +1,79 @@
+{
+  "url": "https://repomix.com/guide/development/",
+  "title": "Contributing to Repomix | Repomix",
+  "description": "Pack your codebase into AI-friendly formats",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "gcp",
+      "docker"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "getItem",
+      "e",
+      "add",
+      "toggle",
+      "matchMedia",
+      "push",
+      "gtag"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "dev",
+      "com",
+      "add",
+      "md",
+      "png",
+      "js",
+      "css",
+      "lean",
+      "gg",
+      "000Z"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 2180,
+  "code_blocks_count": 22,
+  "heading_count": 18,
+  "link_count": 85,
+  "image_count": 1,
+  "keywords": [
+    "span",
+    "class",
+    "data",
+    "shiki",
+    "link",
+    "dark",
+    "href",
+    "style",
+    "light",
+    "line",
+    "code",
+    "guide",
+    "button",
+    "vplink",
+    "development",
+    "aria",
+    "repomix",
+    "github",
+    "tabindex",
+    "label"
+  ],
+  "reading_time": 11,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-06T16:53:15.836219"
+}

@@ -1,0 +1,78 @@
+{
+  "url": "https://repomix.com/pt-br/guide/tips/best-practices",
+  "title": "Melhores Pr\u00e1ticas para Desenvolvimento com IA: Da Minha Experi\u00eancia | Repomix",
+  "description": "Empacote sua base de c\u00f3digo em formatos amig\u00e1veis para IA",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "push",
+      "com",
+      "lean",
+      "css",
+      "svg",
+      "js",
+      "gg",
+      "000Z"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 1836,
+  "code_blocks_count": 0,
+  "heading_count": 11,
+  "link_count": 69,
+  "image_count": 1,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "vplink",
+    "guide",
+    "aria",
+    "button",
+    "text",
+    "practices",
+    "item",
+    "level",
+    "content",
+    "tips",
+    "best",
+    "vpsidebaritem",
+    "indicator",
+    "label",
+    "vpmenulink"
+  ],
+  "reading_time": 9,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-06T15:35:07.355058"
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Origin Trials</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description"
+        content="Chrome origin trials allow developers to safely experiment with web platform features">
+  <meta http-equiv="Content-Security-Policy"
+        content="object-src 'none'; script-src 'sha256-49SH4GxpCRBaKzcFqr+CgzUfkYXW1wy5tgdPdME5wS0=' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:; base-uri 'none';">
+  <script nonce="A5s1DxoY-L6O3ahm3tsthQ">
+    const prefix = "static/15a85a6efff02997f91011d50dbbff6ee893b509";
+    [
+      "webcomponents-loader.js",
+      "web-animations-next-lite.min.js",
+    ].forEach((val) => {
+      const scriptElement = document.createElement('script');
+      scriptElement.async = false;
+      scriptElement.src = `${prefix}/${val}`;
+      document.head.appendChild(scriptElement);
+    });
+    window.addEventListener(
+      'WebComponentsReady',
+      function() {
+        const scriptElement = document.createElement('script');
+        scriptElement.async = false;
+        scriptElement.src = `${prefix}/app_main.js`;
+        document.head.appendChild(scriptElement);
+      },
+      {once: true}
+    );
+  </script>
+  <style>
+    body {
+      background-color: #fff;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <noscript>
+    This page requires Javascript.
+  </noscript>
+  <ot-app api-host="https://chromeorigintrials-pa.googleapis.com"
+          api-key="AIzaSyDNwqPBcgaOul_h00xdxbIlOFiNUYyZCl8"
+          oauth-client-id="394077348382-gr626d689vsssha5h5ek9rthcfl3c4i8.apps.googleusercontent.com"
+          auth-url=""
+          cookie-path="/origintrials"
+          gaia-instance="prod">
+  </ot-app>
+</body>
+</html>

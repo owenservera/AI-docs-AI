@@ -1,0 +1,89 @@
+{
+  "url": "https://opencode.ai/docs/github",
+  "title": "GitHub | OpenCode",
+  "description": "Use OpenCode in GitHub issues and pull-requests.",
+  "content_type": "troubleshooting",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "tmpl",
+      "openBtn",
+      "getItem",
+      "replaceChildren",
+      "matchMedia",
+      "shortcut",
+      "forEach",
+      "querySelectorAll",
+      "querySelector",
+      "storedTheme",
+      "updatePickers",
+      "newIcon",
+      "theme",
+      "SidebarRestore",
+      "select",
+      "oldIcon",
+      "t",
+      "s",
+      "platformKey"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "mdx",
+      "31",
+      "64",
+      "17",
+      "18a4",
+      "33c",
+      "54a1",
+      "16",
+      "03",
+      "83"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2025-12-31T16:54:01.000Z",
+  "word_count": 5520,
+  "code_blocks_count": 56,
+  "heading_count": 12,
+  "link_count": 79,
+  "image_count": 2,
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "astro",
+    "code",
+    "line",
+    "wiagppvi",
+    "indent",
+    "opencode",
+    "href",
+    "color",
+    "depth",
+    "ufgicomt",
+    "badge",
+    "aria",
+    "github",
+    "docs",
+    "data",
+    "auto",
+    "button"
+  ],
+  "reading_time": 28,
+  "complexity_score": 5.4,
+  "metadata_generated": "2026-01-01T22:20:58.966939"
+}

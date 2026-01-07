@@ -1,0 +1,94 @@
+{
+  "url": "https://geminicli.com/docs/tools/",
+  "title": "Gemini CLI tools | Gemini CLI",
+  "description": "The Gemini CLI includes built-in tools that the Gemini model uses to interact\nwith your local environment, access information, and perform actions. These\ntools enhance the CLI\u2019s capabilities, enabling...",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go",
+      "rust"
+    ],
+    "cloud": [
+      "docker"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "18a4",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "678",
+      "31",
+      "test"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 4560,
+  "code_blocks_count": 15,
+  "heading_count": 6,
+  "link_count": 97,
+  "image_count": 5,
+  "keywords": [
+    "astro",
+    "class",
+    "span",
+    "href",
+    "aria",
+    "docs",
+    "style",
+    "tools",
+    "gemini",
+    "current",
+    "false",
+    "hidden",
+    "width",
+    "icon",
+    "script",
+    "sidebar",
+    "true",
+    "height",
+    "const",
+    "path"
+  ],
+  "reading_time": 23,
+  "complexity_score": 4.2,
+  "metadata_generated": "2026-01-06T17:07:56.571071"
+}

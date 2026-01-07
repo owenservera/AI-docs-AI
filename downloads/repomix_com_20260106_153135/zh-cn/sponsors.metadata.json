@@ -1,0 +1,80 @@
+{
+  "url": "https://repomix.com/zh-cn/guide/sponsors",
+  "title": "\u8d5e\u52a9\u5546 | Repomix",
+  "description": "\u652f\u6301 Repomix \u5f00\u53d1\u5e76\u4e86\u89e3\u6211\u4eec\u51fa\u8272\u7684\u8d5e\u52a9\u5546",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "app",
+      "push",
+      "com",
+      "lean",
+      "css",
+      "svg",
+      "js",
+      "gg"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 1354,
+  "code_blocks_count": 0,
+  "heading_count": 8,
+  "link_count": 73,
+  "image_count": 4,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "vplink",
+    "guide",
+    "aria",
+    "button",
+    "sponsors",
+    "repomix",
+    "text",
+    "item",
+    "level",
+    "content",
+    "vpsidebaritem",
+    "indicator",
+    "vpmenulink",
+    "https",
+    "label"
+  ],
+  "reading_time": 7,
+  "complexity_score": 4.6,
+  "metadata_generated": "2026-01-06T15:33:12.602329"
+}

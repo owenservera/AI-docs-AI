@@ -1,0 +1,77 @@
+{
+  "url": "https://developer.chrome.com/blog/ai-challenge",
+  "title": "Join the Google Chrome Built-in AI Challenge \u00a0|\u00a0 Blog \u00a0|\u00a0 Chrome for Developers",
+  "description": "We&#39;re launching the Built-in AI Challenge, where we invite you to reimagine what&#39;s possible with Gemini Nano in Chrome.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "language": [
+      "java",
+      "go"
+    ],
+    "database": [
+      "oracle"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "url",
+      "function",
+      "calc",
+      "var",
+      "you"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "apps",
+      "825",
+      "778",
+      "web",
+      "8C15",
+      "169",
+      "175",
+      "4c8",
+      "9C6",
+      "333"
+    ],
+    "command_names": []
+  },
+  "version": "171.3",
+  "last_updated": null,
+  "word_count": 4329,
+  "code_blocks_count": 0,
+  "heading_count": 6,
+  "link_count": 97,
+  "image_count": 4,
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "metadata",
+    "chrome",
+    "https",
+    "href",
+    "data",
+    "docs",
+    "developer",
+    "item",
+    "span",
+    "role",
+    "null",
+    "link",
+    "type",
+    "label",
+    "title",
+    "blog",
+    "tooltip"
+  ],
+  "reading_time": 22,
+  "complexity_score": 4.2,
+  "metadata_generated": "2026-01-07T02:00:54.326390"
+}

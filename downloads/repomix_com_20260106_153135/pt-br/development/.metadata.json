@@ -1,0 +1,80 @@
+{
+  "url": "https://repomix.com/pt-br/guide/development/",
+  "title": "Contribuindo para o Repomix | Repomix",
+  "description": "Empacote sua base de c\u00f3digo em formatos amig\u00e1veis para IA",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "gcp",
+      "docker"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "git",
+      "test",
+      "push",
+      "com",
+      "lean",
+      "css",
+      "svg",
+      "js",
+      "gg"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 2129,
+  "code_blocks_count": 18,
+  "heading_count": 18,
+  "link_count": 83,
+  "image_count": 1,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "shiki",
+    "link",
+    "href",
+    "dark",
+    "light",
+    "style",
+    "vplink",
+    "button",
+    "guide",
+    "line",
+    "aria",
+    "repomix",
+    "code",
+    "label",
+    "github",
+    "tabindex",
+    "text"
+  ],
+  "reading_time": 11,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-06T15:35:10.038262"
+}

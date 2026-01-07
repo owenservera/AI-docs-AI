@@ -1,0 +1,80 @@
+{
+  "url": "https://repomix.com/guide/installation",
+  "title": "Installation | Repomix",
+  "description": "Pack your codebase into AI-friendly formats",
+  "content_type": "how_to",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "gcp",
+      "docker"
+    ],
+    "tool": [
+      "git",
+      "npm",
+      "yarn"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "json",
+      "push",
+      "com",
+      "lean",
+      "css",
+      "svg",
+      "js",
+      "gg"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 1736,
+  "code_blocks_count": 16,
+  "heading_count": 14,
+  "link_count": 76,
+  "image_count": 2,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "shiki",
+    "link",
+    "href",
+    "dark",
+    "light",
+    "style",
+    "vplink",
+    "guide",
+    "button",
+    "repomix",
+    "installation",
+    "aria",
+    "label",
+    "code",
+    "text",
+    "item",
+    "content"
+  ],
+  "reading_time": 9,
+  "complexity_score": 5.1,
+  "metadata_generated": "2026-01-06T15:36:11.386074"
+}

@@ -1,0 +1,81 @@
+{
+  "url": "https://repomix.com/vi/guide/",
+  "title": "B\u1eaft \u0111\u1ea7u v\u1edbi Repomix | Repomix",
+  "description": "\u0110\u00f3ng g\u00f3i codebase c\u1ee7a b\u1ea1n th\u00e0nh c\u00e1c \u0111\u1ecbnh d\u1ea1ng th\u00e2n thi\u1ec7n v\u1edbi AI",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "git",
+      "test",
+      "app",
+      "push",
+      "svg",
+      "lean",
+      "css",
+      "net",
+      "dev",
+      "warp"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 2014,
+  "code_blocks_count": 7,
+  "heading_count": 11,
+  "link_count": 86,
+  "image_count": 11,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "repomix",
+    "vplink",
+    "guide",
+    "aria",
+    "button",
+    "https",
+    "text",
+    "item",
+    "level",
+    "content",
+    "label",
+    "vpsidebaritem",
+    "indicator",
+    "vpmenulink",
+    "github"
+  ],
+  "reading_time": 10,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-06T15:36:08.773311"
+}

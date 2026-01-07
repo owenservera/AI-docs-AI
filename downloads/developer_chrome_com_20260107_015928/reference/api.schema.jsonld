@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/docs/extensions/reference/api",
+  "name": "API reference \u00a0|\u00a0 Chrome for Developers",
+  "description": "The complete reference to all APIs made available to Chrome Extensions. This includes APIs for the deprecated Chrome Apps platform as well as APIs still in beta and dev.",
+  "keywords": [
+    "class",
+    "devsite",
+    "track",
+    "docs",
+    "reference",
+    "extensions",
+    "span",
+    "chrome",
+    "data",
+    "href"
+  ]
+}

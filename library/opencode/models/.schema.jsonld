@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://opencode.ai/docs/models/",
+  "name": "Models | OpenCode",
+  "description": "Configuring an LLM provider and model.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "The--modelor-mcommand line flag. The format is the same as in the config file:provider_id/model_id."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "The model list in the OpenCode config.opencode.json{\"$schema\":\"https://opencode.ai/config.json\",\"model\":\"anthropic/claude-sonnet-4-20250514\"}The format here isprovider/model."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "The last used model."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "The first model using an internal priority."
+    }
+  ],
+  "dateModified": "2026-01-05T23:09:39.000Z",
+  "version": "v",
+  "keywords": [
+    "span",
+    "class",
+    "astro",
+    "style",
+    "code",
+    "wiagppvi",
+    "href",
+    "line",
+    "color",
+    "aria"
+  ]
+}

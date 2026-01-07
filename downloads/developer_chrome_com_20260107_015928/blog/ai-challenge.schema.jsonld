@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://developer.chrome.com/blog/ai-challenge",
+  "name": "Join the Google Chrome Built-in AI Challenge \u00a0|\u00a0 Blog \u00a0|\u00a0 Chrome for Developers",
+  "description": "We&#39;re launching the Built-in AI Challenge, where we invite you to reimagine what&#39;s possible with Gemini Nano in Chrome.",
+  "version": "171.3",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "metadata",
+    "chrome",
+    "https",
+    "href",
+    "data",
+    "docs",
+    "developer"
+  ]
+}

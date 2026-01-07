@@ -1,0 +1,96 @@
+{
+  "url": "https://opencode.ai/docs/enterprise/",
+  "title": "Enterprise | OpenCode",
+  "description": "Using OpenCode securely in your organization.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go",
+      "rust"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "us",
+      "shortcut",
+      "openBtn",
+      "t",
+      "newIcon",
+      "SidebarRestore",
+      "replaceChildren",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [
+      "/api/npm/npm-virtual/"
+    ],
+    "file_extensions": [
+      "7071",
+      "2714",
+      "74",
+      "16",
+      "847",
+      "36l",
+      "28",
+      "7937",
+      "622",
+      "14"
+    ],
+    "command_names": [
+      "login --registry"
+    ]
+  },
+  "version": "v",
+  "last_updated": "2026-01-05T23:09:39.000Z",
+  "word_count": 4319,
+  "code_blocks_count": 11,
+  "heading_count": 13,
+  "link_count": 85,
+  "image_count": 2,
+  "keywords": [
+    "astro",
+    "class",
+    "span",
+    "style",
+    "wiagppvi",
+    "href",
+    "color",
+    "aria",
+    "ufgicomt",
+    "depth",
+    "badge",
+    "docs",
+    "data",
+    "opencode",
+    "code",
+    "hidden",
+    "size",
+    "width",
+    "where",
+    "current"
+  ],
+  "reading_time": 22,
+  "complexity_score": 5.1,
+  "metadata_generated": "2026-01-06T16:46:43.820658"
+}

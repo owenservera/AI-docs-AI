@@ -1,0 +1,73 @@
+{
+  "url": "https://opencode.ai/discord",
+  "title": "OpenCode",
+  "description": "Join the OpenCode community on Discord. | 9058 members",
+  "content_type": "api_reference",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "java",
+      "go"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "getItem",
+      "now",
+      "parse",
+      "if",
+      "test",
+      "function",
+      "catch"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "new",
+      "top",
+      "com",
+      "net",
+      "now",
+      "ico",
+      "src",
+      "jpg",
+      "js",
+      "body"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 534,
+  "code_blocks_count": 0,
+  "heading_count": 0,
+  "link_count": 0,
+  "image_count": 0,
+  "keywords": [
+    "meta",
+    "locale",
+    "alternate",
+    "content",
+    "discord",
+    "property",
+    "opencode",
+    "https",
+    "href",
+    "invite",
+    "hreflang",
+    "script",
+    "window",
+    "name",
+    "document",
+    "assets",
+    "function",
+    "discordapp",
+    "null",
+    "noindex"
+  ],
+  "reading_time": 3,
+  "complexity_score": 3.0,
+  "metadata_generated": "2026-01-06T16:46:36.489637"
+}

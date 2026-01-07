@@ -1,0 +1,74 @@
+{
+  "url": "https://developer.chrome.com/docs/crux",
+  "title": "Overview of CrUX \u00a0|\u00a0 Chrome UX Report \u00a0|\u00a0 Chrome for Developers",
+  "description": "Introduction to the CrUX dataset.",
+  "content_type": "api_reference",
+  "taxonomies": {
+    "language": [
+      "java",
+      "go"
+    ],
+    "database": [
+      "oracle"
+    ],
+    "platform": [
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "url",
+      "function",
+      "getElementsByTagName",
+      "insertBefore",
+      "createElement"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "apps",
+      "35",
+      "825",
+      "3917",
+      "9C20",
+      "web",
+      "7C7",
+      "8C15",
+      "5167",
+      "8583"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 4161,
+  "code_blocks_count": 0,
+  "heading_count": 4,
+  "link_count": 109,
+  "image_count": 2,
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "docs",
+    "metadata",
+    "chrome",
+    "href",
+    "data",
+    "https",
+    "span",
+    "crux",
+    "item",
+    "link",
+    "developer",
+    "type",
+    "role",
+    "null",
+    "title",
+    "label",
+    "tooltip"
+  ],
+  "reading_time": 21,
+  "complexity_score": 3.8,
+  "metadata_generated": "2026-01-07T01:59:59.227212"
+}

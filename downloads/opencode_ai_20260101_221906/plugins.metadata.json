@@ -1,0 +1,97 @@
+{
+  "url": "https://opencode.ai/docs/plugins",
+  "title": "Plugins | OpenCode",
+  "description": "Write your own plugins to extend OpenCode.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "javascript",
+      "typescript",
+      "java",
+      "go"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "macos",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "tmpl",
+      "openBtn",
+      "getItem",
+      "replaceChildren",
+      "matchMedia",
+      "shortcut",
+      "forEach",
+      "querySelectorAll",
+      "querySelector",
+      "storedTheme",
+      "updatePickers",
+      "newIcon",
+      "theme",
+      "SidebarRestore",
+      "select",
+      "oldIcon",
+      "t",
+      "s",
+      "platformKey"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "mdx",
+      "31",
+      "64",
+      "17",
+      "5547",
+      "18a4",
+      "8805",
+      "33c",
+      "54a1",
+      "16"
+    ],
+    "command_names": [
+      "osascript -e &#x27;display notification &#x22;Session completed!&#x22; with title &#x22;opencode&#x22;&#x27;&#x60;\u007f      }\u007f    },\u007f  }\u007f}\"><div></div></button></div></figure></div>",
+      "osascript -e 'display notification \"Session completed!\" with title \"opencode\"'`</span></div></div><div class=\"ec"
+    ]
+  },
+  "version": "v",
+  "last_updated": "2025-12-31T16:54:01.000Z",
+  "word_count": 5765,
+  "code_blocks_count": 72,
+  "heading_count": 28,
+  "link_count": 107,
+  "image_count": 2,
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "astro",
+    "code",
+    "wiagppvi",
+    "line",
+    "href",
+    "ufgicomt",
+    "depth",
+    "color",
+    "aria",
+    "badge",
+    "plugin",
+    "auto",
+    "opencode",
+    "indent",
+    "docs",
+    "data",
+    "events"
+  ],
+  "reading_time": 29,
+  "complexity_score": 5.4,
+  "metadata_generated": "2026-01-01T22:20:52.968724"
+}

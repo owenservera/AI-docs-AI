@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/docs/extensions/reference/api/sidePanel",
+  "name": "chrome.sidePanel \u00a0|\u00a0 API \u00a0|\u00a0 Chrome for Developers",
+  "description": "DescriptionUse thechrome.sidePanelAPI to host content in the browser's side panel alongside the main content of a webpage.",
+  "keywords": [
+    "class",
+    "span",
+    "devsite",
+    "track",
+    "syntax",
+    "docs",
+    "data",
+    "extensions",
+    "metadata",
+    "reference"
+  ]
+}

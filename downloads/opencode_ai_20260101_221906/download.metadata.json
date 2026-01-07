@@ -1,0 +1,86 @@
+{
+  "url": "https://opencode.ai/download",
+  "title": "OpenCode | Download",
+  "description": "OpenCode - The open source coding agent.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "t",
+      "fe",
+      "has",
+      "s",
+      "hasAttribute",
+      "Promise",
+      "url",
+      "forEach",
+      "push"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "7187",
+      "2261",
+      "6274",
+      "6606",
+      "4637",
+      "9091",
+      "4701",
+      "6415",
+      "7331",
+      "png"
+    ],
+    "command_names": [
+      "curl -fsSL https://<strong>opencode.ai/install</strong> | bash</code><!",
+      "add -g <strong>opencode",
+      "i -g <strong>opencode",
+      "paru -S <strong>opencode</strong></code><!",
+      "install --cask <strong>opencode"
+    ]
+  },
+  "version": "2.75",
+  "last_updated": null,
+  "word_count": 3779,
+  "code_blocks_count": 6,
+  "heading_count": 2,
+  "link_count": 26,
+  "image_count": 3,
+  "keywords": [
+    "data",
+    "font",
+    "span",
+    "path",
+    "component",
+    "fill",
+    "slot",
+    "width",
+    "href",
+    "download",
+    "button",
+    "currentcolor",
+    "height",
+    "assets",
+    "http",
+    "viewbox",
+    "xmlns",
+    "opencode",
+    "icon",
+    "stroke"
+  ],
+  "reading_time": 19,
+  "complexity_score": 1.3,
+  "metadata_generated": "2026-01-01T22:20:30.785726"
+}

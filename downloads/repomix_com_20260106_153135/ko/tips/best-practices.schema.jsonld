@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://repomix.com/ko/guide/tips/best-practices",
+  "name": "AI \uc9c0\uc6d0 \uac1c\ubc1c \ubaa8\ubc94 \uc0ac\ub840: \ub098\uc758 \uacbd\ud5d8\uc73c\ub85c\ubd80\ud130 | Repomix",
+  "description": "\ucf54\ub4dc\ubca0\uc774\uc2a4\ub97c AI \uce5c\ud654\uc801\uc778 \ud615\uc2dd\uc73c\ub85c \ud328\ud0a4\uc9d5",
+  "dateModified": "2026-01-04T13:42:35.000Z",
+  "version": "v",
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "vplink",
+    "guide",
+    "aria",
+    "button",
+    "text"
+  ]
+}

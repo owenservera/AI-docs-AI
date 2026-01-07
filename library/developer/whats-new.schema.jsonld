@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/docs/extensions/whats-new",
+  "name": "What's new in Chrome extensions \u00a0|\u00a0 Chrome Extensions \u00a0|\u00a0 Chrome for Developers",
+  "description": "Recent changes to the Chrome extensions platform, documentation, and policy",
+  "dateModified": "November 25, 2025",
+  "keywords": [
+    "chrome",
+    "class",
+    "devsite",
+    "extensions",
+    "href",
+    "track",
+    "docs",
+    "data",
+    "text",
+    "code"
+  ]
+}

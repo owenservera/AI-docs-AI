@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://geminicli.com/docs/cli/trusted-folders",
+  "name": "Trusted Folders | Gemini CLI",
+  "description": "The Trusted Folders feature is a security setting that gives you control over\nwhich projects can use the full capabilities of the Gemini CLI. It prevents\npotentially malicious code from running by ask...",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Workspace settings are ignored: The CLI willnotload the.gemini/settings.jsonfile from the project. This prevents the loading of\ncustom tools and other potentially dangerous configurations."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Environment variables are ignored: The CLI willnotload any.envfiles from the project."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Extension management is restricted: Youcannot install, update, or\nuninstallextensions."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Tool auto-acceptance is disabled: You will always be prompted before any\ntool is run, even if you have auto-acceptance enabled globally."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Automatic memory loading is disabled: The CLI will not automatically\nload files into context from directories specified in local settings."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "MCP servers do not connect: The CLI will not attempt to connect to anyModel Context Protocol (MCP)servers."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "Custom commands are not loaded: The CLI will not load any custom\ncommands from .toml files, including both project-specific and global user\ncommands."
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "class",
+    "astro",
+    "span",
+    "aria",
+    "href",
+    "style",
+    "docs",
+    "current",
+    "false",
+    "hidden"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://geminicli.com/docs/cli/token-caching/",
+  "title": "Token caching and cost optimization | Gemini CLI",
+  "description": "Gemini CLI automatically optimizes API costs through token caching when using\nAPI key authentication (Gemini API key or Vertex AI). This feature reuses\nprevious system instructions and context to redu...",
+  "content_type": "troubleshooting",
+  "taxonomies": {
+    "language": [
+      "go",
+      "rust"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "18a4",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "678",
+      "31",
+      "test"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 3419,
+  "code_blocks_count": 1,
+  "heading_count": 2,
+  "link_count": 76,
+  "image_count": 5,
+  "keywords": [
+    "astro",
+    "class",
+    "span",
+    "aria",
+    "href",
+    "docs",
+    "current",
+    "false",
+    "style",
+    "hidden",
+    "width",
+    "script",
+    "sidebar",
+    "icon",
+    "const",
+    "true",
+    "height",
+    "details",
+    "data",
+    "path"
+  ],
+  "reading_time": 17,
+  "complexity_score": 3.4,
+  "metadata_generated": "2026-01-06T17:07:40.929948"
+}

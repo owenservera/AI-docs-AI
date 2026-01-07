@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://developer.chrome.com/blog",
+  "name": "Blog \u00a0|\u00a0 Chrome for Developers",
+  "description": "Latest news from the Chrome Developer Relations team",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "metadata",
+    "chrome",
+    "https",
+    "href",
+    "data",
+    "item",
+    "developer"
+  ]
+}

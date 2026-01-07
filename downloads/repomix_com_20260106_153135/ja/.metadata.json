@@ -1,0 +1,88 @@
+{
+  "url": "https://repomix.com/ja/",
+  "title": "Repomix | \u30b3\u30fc\u30c9\u30d9\u30fc\u30b9\u3092AI\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc\u306a\u5f62\u5f0f\u306b\u30d1\u30c3\u30b1\u30fc\u30b8\u30f3\u30b0",
+  "description": "\u30b3\u30fc\u30c9\u30d9\u30fc\u30b9\u3092AI\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc\u306a\u5f62\u5f0f\u306b\u30d1\u30c3\u30b1\u30fc\u30b8\u30f3\u30b0",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "java",
+      "go"
+    ],
+    "cloud": [
+      "gcp",
+      "docker"
+    ],
+    "tool": [
+      "git",
+      "npm",
+      "yarn"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia",
+      "matrix"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "app",
+      "197",
+      "386",
+      "9a2",
+      "css",
+      "979",
+      "486",
+      "255",
+      "8A2",
+      "warp"
+    ],
+    "command_names": [
+      "repomix --init"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 2161,
+  "code_blocks_count": 38,
+  "heading_count": 20,
+  "link_count": 78,
+  "image_count": 11,
+  "keywords": [
+    "span",
+    "class",
+    "data",
+    "shiki",
+    "dark",
+    "light",
+    "style",
+    "href",
+    "code",
+    "button",
+    "repomix",
+    "label",
+    "line",
+    "quot",
+    "github",
+    "https",
+    "link",
+    "icon",
+    "aria",
+    "tabindex"
+  ],
+  "reading_time": 11,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-06T15:32:31.403379"
+}

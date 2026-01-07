@@ -1,0 +1,70 @@
+{
+  "url": "https://developer.chrome.com/docs",
+  "title": "Documentation \u00a0|\u00a0 Docs \u00a0|\u00a0 Chrome for Developers",
+  "description": "Code samples, guides, and API reference you need for whatever you're building.",
+  "content_type": "conceptual",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "platform": [
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "url",
+      "function",
+      "getElementsByTagName",
+      "insertBefore",
+      "createElement"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "apps",
+      "35",
+      "825",
+      "3917",
+      "9C20",
+      "web",
+      "7C7",
+      "8C15",
+      "5167",
+      "8583"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 6655,
+  "code_blocks_count": 0,
+  "heading_count": 60,
+  "link_count": 172,
+  "image_count": 23,
+  "keywords": [
+    "devsite",
+    "class",
+    "item",
+    "landing",
+    "chrome",
+    "docs",
+    "https",
+    "track",
+    "developer",
+    "href",
+    "list",
+    "metadata",
+    "data",
+    "icon",
+    "link",
+    "position",
+    "description",
+    "text",
+    "role",
+    "null"
+  ],
+  "reading_time": 33,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-07T01:59:35.136207"
+}

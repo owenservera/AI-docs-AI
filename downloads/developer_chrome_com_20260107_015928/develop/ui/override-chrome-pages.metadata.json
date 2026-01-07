@@ -1,0 +1,77 @@
+{
+  "url": "https://developer.chrome.com/docs/extensions/develop/ui/override-chrome-pages",
+  "title": "Override Chrome pages \u00a0|\u00a0 Chrome for Developers",
+  "description": "How to override the Chrome bookmark manager, history, and new tab pages from your Chrome Extension.",
+  "content_type": "conceptual",
+  "taxonomies": {
+    "language": [
+      "java",
+      "go"
+    ],
+    "database": [
+      "oracle"
+    ],
+    "platform": [
+      "windows",
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "url",
+      "function",
+      "fetch",
+      "getElementsByTagName",
+      "insertBefore",
+      "createElement",
+      "XMLHttpRequest"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "apps",
+      "35",
+      "825",
+      "3917",
+      "9C20",
+      "web",
+      "7C7",
+      "8C15",
+      "5167",
+      "8583"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 6091,
+  "code_blocks_count": 9,
+  "heading_count": 8,
+  "link_count": 165,
+  "image_count": 4,
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "docs",
+    "chrome",
+    "metadata",
+    "data",
+    "extensions",
+    "span",
+    "develop",
+    "href",
+    "https",
+    "item",
+    "developer",
+    "label",
+    "type",
+    "custom",
+    "title",
+    "site",
+    "tooltip"
+  ],
+  "reading_time": 30,
+  "complexity_score": 4.6,
+  "metadata_generated": "2026-01-07T02:01:05.614641"
+}

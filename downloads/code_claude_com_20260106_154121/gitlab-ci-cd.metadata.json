@@ -1,0 +1,111 @@
+{
+  "url": "https://code.claude.com/docs/en/gitlab-ci-cd",
+  "title": "Claude Code GitLab CI/CD - Claude Code Docs",
+  "description": "Learn about integrating Claude Code into your development workflow with GitLab CI/CD",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "react"
+    ],
+    "language": [
+      "python",
+      "javascript",
+      "typescript",
+      "java",
+      "go",
+      "rust",
+      "c++"
+    ],
+    "cloud": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "tool": [
+      "git",
+      "npm",
+      "webpack"
+    ],
+    "platform": [
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "langDir",
+      "docsClaudeCodeDest",
+      "function",
+      "e",
+      "c",
+      "d",
+      "getItem",
+      "i",
+      "for",
+      "docsClaudeCodeSrc",
+      "_components",
+      "entries",
+      "languageDirs",
+      "langCode",
+      "ignoreList",
+      "setAttribute",
+      "if",
+      "link",
+      "a",
+      "getElementById",
+      "key",
+      "f"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "1624",
+      "096",
+      "413",
+      "9624",
+      "push",
+      "3C10",
+      "json",
+      "5719",
+      "0125",
+      "6974"
+    ],
+    "command_names": [
+      "bg-background-dark -z-10 pointer",
+      "whitespace-nowrap -translate-x-1",
+      "pb-4 -mt-10 pt",
+      "add --no-cache git curl bash</span></span>"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 43023,
+  "code_blocks_count": 74,
+  "heading_count": 35,
+  "link_count": 116,
+  "image_count": 5,
+  "keywords": [
+    "span",
+    "dark",
+    "children",
+    "code",
+    "claude",
+    "color",
+    "text",
+    "style",
+    "shiki",
+    "class",
+    "href",
+    "static",
+    "gray",
+    "chunks",
+    "group",
+    "title",
+    "description",
+    "hover",
+    "line",
+    "font"
+  ],
+  "reading_time": 215,
+  "complexity_score": 5.1,
+  "metadata_generated": "2026-01-06T15:42:08.750088"
+}

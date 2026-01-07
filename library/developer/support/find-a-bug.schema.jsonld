@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "url": "https://developer.chrome.com/docs/extensions/support/find-a-bug",
+  "name": "Find and follow a bug \u00a0|\u00a0 Chrome Extensions \u00a0|\u00a0 Chrome for Developers",
+  "description": "Check whether a bug or feature request has already been reported.",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "metadata",
+    "docs",
+    "data",
+    "chrome",
+    "span",
+    "href",
+    "extensions"
+  ]
+}

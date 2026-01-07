@@ -1,0 +1,93 @@
+{
+  "url": "https://opencode.ai/docs/mcp-servers/",
+  "title": "MCP servers | OpenCode",
+  "description": "Add local and remote MCP tools.",
+  "content_type": "troubleshooting",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "vercel"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "tmpl",
+      "openBtn",
+      "getItem",
+      "replaceChildren",
+      "matchMedia",
+      "shortcut",
+      "forEach",
+      "querySelectorAll",
+      "querySelector",
+      "storedTheme",
+      "updatePickers",
+      "newIcon",
+      "theme",
+      "SidebarRestore",
+      "select",
+      "oldIcon",
+      "t",
+      "s",
+      "platformKey"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "64",
+      "17a1",
+      "5547",
+      "4696",
+      "66",
+      "1875",
+      "16",
+      "2155",
+      "84",
+      "png"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2025-12-31T16:54:01.000Z",
+  "word_count": 6942,
+  "code_blocks_count": 97,
+  "heading_count": 23,
+  "link_count": 104,
+  "image_count": 2,
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "code",
+    "astro",
+    "line",
+    "indent",
+    "wiagppvi",
+    "href",
+    "ufgicomt",
+    "depth",
+    "data",
+    "opencode",
+    "color",
+    "aria",
+    "button",
+    "title",
+    "badge",
+    "server",
+    "https"
+  ],
+  "reading_time": 35,
+  "complexity_score": 5.4,
+  "metadata_generated": "2026-01-01T22:19:51.650330"
+}

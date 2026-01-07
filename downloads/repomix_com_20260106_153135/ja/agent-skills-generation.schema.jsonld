@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://repomix.com/ja/guide/agent-skills-generation",
+  "name": "Agent Skills\u751f\u6210 | Repomix",
+  "description": "\u30b3\u30fc\u30c9\u30d9\u30fc\u30b9\u3092AI\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc\u306a\u5f62\u5f0f\u306b\u30d1\u30c3\u30b1\u30fc\u30b8\u30f3\u30b0",
+  "dateModified": "2026-01-04T13:42:35.000Z",
+  "version": "v",
+  "keywords": [
+    "span",
+    "class",
+    "data",
+    "shiki",
+    "dark",
+    "light",
+    "style",
+    "link",
+    "href",
+    "code"
+  ]
+}

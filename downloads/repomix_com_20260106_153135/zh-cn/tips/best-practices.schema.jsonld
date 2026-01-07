@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://repomix.com/zh-cn/guide/tips/best-practices",
+  "name": "AI \u8f85\u52a9\u5f00\u53d1\u6700\u4f73\u5b9e\u8df5\uff1a\u4ece\u5b9e\u8df5\u7ecf\u9a8c\u8c08\u8d77 | Repomix",
+  "description": "\u5c06\u4ee3\u7801\u5e93\u6253\u5305\u6210AI\u53cb\u597d\u7684\u683c\u5f0f",
+  "dateModified": "2026-01-04T13:42:35.000Z",
+  "version": "v",
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "vplink",
+    "guide",
+    "aria",
+    "button",
+    "text"
+  ]
+}

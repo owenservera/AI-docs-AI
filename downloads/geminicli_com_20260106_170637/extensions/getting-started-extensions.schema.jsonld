@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://geminicli.com/docs/extensions/getting-started-extensions",
+  "name": "Getting started with Gemini CLI extensions | Gemini CLI",
+  "description": "This guide will walk you through creating your first Gemini CLI extension.\nYou\u2019ll learn how to set up a new extension, add a custom tool via an MCP server,\ncreate a custom command, and provide context...",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Install dependencies:Terminal windowcdmy-first-extensionnpminstall"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Build the server:Terminal windownpmrunbuildThis will compileexample.tsintodist/example.js, which is the file\nreferenced in yourgemini-extension.json."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Link the extension:Thelinkcommand creates a symbolic link from the Gemini CLI extensions\ndirectory to your development directory. This means any changes you make\nwill be reflected immediately without needing to reinstall.Terminal windowgeminiextensionslink."
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "span",
+    "class",
+    "astro",
+    "style",
+    "code",
+    "href",
+    "aria",
+    "line",
+    "extension",
+    "depth"
+  ]
+}

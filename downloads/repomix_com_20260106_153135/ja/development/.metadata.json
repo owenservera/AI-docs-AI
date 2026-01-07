@@ -1,0 +1,79 @@
+{
+  "url": "https://repomix.com/ja/guide/development/",
+  "title": "Repomix\u3078\u306e\u8ca2\u732e | Repomix",
+  "description": "\u30b3\u30fc\u30c9\u30d9\u30fc\u30b9\u3092AI\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc\u306a\u5f62\u5f0f\u306b\u30d1\u30c3\u30b1\u30fc\u30b8\u30f3\u30b0",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "gcp",
+      "docker"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "git",
+      "test",
+      "push",
+      "com",
+      "lean",
+      "css",
+      "svg",
+      "js",
+      "gg"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 1812,
+  "code_blocks_count": 22,
+  "heading_count": 18,
+  "link_count": 85,
+  "image_count": 1,
+  "keywords": [
+    "span",
+    "class",
+    "data",
+    "shiki",
+    "link",
+    "dark",
+    "href",
+    "light",
+    "style",
+    "line",
+    "button",
+    "vplink",
+    "guide",
+    "aria",
+    "code",
+    "tabindex",
+    "label",
+    "github",
+    "text",
+    "repomix"
+  ],
+  "reading_time": 9,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-06T15:34:10.054923"
+}

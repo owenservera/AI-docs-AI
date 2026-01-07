@@ -1,0 +1,77 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://geminicli.com/docs/cli/telemetry/",
+  "name": "Observability with OpenTelemetry | Gemini CLI",
+  "description": "Learn how to enable and setup OpenTelemetry for Gemini CLI.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Set your Google Cloud project ID:For telemetry in a separate project from inference:Terminal windowexportOTLP_GOOGLE_CLOUD_PROJECT=\"your-telemetry-project-id\"For telemetry in the same project as inference:Terminal windowexportGOOGLE_CLOUD_PROJECT=\"your-project-id\""
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "For telemetry in a separate project from inference:Terminal windowexportOTLP_GOOGLE_CLOUD_PROJECT=\"your-telemetry-project-id\""
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "For telemetry in the same project as inference:Terminal windowexportGOOGLE_CLOUD_PROJECT=\"your-project-id\""
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Authenticate with Google Cloud:If using a user account:Terminal windowgcloudauthapplication-defaultloginIf using a service account:Terminal windowexportGOOGLE_APPLICATION_CREDENTIALS=\"/path/to/your/service-account.json\""
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "If using a user account:Terminal windowgcloudauthapplication-defaultlogin"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "If using a service account:Terminal windowexportGOOGLE_APPLICATION_CREDENTIALS=\"/path/to/your/service-account.json\""
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "Make sure your account or service account has these IAM roles:Cloud Trace AgentMonitoring Metric WriterLogs Writer"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "text": "Cloud Trace Agent"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "text": "Monitoring Metric Writer"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 10,
+      "text": "Logs Writer"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 11,
+      "text": "Enable the required Google Cloud APIs (if not already enabled):Terminal windowgcloudservicesenable\\cloudtrace.googleapis.com\\monitoring.googleapis.com\\logging.googleapis.com\\--project=\"$OTLP_GOOGLE_CLOUD_PROJECT\""
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "class",
+    "code",
+    "span",
+    "astro",
+    "auto",
+    "style",
+    "href",
+    "strong",
+    "aria",
+    "string"
+  ]
+}

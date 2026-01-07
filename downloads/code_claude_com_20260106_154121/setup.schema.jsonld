@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://code.claude.com/docs/en/setup",
+  "name": "Set up Claude Code - Claude Code Docs",
+  "description": "Install, authenticate, and start using Claude Code on your development machine.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Claude Console: The default option. Connect through the Claude Console and complete the OAuth process. Requires active billing in theAnthropic console. A \u201cClaude Code\u201d workspace is automatically created for usage tracking and cost management. You can\u2019t create API keys for the Claude Code workspace; it\u2019s dedicated exclusively for Claude Code usage."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Claude App (with Pro or Max plan): Subscribe to Claude\u2019sPro or Max planfor a unified subscription that includes both Claude Code and the web interface. Get more value at the same price point while managing your account in one place. Log in with your Claude.ai account. During launch, choose the option that matches your subscription type."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Enterprise platforms: Configure Claude Code to useAmazon Bedrock, Google Vertex AI, or Microsoft Foundryfor enterprise deployments with your existing cloud infrastructure."
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "dark",
+    "span",
+    "code",
+    "claude",
+    "children",
+    "color",
+    "shiki",
+    "style",
+    "text",
+    "href"
+  ]
+}

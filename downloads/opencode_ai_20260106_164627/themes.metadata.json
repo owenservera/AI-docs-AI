@@ -1,0 +1,93 @@
+{
+  "url": "https://opencode.ai/docs/themes",
+  "title": "Themes | OpenCode",
+  "description": "Select a built-in theme or define your own.",
+  "content_type": "reference",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "t",
+      "newIcon",
+      "SidebarRestore",
+      "replaceChildren",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "94",
+      "26",
+      "16",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "31",
+      "66l"
+    ],
+    "command_names": [
+      "mkdir -p .opencode/themes\u007fvim .opencode/themes/my",
+      "mkdir -p ~/.config/opencode/themes\u007fvim ~/.config/opencode/themes/my"
+    ]
+  },
+  "version": "v",
+  "last_updated": "2026-01-05T23:09:39.000Z",
+  "word_count": 5905,
+  "code_blocks_count": 40,
+  "heading_count": 13,
+  "link_count": 89,
+  "image_count": 2,
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "astro",
+    "code",
+    "line",
+    "indent",
+    "light",
+    "wiagppvi",
+    "dark",
+    "color",
+    "href",
+    "theme",
+    "ufgicomt",
+    "depth",
+    "badge",
+    "aria",
+    "docs",
+    "themes",
+    "auto"
+  ],
+  "reading_time": 30,
+  "complexity_score": 5.4,
+  "metadata_generated": "2026-01-06T16:47:33.563094"
+}

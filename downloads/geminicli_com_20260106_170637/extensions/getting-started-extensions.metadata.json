@@ -1,0 +1,100 @@
+{
+  "url": "https://geminicli.com/docs/extensions/getting-started-extensions",
+  "title": "Getting started with Gemini CLI extensions | Gemini CLI",
+  "description": "This guide will walk you through creating your first Gemini CLI extension.\nYou\u2019ll learn how to set up a new extension, add a custom tool via an MCP server,\ncreate a custom command, and provide context...",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "typescript",
+      "go",
+      "rust"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "18a4",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "678",
+      "31",
+      "test"
+    ],
+    "command_names": [
+      "mkdir -p commands/fs\"><div></div></button></div></figure></div>",
+      "grep -r {{args}} .}\u007f&#x22;&#x22;&#x22;\"><div></div></button></div></figure></div>",
+      "grep -r {{args}} .}</span></div></div><div class=\"ec"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 6679,
+  "code_blocks_count": 56,
+  "heading_count": 13,
+  "link_count": 110,
+  "image_count": 5,
+  "keywords": [
+    "span",
+    "class",
+    "astro",
+    "style",
+    "code",
+    "href",
+    "aria",
+    "line",
+    "extension",
+    "depth",
+    "docs",
+    "current",
+    "data",
+    "false",
+    "gemini",
+    "hidden",
+    "width",
+    "path",
+    "step",
+    "icon"
+  ],
+  "reading_time": 33,
+  "complexity_score": 5.2,
+  "metadata_generated": "2026-01-06T17:10:01.296630"
+}

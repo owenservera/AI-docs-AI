@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://geminicli.com/docs/cli/enterprise/",
+  "name": "Gemini CLI for the enterprise | Gemini CLI",
+  "description": "This document outlines configuration patterns and best practices for deploying\nand managing Gemini CLI in an enterprise environment. By leveraging system-level\nsettings, administrators can enforce sec...",
+  "genre": "API Documentation",
+  "version": "v",
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "astro",
+    "code",
+    "line",
+    "indent",
+    "href",
+    "aria",
+    "depth"
+  ]
+}

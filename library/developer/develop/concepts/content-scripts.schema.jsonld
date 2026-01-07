@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/docs/extensions/develop/concepts/content-scripts",
+  "name": "Content scripts \u00a0|\u00a0 Chrome for Developers",
+  "description": "An explanation of content scripts and how to use them in your Chrome Extension.",
+  "keywords": [
+    "span",
+    "devsite",
+    "class",
+    "syntax",
+    "track",
+    "docs",
+    "code",
+    "data",
+    "metadata",
+    "href"
+  ]
+}

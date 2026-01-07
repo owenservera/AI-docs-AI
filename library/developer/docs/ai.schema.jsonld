@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://developer.chrome.com/docs/ai",
+  "name": "Artificial Intelligence \u00a0|\u00a0 AI on Chrome \u00a0|\u00a0 Chrome for Developers",
+  "description": "Learn about AI on the web with Chrome.",
+  "keywords": [
+    "devsite",
+    "class",
+    "chrome",
+    "https",
+    "docs",
+    "landing",
+    "item",
+    "developer",
+    "track",
+    "href"
+  ]
+}

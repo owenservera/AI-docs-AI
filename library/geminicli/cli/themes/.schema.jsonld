@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://geminicli.com/docs/cli/themes/",
+  "name": "Themes | Gemini CLI",
+  "description": "Gemini CLI supports a variety of themes to customize its color scheme and\nappearance. You can change the theme to suit your preferences via the/themecommand or\"theme\":configuration setting.",
+  "version": "v",
+  "keywords": [
+    "class",
+    "span",
+    "astro",
+    "style",
+    "code",
+    "href",
+    "depth",
+    "aria",
+    "theme",
+    "auto"
+  ]
+}

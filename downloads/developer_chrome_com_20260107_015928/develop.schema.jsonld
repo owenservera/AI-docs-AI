@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/docs/extensions/develop",
+  "name": "Extensions / Develop \u00a0|\u00a0 Chrome for Developers",
+  "description": "Learn how to develop extensions",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "item",
+    "chrome",
+    "docs",
+    "metadata",
+    "data",
+    "landing",
+    "https"
+  ]
+}

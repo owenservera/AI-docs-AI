@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://developer.chrome.com/docs/capabilities",
+  "name": "Capabilities \u00a0|\u00a0 Chrome for Developers",
+  "description": "Find out how to use Chrome's capabilities to build rich and engaging web experiences.",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "item",
+    "chrome",
+    "docs",
+    "landing",
+    "https",
+    "metadata",
+    "data"
+  ]
+}

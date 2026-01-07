@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/docs/extensions/reference/api/downloads",
+  "name": "chrome.downloads \u00a0|\u00a0 API \u00a0|\u00a0 Chrome for Developers",
+  "description": "DescriptionUse thechrome.downloadsAPI to programmatically initiate, monitor, manipulate, and search for downloads.",
+  "keywords": [
+    "class",
+    "span",
+    "code",
+    "devsite",
+    "track",
+    "type",
+    "data",
+    "docs",
+    "extensions",
+    "href"
+  ]
+}

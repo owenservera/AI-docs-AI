@@ -1,0 +1,81 @@
+{
+  "url": "https://repomix.com/ko/guide/claude-code-plugins",
+  "title": "Claude Code \ud50c\ub7ec\uadf8\uc778 | Repomix",
+  "description": "\ucf54\ub4dc\ubca0\uc774\uc2a4\ub97c AI \uce5c\ud654\uc801\uc778 \ud615\uc2dd\uc73c\ub85c \ud328\ud0a4\uc9d5",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "framework": [
+      "react"
+    ],
+    "language": [
+      "typescript",
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "push",
+      "com",
+      "lean",
+      "css",
+      "svg",
+      "js",
+      "gg",
+      "000Z"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 1989,
+  "code_blocks_count": 26,
+  "heading_count": 21,
+  "link_count": 92,
+  "image_count": 1,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "code",
+    "repomix",
+    "quot",
+    "guide",
+    "vplink",
+    "aria",
+    "button",
+    "text",
+    "claude",
+    "label",
+    "github",
+    "tabindex",
+    "plugins",
+    "item",
+    "level"
+  ],
+  "reading_time": 10,
+  "complexity_score": 5.2,
+  "metadata_generated": "2026-01-06T15:35:31.948881"
+}

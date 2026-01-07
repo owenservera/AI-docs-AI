@@ -1,0 +1,90 @@
+{
+  "url": "https://opencode.ai/docs/zen/",
+  "title": "Zen | OpenCode",
+  "description": "Curated list of models provided by OpenCode.",
+  "content_type": "api_reference",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "tmpl",
+      "openBtn",
+      "getItem",
+      "replaceChildren",
+      "matchMedia",
+      "shortcut",
+      "forEach",
+      "querySelectorAll",
+      "querySelector",
+      "storedTheme",
+      "updatePickers",
+      "newIcon",
+      "you",
+      "theme",
+      "SidebarRestore",
+      "select",
+      "oldIcon",
+      "t",
+      "s",
+      "platformKey"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "64",
+      "17a1",
+      "5547",
+      "4696",
+      "66",
+      "1875",
+      "16",
+      "2155",
+      "84",
+      "png"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2025-12-31T16:54:01.000Z",
+  "word_count": 5307,
+  "code_blocks_count": 54,
+  "heading_count": 15,
+  "link_count": 91,
+  "image_count": 2,
+  "keywords": [
+    "astro",
+    "class",
+    "span",
+    "style",
+    "code",
+    "wiagppvi",
+    "href",
+    "ufgicomt",
+    "depth",
+    "color",
+    "aria",
+    "auto",
+    "badge",
+    "opencode",
+    "docs",
+    "starlight",
+    "https",
+    "hidden",
+    "size",
+    "width"
+  ],
+  "reading_time": 27,
+  "complexity_score": 5.1,
+  "metadata_generated": "2026-01-01T22:19:29.469978"
+}

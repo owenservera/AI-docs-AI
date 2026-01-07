@@ -1,0 +1,78 @@
+{
+  "url": "https://repomix.com/ko/guide/security",
+  "title": "\ubcf4\uc548 | Repomix",
+  "description": "\ucf54\ub4dc\ubca0\uc774\uc2a4\ub97c AI \uce5c\ud654\uc801\uc778 \ud615\uc2dd\uc73c\ub85c \ud328\ud0a4\uc9d5",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "aws",
+      "gcp"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "json",
+      "push",
+      "com",
+      "min",
+      "env",
+      "lean",
+      "css",
+      "svg"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 1561,
+  "code_blocks_count": 9,
+  "heading_count": 11,
+  "link_count": 72,
+  "image_count": 1,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "shiki",
+    "vplink",
+    "guide",
+    "dark",
+    "style",
+    "button",
+    "aria",
+    "light",
+    "security",
+    "text",
+    "item",
+    "level",
+    "content",
+    "vpsidebaritem",
+    "indicator"
+  ],
+  "reading_time": 8,
+  "complexity_score": 5.1,
+  "metadata_generated": "2026-01-06T15:35:29.046938"
+}

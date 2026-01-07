@@ -1,0 +1,99 @@
+{
+  "url": "https://geminicli.com/docs/faq/",
+  "title": "Frequently asked questions (FAQ) | Gemini CLI",
+  "description": "This page provides answers to common questions and solutions to frequent\nproblems encountered while using Gemini CLI.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go",
+      "rust"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "env",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "678",
+      "31",
+      "test"
+    ],
+    "command_names": [
+      "install -g @google/gemini"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 7529,
+  "code_blocks_count": 34,
+  "heading_count": 21,
+  "link_count": 141,
+  "image_count": 5,
+  "keywords": [
+    "class",
+    "astro",
+    "span",
+    "style",
+    "href",
+    "depth",
+    "aria",
+    "gemini",
+    "code",
+    "google",
+    "docs",
+    "path",
+    "hidden",
+    "current",
+    "false",
+    "width",
+    "icon",
+    "true",
+    "height",
+    "ultra"
+  ],
+  "reading_time": 38,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-06T17:08:53.513247"
+}

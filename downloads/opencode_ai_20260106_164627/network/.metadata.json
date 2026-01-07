@@ -1,0 +1,90 @@
+{
+  "url": "https://opencode.ai/docs/network/",
+  "title": "Network | OpenCode",
+  "description": "Configure proxies and custom certificates.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go",
+      "rust"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "t",
+      "newIcon",
+      "SidebarRestore",
+      "replaceChildren",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "4444",
+      "94",
+      "26",
+      "36l",
+      "16",
+      "68",
+      "847",
+      "94C3",
+      "4149",
+      "66l"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-05T23:09:39.000Z",
+  "word_count": 3515,
+  "code_blocks_count": 6,
+  "heading_count": 5,
+  "link_count": 56,
+  "image_count": 2,
+  "keywords": [
+    "class",
+    "astro",
+    "span",
+    "wiagppvi",
+    "style",
+    "color",
+    "aria",
+    "badge",
+    "href",
+    "docs",
+    "hidden",
+    "size",
+    "width",
+    "where",
+    "current",
+    "height",
+    "starlight",
+    "text",
+    "false",
+    "content"
+  ],
+  "reading_time": 18,
+  "complexity_score": 4.1,
+  "metadata_generated": "2026-01-06T16:46:42.429706"
+}

@@ -1,0 +1,78 @@
+{
+  "url": "https://repomix.com/zh-cn/guide/security",
+  "title": "\u5b89\u5168\u6027 | Repomix",
+  "description": "\u5c06\u4ee3\u7801\u5e93\u6253\u5305\u6210AI\u53cb\u597d\u7684\u683c\u5f0f",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "aws",
+      "gcp"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "json",
+      "push",
+      "com",
+      "min",
+      "env",
+      "lean",
+      "css",
+      "svg"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 1451,
+  "code_blocks_count": 9,
+  "heading_count": 11,
+  "link_count": 72,
+  "image_count": 1,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "shiki",
+    "vplink",
+    "guide",
+    "dark",
+    "style",
+    "button",
+    "aria",
+    "light",
+    "security",
+    "text",
+    "item",
+    "level",
+    "content",
+    "vpsidebaritem",
+    "indicator"
+  ],
+  "reading_time": 7,
+  "complexity_score": 5.1,
+  "metadata_generated": "2026-01-06T15:33:00.894387"
+}

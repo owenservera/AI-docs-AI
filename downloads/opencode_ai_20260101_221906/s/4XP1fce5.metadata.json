@@ -1,0 +1,104 @@
+{
+  "url": "https://opencode.ai/s/4XP1fce5",
+  "title": "Analyzing authentication in Hono API routes | OpenCode",
+  "description": "opencode - The AI coding agent built for the terminal.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "react"
+    ],
+    "language": [
+      "typescript",
+      "go"
+    ],
+    "cloud": [
+      "aws"
+    ],
+    "tool": [
+      "git",
+      "npm",
+      "eslint"
+    ],
+    "platform": [
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "tmpl",
+      "openBtn",
+      "getItem",
+      "replaceChildren",
+      "e",
+      "i",
+      "matchMedia",
+      "shortcut",
+      "forEach",
+      "querySelectorAll",
+      "querySelector",
+      "c",
+      "storedTheme",
+      "updatePickers",
+      "y",
+      "newIcon",
+      "a",
+      "r",
+      "p",
+      "theme",
+      "select",
+      "oldIcon",
+      "t",
+      "s",
+      "platformKey"
+    ],
+    "api_endpoints": [
+      "/api/index"
+    ],
+    "file_extensions": [
+      "put",
+      "31",
+      "64",
+      "18a4",
+      "33c",
+      "page",
+      "16",
+      "03",
+      "83",
+      "03l"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 3800,
+  "code_blocks_count": 0,
+  "heading_count": 1,
+  "link_count": 4,
+  "image_count": 2,
+  "keywords": [
+    "quot",
+    "astro",
+    "color",
+    "badge",
+    "text",
+    "class",
+    "where",
+    "user",
+    "json",
+    "code",
+    "content",
+    "const",
+    "border",
+    "example",
+    "size",
+    "await",
+    "packages",
+    "notes",
+    "tool",
+    "opencode"
+  ],
+  "reading_time": 19,
+  "complexity_score": 3.2,
+  "metadata_generated": "2026-01-01T22:20:13.777365"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://geminicli.com/docs/hooks/reference/",
+  "name": "Hooks Reference | Gemini CLI",
+  "description": "This document provides the technical specification for Gemini CLI hooks,\nincluding the JSON schemas for input and output, exit code behaviors, and the\nstable model API.",
+  "genre": "API Documentation",
+  "version": "v",
+  "keywords": [
+    "span",
+    "class",
+    "astro",
+    "code",
+    "style",
+    "auto",
+    "href",
+    "aria",
+    "depth",
+    "left"
+  ]
+}

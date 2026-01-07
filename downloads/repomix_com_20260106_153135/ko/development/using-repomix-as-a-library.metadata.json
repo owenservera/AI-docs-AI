@@ -1,0 +1,80 @@
+{
+  "url": "https://repomix.com/ko/guide/development/using-repomix-as-a-library",
+  "title": "Repomix\ub97c \ub77c\uc774\ube0c\ub7ec\ub9ac\ub85c \uc0ac\uc6a9\ud558\uae30 | Repomix",
+  "description": "\ucf54\ub4dc\ubca0\uc774\uc2a4\ub97c AI \uce5c\ud654\uc801\uc778 \ud615\uc2dd\uc73c\ub85c \ud328\ud0a4\uc9d5",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "java",
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "path",
+      "push",
+      "com",
+      "ts",
+      "lean",
+      "css",
+      "svg",
+      "js"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 1916,
+  "code_blocks_count": 19,
+  "heading_count": 11,
+  "link_count": 72,
+  "image_count": 1,
+  "keywords": [
+    "span",
+    "data",
+    "class",
+    "shiki",
+    "dark",
+    "style",
+    "light",
+    "link",
+    "href",
+    "repomix",
+    "vplink",
+    "guide",
+    "line",
+    "button",
+    "code",
+    "aria",
+    "text",
+    "library",
+    "item",
+    "content"
+  ],
+  "reading_time": 10,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-06T15:35:36.059020"
+}

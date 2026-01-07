@@ -1,0 +1,105 @@
+{
+  "url": "https://geminicli.com/docs/cli/headless/",
+  "title": "Headless mode | Gemini CLI",
+  "description": "Headless mode allows you to run Gemini CLI programmatically from command line\nscripts and automation tools without any interactive UI. This is ideal for\nscripting, automation, CI/CD pipelines, and bui...",
+  "content_type": "troubleshooting",
+  "taxonomies": {
+    "framework": [
+      "react",
+      "express"
+    ],
+    "language": [
+      "python",
+      "go",
+      "rust"
+    ],
+    "cloud": [
+      "docker"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "py",
+      "26",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "678",
+      "31",
+      "test"
+    ],
+    "command_names": [
+      "gemini --prompt &#x22;What is machine learning?&#x22;\"><div></div></button></div></figure></div>",
+      "gemini -p &#x22;What is the capital of France?&#x22;",
+      "gemini --output-format stream",
+      "gemini -p &#x22;What is the capital of France?&#x22;\"><div></div></button></div></figure></div>",
+      "gemini --prompt &#x22;Summarize this documentation&#x22;\"><div></div></button></div></figure></div>"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 10178,
+  "code_blocks_count": 65,
+  "heading_count": 29,
+  "link_count": 164,
+  "image_count": 5,
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "astro",
+    "code",
+    "href",
+    "line",
+    "aria",
+    "indent",
+    "depth",
+    "data",
+    "path",
+    "output",
+    "gemini",
+    "docs",
+    "hidden",
+    "json",
+    "width",
+    "icon",
+    "current"
+  ],
+  "reading_time": 51,
+  "complexity_score": 5.4,
+  "metadata_generated": "2026-01-06T17:07:26.365500"
+}

@@ -1,0 +1,95 @@
+{
+  "url": "https://opencode.ai/docs/commands/",
+  "title": "Commands | OpenCode",
+  "description": "Create custom commands for repetitive tasks.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "react",
+      "express"
+    ],
+    "language": [
+      "typescript",
+      "go"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "you",
+      "shortcut",
+      "openBtn",
+      "t",
+      "newIcon",
+      "SidebarRestore",
+      "replaceChildren",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "94",
+      "26",
+      "16",
+      "36l",
+      "68",
+      "4177",
+      "4696",
+      "15",
+      "4804",
+      "66l"
+    ],
+    "command_names": [
+      "log --oneline"
+    ]
+  },
+  "version": "v",
+  "last_updated": "2026-01-05T23:09:39.000Z",
+  "word_count": 5257,
+  "code_blocks_count": 79,
+  "heading_count": 17,
+  "link_count": 99,
+  "image_count": 2,
+  "keywords": [
+    "class",
+    "span",
+    "astro",
+    "style",
+    "code",
+    "wiagppvi",
+    "line",
+    "href",
+    "ufgicomt",
+    "depth",
+    "color",
+    "data",
+    "aria",
+    "badge",
+    "button",
+    "docs",
+    "command",
+    "content",
+    "auto",
+    "title"
+  ],
+  "reading_time": 26,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-06T16:47:07.507195"
+}

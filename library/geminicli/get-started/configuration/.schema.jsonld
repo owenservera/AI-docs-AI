@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://geminicli.com/docs/get-started/configuration/",
+  "name": "Gemini CLI configuration | Gemini CLI",
+  "description": "Note on configuration format, 9/17/25:The format of thesettings.jsonfile has been updated to a new, more organized structure.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Default values:Hardcoded defaults within the application."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "System defaults file:System-wide default settings that can be\noverridden by other settings files."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "User settings file:Global settings for the current user."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Project settings file:Project-specific settings."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "System settings file:System-wide settings that override all other\nsettings files."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Environment variables:System-wide or session-specific variables,\npotentially loaded from.envfiles."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "Command-line arguments:Values passed when launching the CLI."
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "span",
+    "class",
+    "code",
+    "strong",
+    "style",
+    "auto",
+    "astro",
+    "line",
+    "indent",
+    "gemini"
+  ]
+}

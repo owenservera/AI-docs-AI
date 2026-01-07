@@ -1,0 +1,103 @@
+{
+  "url": "https://geminicli.com/docs/cli/uninstall/",
+  "title": "Uninstalling the CLI | Gemini CLI",
+  "description": "Your uninstall method depends on how you ran the CLI. Follow the instructions\nfor either npx or a global npm installation.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go",
+      "rust"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "18a4",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "678",
+      "31",
+      "test"
+    ],
+    "command_names": [
+      "uninstall -g @google/gemini",
+      "Remove-Item -Path (Join",
+      "install -g @google/gemini",
+      "Recurse -Force",
+      "rm -rf &#x22;$(npm config get cache)/_npx&#x22;\"><div></div></button></div></figure></div>"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 3902,
+  "code_blocks_count": 13,
+  "heading_count": 4,
+  "link_count": 82,
+  "image_count": 5,
+  "keywords": [
+    "class",
+    "astro",
+    "span",
+    "aria",
+    "style",
+    "href",
+    "docs",
+    "current",
+    "false",
+    "hidden",
+    "width",
+    "script",
+    "path",
+    "data",
+    "icon",
+    "sidebar",
+    "true",
+    "const",
+    "code",
+    "height"
+  ],
+  "reading_time": 20,
+  "complexity_score": 3.9,
+  "metadata_generated": "2026-01-06T17:07:45.792106"
+}

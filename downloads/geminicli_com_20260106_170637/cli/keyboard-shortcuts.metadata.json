@@ -1,0 +1,92 @@
+{
+  "url": "https://geminicli.com/docs/cli/keyboard-shortcuts",
+  "title": "Gemini CLI keyboard shortcuts | Gemini CLI",
+  "description": "Gemini CLI ships with a set of default keyboard shortcuts for editing input,\nnavigating history, and controlling the UI. Use this reference to learn the\navailable combinations.",
+  "content_type": "troubleshooting",
+  "taxonomies": {
+    "language": [
+      "go",
+      "rust"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "macos",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "18a4",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "678",
+      "31",
+      "test"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 5451,
+  "code_blocks_count": 91,
+  "heading_count": 15,
+  "link_count": 91,
+  "image_count": 5,
+  "keywords": [
+    "class",
+    "astro",
+    "span",
+    "code",
+    "aria",
+    "auto",
+    "href",
+    "current",
+    "docs",
+    "false",
+    "hidden",
+    "style",
+    "path",
+    "width",
+    "icon",
+    "true",
+    "height",
+    "ctrl",
+    "script",
+    "viewbox"
+  ],
+  "reading_time": 27,
+  "complexity_score": 5.1,
+  "metadata_generated": "2026-01-06T17:09:27.111478"
+}

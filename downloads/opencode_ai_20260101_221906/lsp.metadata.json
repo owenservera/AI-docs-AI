@@ -1,0 +1,99 @@
+{
+  "url": "https://opencode.ai/docs/lsp",
+  "title": "LSP Servers | OpenCode",
+  "description": "OpenCode integrates with your LSP servers.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "vue",
+      "express"
+    ],
+    "language": [
+      "typescript",
+      "java",
+      "go",
+      "rust",
+      "c++",
+      "php"
+    ],
+    "tool": [
+      "git",
+      "eslint"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "tmpl",
+      "openBtn",
+      "getItem",
+      "replaceChildren",
+      "matchMedia",
+      "shortcut",
+      "forEach",
+      "querySelectorAll",
+      "querySelector",
+      "storedTheme",
+      "updatePickers",
+      "newIcon",
+      "theme",
+      "SidebarRestore",
+      "select",
+      "oldIcon",
+      "t",
+      "s",
+      "platformKey"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "mdx",
+      "zig",
+      "cxx",
+      "31",
+      "64",
+      "5547",
+      "18a4",
+      "8805",
+      "17",
+      "33c"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2025-12-31T16:54:01.000Z",
+  "word_count": 3882,
+  "code_blocks_count": 45,
+  "heading_count": 9,
+  "link_count": 67,
+  "image_count": 2,
+  "keywords": [
+    "class",
+    "astro",
+    "span",
+    "style",
+    "wiagppvi",
+    "code",
+    "color",
+    "href",
+    "aria",
+    "badge",
+    "auto",
+    "ufgicomt",
+    "depth",
+    "docs",
+    "hidden",
+    "size",
+    "opencode",
+    "false",
+    "where",
+    "current"
+  ],
+  "reading_time": 19,
+  "complexity_score": 4.9,
+  "metadata_generated": "2026-01-01T22:21:03.440899"
+}

@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://opencode.ai/docs/config/",
+  "name": "Config | OpenCode",
+  "description": "Using the OpenCode JSON config.",
+  "dateModified": "2026-01-05T23:09:39.000Z",
+  "version": "v",
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "code",
+    "astro",
+    "line",
+    "ufgicomt",
+    "depth",
+    "href",
+    "indent"
+  ]
+}

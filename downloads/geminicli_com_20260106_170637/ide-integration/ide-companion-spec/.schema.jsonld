@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://geminicli.com/docs/ide-integration/ide-companion-spec/",
+  "name": "Gemini CLI companion plugin: Interface specification | Gemini CLI",
+  "description": "This document defines the contract for building a companion plugin to enable\nGemini CLI\u2019s IDE mode. For VS Code, these features (native diffing, context\nawareness) are provided by the official extensi...",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Start the MCP server."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Create the discovery file."
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "class",
+    "span",
+    "astro",
+    "style",
+    "code",
+    "href",
+    "strong",
+    "aria",
+    "depth",
+    "auto"
+  ]
+}

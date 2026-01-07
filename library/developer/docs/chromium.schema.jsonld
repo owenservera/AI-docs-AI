@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://developer.chrome.com/docs/chromium",
+  "name": "Chromium \u00a0|\u00a0 Chrome for Developers",
+  "description": "Find resources on the Chromium project.",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "metadata",
+    "chrome",
+    "docs",
+    "https",
+    "item",
+    "href",
+    "data"
+  ]
+}

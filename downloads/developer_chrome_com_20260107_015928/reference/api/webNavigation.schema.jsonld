@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/docs/extensions/reference/api/webNavigation",
+  "name": "chrome.webNavigation \u00a0|\u00a0 API \u00a0|\u00a0 Chrome for Developers",
+  "description": "DescriptionUse thechrome.webNavigationAPI to receive notifications about the status of navigation requests in-flight.",
+  "keywords": [
+    "class",
+    "devsite",
+    "span",
+    "code",
+    "track",
+    "docs",
+    "type",
+    "data",
+    "extensions",
+    "reference"
+  ]
+}

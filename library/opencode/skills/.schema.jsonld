@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://opencode.ai/docs/skills/",
+  "name": "Agent Skills | OpenCode",
+  "description": "Define reusable behavior via SKILL.md definitions",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "VerifySKILL.mdis spelled in all caps"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Check that frontmatter includesnameanddescription"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Ensure skill names are unique across all locations"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Check permissions\u2014skills withdenyare hidden from agents"
+    }
+  ],
+  "dateModified": "2026-01-05T23:09:39.000Z",
+  "version": "v",
+  "keywords": [
+    "class",
+    "span",
+    "astro",
+    "style",
+    "code",
+    "wiagppvi",
+    "href",
+    "color",
+    "line",
+    "ufgicomt"
+  ]
+}

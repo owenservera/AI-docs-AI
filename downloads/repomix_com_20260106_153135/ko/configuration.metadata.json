@@ -1,0 +1,84 @@
+{
+  "url": "https://repomix.com/ko/guide/configuration",
+  "title": "\uc124\uc815 | Repomix",
+  "description": "\ucf54\ub4dc\ubca0\uc774\uc2a4\ub97c AI \uce5c\ud654\uc801\uc778 \ud615\uc2dd\uc73c\ub85c \ud328\ud0a4\uc9d5",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "typescript",
+      "java",
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "py",
+      "git",
+      "json",
+      "push",
+      "cjs",
+      "svg",
+      "lean",
+      "css",
+      "cts",
+      "mjs"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 3515,
+  "code_blocks_count": 185,
+  "heading_count": 22,
+  "link_count": 93,
+  "image_count": 1,
+  "keywords": [
+    "span",
+    "shiki",
+    "class",
+    "data",
+    "code",
+    "dark",
+    "light",
+    "style",
+    "quot",
+    "line",
+    "link",
+    "href",
+    "repomix",
+    "button",
+    "vplink",
+    "guide",
+    "aria",
+    "github",
+    "strong",
+    "tabindex"
+  ],
+  "reading_time": 18,
+  "complexity_score": 5.5,
+  "metadata_generated": "2026-01-06T15:35:22.440558"
+}

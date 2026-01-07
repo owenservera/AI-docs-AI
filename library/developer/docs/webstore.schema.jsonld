@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/docs/webstore",
+  "name": "Chrome Web Store \u00a0|\u00a0 Chrome Extensions \u00a0|\u00a0 Chrome for Developers",
+  "description": "",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "chrome",
+    "item",
+    "metadata",
+    "data",
+    "docs",
+    "https",
+    "landing"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "url": "https://code.claude.com/docs/en/third-party-integrations",
+  "title": "Enterprise deployment overview - Claude Code Docs",
+  "description": "Learn how Claude Code can integrate with various third-party services and infrastructure to meet enterprise deployment requirements.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "react"
+    ],
+    "language": [
+      "python",
+      "javascript",
+      "typescript",
+      "java",
+      "go",
+      "rust",
+      "c++"
+    ],
+    "cloud": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "tool": [
+      "git",
+      "webpack"
+    ],
+    "platform": [
+      "macos",
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "langDir",
+      "docsClaudeCodeDest",
+      "function",
+      "e",
+      "c",
+      "d",
+      "getItem",
+      "i",
+      "for",
+      "docsClaudeCodeSrc",
+      "_components",
+      "entries",
+      "languageDirs",
+      "langCode",
+      "ignoreList",
+      "setAttribute",
+      "if",
+      "link",
+      "a",
+      "getElementById",
+      "key",
+      "f"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "1624",
+      "096",
+      "413",
+      "9624",
+      "push",
+      "3C10",
+      "json",
+      "5719",
+      "0125",
+      "6974"
+    ],
+    "command_names": [
+      "bg-background-dark -z-10 pointer",
+      "whitespace-nowrap -translate-x-1",
+      "pb-4 -mt-10 pt"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 30079,
+  "code_blocks_count": 27,
+  "heading_count": 30,
+  "link_count": 112,
+  "image_count": 5,
+  "keywords": [
+    "dark",
+    "claude",
+    "code",
+    "href",
+    "children",
+    "text",
+    "static",
+    "span",
+    "chunks",
+    "gray",
+    "title",
+    "class",
+    "group",
+    "description",
+    "color",
+    "style",
+    "hover",
+    "shiki",
+    "font",
+    "flex"
+  ],
+  "reading_time": 150,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-06T15:41:37.495826"
+}

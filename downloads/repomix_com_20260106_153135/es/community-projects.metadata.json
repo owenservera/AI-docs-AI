@@ -1,0 +1,79 @@
+{
+  "url": "https://repomix.com/es/guide/community-projects",
+  "title": "Proyectos de la Comunidad | Repomix",
+  "description": "Empaqueta tu c\u00f3digo en formatos amigables para IA",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "python",
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "push",
+      "com",
+      "mdc",
+      "lean",
+      "css",
+      "svg",
+      "js",
+      "gg"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 1595,
+  "code_blocks_count": 0,
+  "heading_count": 13,
+  "link_count": 77,
+  "image_count": 1,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "vplink",
+    "guide",
+    "repomix",
+    "aria",
+    "button",
+    "text",
+    "projects",
+    "item",
+    "label",
+    "level",
+    "content",
+    "community",
+    "vpsidebaritem",
+    "indicator",
+    "vpmenulink"
+  ],
+  "reading_time": 8,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-06T15:34:39.232682"
+}

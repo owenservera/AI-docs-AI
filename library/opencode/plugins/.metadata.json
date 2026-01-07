@@ -1,0 +1,97 @@
+{
+  "url": "https://opencode.ai/docs/plugins/",
+  "title": "Plugins | OpenCode",
+  "description": "Write your own plugins to extend OpenCode.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "javascript",
+      "typescript",
+      "java",
+      "go"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "macos",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "t",
+      "newIcon",
+      "SidebarRestore",
+      "replaceChildren",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "94",
+      "26",
+      "app",
+      "36l",
+      "16",
+      "68",
+      "env",
+      "4177",
+      "4696",
+      "66l"
+    ],
+    "command_names": [
+      "osascript -e &#x27;display notification &#x22;Session completed!&#x22; with title &#x22;opencode&#x22;&#x27;&#x60;\u007f      }\u007f    },\u007f  }\u007f}\"><div></div></button></div></figure></div>",
+      "osascript -e 'display notification \"Session completed!\" with title \"opencode\"'`</span></div></div><div class=\"ec"
+    ]
+  },
+  "version": "v",
+  "last_updated": "2026-01-05T23:09:39.000Z",
+  "word_count": 5943,
+  "code_blocks_count": 80,
+  "heading_count": 29,
+  "link_count": 111,
+  "image_count": 2,
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "astro",
+    "code",
+    "line",
+    "wiagppvi",
+    "href",
+    "ufgicomt",
+    "depth",
+    "color",
+    "plugin",
+    "aria",
+    "auto",
+    "badge",
+    "indent",
+    "opencode",
+    "docs",
+    "data",
+    "events"
+  ],
+  "reading_time": 30,
+  "complexity_score": 5.4,
+  "metadata_generated": "2026-01-06T16:47:22.281761"
+}

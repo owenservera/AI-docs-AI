@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://repomix.com/zh-tw/guide/github-actions",
+  "name": "\u5728 GitHub Actions \u4e2d\u4f7f\u7528 Repomix | Repomix",
+  "description": "\u5c07\u7a0b\u5f0f\u78bc\u5eab\u6253\u5305\u6210AI\u53cb\u597d\u7684\u683c\u5f0f",
+  "dateModified": "2026-01-04T13:42:35.000Z",
+  "version": "v",
+  "keywords": [
+    "span",
+    "data",
+    "class",
+    "shiki",
+    "style",
+    "dark",
+    "light",
+    "link",
+    "href",
+    "code"
+  ]
+}

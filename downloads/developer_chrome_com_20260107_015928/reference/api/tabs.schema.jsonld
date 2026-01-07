@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/docs/extensions/reference/api/tabs",
+  "name": "chrome.tabs \u00a0|\u00a0 API \u00a0|\u00a0 Chrome for Developers",
+  "description": "DescriptionUse thechrome.tabsAPI to interact with the browser's tab system. You can use this API to create, modify, and rearrange tabs in the browser.",
+  "keywords": [
+    "class",
+    "span",
+    "devsite",
+    "syntax",
+    "code",
+    "track",
+    "type",
+    "data",
+    "docs",
+    "chrome"
+  ]
+}

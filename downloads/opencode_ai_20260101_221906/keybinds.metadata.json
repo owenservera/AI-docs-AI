@@ -1,0 +1,90 @@
+{
+  "url": "https://opencode.ai/docs/keybinds",
+  "title": "Keybinds | OpenCode",
+  "description": "Customize your keybinds.",
+  "content_type": "conceptual",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "tmpl",
+      "openBtn",
+      "getItem",
+      "replaceChildren",
+      "matchMedia",
+      "shortcut",
+      "forEach",
+      "querySelectorAll",
+      "querySelector",
+      "storedTheme",
+      "updatePickers",
+      "newIcon",
+      "theme",
+      "SidebarRestore",
+      "select",
+      "oldIcon",
+      "t",
+      "s",
+      "platformKey"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "mdx",
+      "31",
+      "64",
+      "17",
+      "18a4",
+      "33c",
+      "54a1",
+      "16",
+      "03",
+      "83"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2025-12-31T16:54:01.000Z",
+  "word_count": 4261,
+  "code_blocks_count": 33,
+  "heading_count": 7,
+  "link_count": 61,
+  "image_count": 2,
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "astro",
+    "code",
+    "wiagppvi",
+    "line",
+    "indent",
+    "color",
+    "ctrl",
+    "badge",
+    "aria",
+    "href",
+    "docs",
+    "shift",
+    "leader",
+    "ufgicomt",
+    "depth",
+    "hidden",
+    "size"
+  ],
+  "reading_time": 21,
+  "complexity_score": 4.9,
+  "metadata_generated": "2026-01-01T22:20:17.892504"
+}

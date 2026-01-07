@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://repomix.com/ko/guide/sponsors",
+  "name": "\ud6c4\uc6d0\uc790 | Repomix",
+  "description": "Repomix \uac1c\ubc1c\uc744 \uc9c0\uc6d0\ud558\uace0 \ub180\ub77c\uc6b4 \ud6c4\uc6d0\uc790\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694",
+  "dateModified": "2026-01-04T13:42:35.000Z",
+  "version": "v",
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "vplink",
+    "guide",
+    "aria",
+    "button",
+    "sponsors"
+  ]
+}

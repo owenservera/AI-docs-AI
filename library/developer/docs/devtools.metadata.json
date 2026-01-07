@@ -1,0 +1,78 @@
+{
+  "url": "https://developer.chrome.com/docs/devtools",
+  "title": "Chrome DevTools \u00a0|\u00a0 Chrome for Developers",
+  "description": "Debug and optimize your web applications with Chrome DevTools.",
+  "content_type": "conceptual",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "java",
+      "go",
+      "rust"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "ios",
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "url",
+      "function",
+      "getElementsByTagName",
+      "insertBefore",
+      "createElement",
+      "you"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "apps",
+      "35",
+      "825",
+      "3917",
+      "9C20",
+      "web",
+      "7C7",
+      "8C15",
+      "5167",
+      "8583"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 8429,
+  "code_blocks_count": 0,
+  "heading_count": 46,
+  "link_count": 216,
+  "image_count": 12,
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "item",
+    "metadata",
+    "chrome",
+    "docs",
+    "https",
+    "devtools",
+    "developer",
+    "landing",
+    "data",
+    "href",
+    "span",
+    "position",
+    "type",
+    "tooltip",
+    "title",
+    "eventdetail",
+    "label"
+  ],
+  "reading_time": 42,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-07T01:59:55.300269"
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://developer.chrome.com/docs/extensions/develop/concepts/content-scripts",
+  "title": "Content scripts \u00a0|\u00a0 Chrome for Developers",
+  "description": "An explanation of content scripts and how to use them in your Chrome Extension.",
+  "content_type": "reference",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "java",
+      "go"
+    ],
+    "database": [
+      "oracle"
+    ],
+    "platform": [
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "addEventListener",
+      "alert",
+      "url",
+      "getURL",
+      "fetch",
+      "getElementById",
+      "executeScript",
+      "getManifest",
+      "connect",
+      "sendMessage"
+    ],
+    "api_endpoints": [
+      "/api/storage",
+      "/api/i18n",
+      "/api/runtime",
+      "/api/dom"
+    ],
+    "file_extensions": [
+      "apps",
+      "825",
+      "5C21",
+      "net",
+      "web",
+      "55",
+      "8C15",
+      "2333",
+      "175",
+      "9C6"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 10015,
+  "code_blocks_count": 167,
+  "heading_count": 18,
+  "link_count": 210,
+  "image_count": 2,
+  "keywords": [
+    "span",
+    "devsite",
+    "class",
+    "syntax",
+    "track",
+    "docs",
+    "code",
+    "data",
+    "metadata",
+    "href",
+    "extensions",
+    "chrome",
+    "https",
+    "develop",
+    "label",
+    "item",
+    "content",
+    "type",
+    "translate",
+    "developer"
+  ],
+  "reading_time": 50,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-07T02:01:16.807800"
+}

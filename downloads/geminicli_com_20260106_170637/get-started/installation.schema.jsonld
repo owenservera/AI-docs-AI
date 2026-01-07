@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://geminicli.com/docs/get-started/installation",
+  "name": "Gemini CLI installation, execution, and deployment | Gemini CLI",
+  "description": "Install and run Gemini CLI. This document provides an overview of Gemini CLI\u2019s\ninstallation methods and deployment architecture.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Build the NPM packages usingtsc."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Publish the NPM packages to the artifact registry."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Create GitHub releases with bundled assets."
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "class",
+    "astro",
+    "span",
+    "style",
+    "href",
+    "aria",
+    "gemini",
+    "code",
+    "docs",
+    "current"
+  ]
+}

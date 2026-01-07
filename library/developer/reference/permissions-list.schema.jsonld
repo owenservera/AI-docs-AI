@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/docs/extensions/reference/permissions-list",
+  "name": "Permissions \u00a0|\u00a0 Chrome for Developers",
+  "description": "A list of permissions and user warnings available on the extensions platform.",
+  "keywords": [
+    "devsite",
+    "track",
+    "class",
+    "code",
+    "chrome",
+    "docs",
+    "metadata",
+    "href",
+    "data",
+    "https"
+  ]
+}

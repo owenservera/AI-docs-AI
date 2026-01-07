@@ -1,0 +1,94 @@
+{
+  "url": "https://opencode.ai/docs/config",
+  "title": "Config | OpenCode",
+  "description": "Using the OpenCode JSON config.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "react",
+      "express"
+    ],
+    "language": [
+      "typescript",
+      "go"
+    ],
+    "tool": [
+      "git",
+      "npm",
+      "prettier"
+    ],
+    "platform": [
+      "macos",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "tmpl",
+      "openBtn",
+      "getItem",
+      "replaceChildren",
+      "matchMedia",
+      "shortcut",
+      "forEach",
+      "querySelectorAll",
+      "querySelector",
+      "storedTheme",
+      "updatePickers",
+      "newIcon",
+      "theme",
+      "SidebarRestore",
+      "select",
+      "oldIcon",
+      "t",
+      "s",
+      "platformKey"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "64",
+      "17a1",
+      "5547",
+      "4716",
+      "8523",
+      "4696",
+      "16",
+      "1439",
+      "84",
+      "png"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2025-12-31T16:54:01.000Z",
+  "word_count": 8355,
+  "code_blocks_count": 145,
+  "heading_count": 33,
+  "link_count": 157,
+  "image_count": 2,
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "code",
+    "astro",
+    "ufgicomt",
+    "depth",
+    "line",
+    "href",
+    "indent",
+    "opencode",
+    "wiagppvi",
+    "json",
+    "auto",
+    "data",
+    "config",
+    "title",
+    "aria",
+    "color",
+    "button"
+  ],
+  "reading_time": 42,
+  "complexity_score": 5.4,
+  "metadata_generated": "2026-01-01T22:20:23.462556"
+}

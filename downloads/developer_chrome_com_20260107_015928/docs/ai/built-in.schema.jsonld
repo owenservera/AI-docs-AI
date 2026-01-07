@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://developer.chrome.com/docs/ai/built-in",
+  "name": "Built-in AI \u00a0|\u00a0 AI on Chrome \u00a0|\u00a0 Chrome for Developers",
+  "description": "Built-in AI brings powerful models client-side, so you can offer AI features to users, while protecting sensitive data and improving latency.",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "docs",
+    "data",
+    "metadata",
+    "span",
+    "href",
+    "chrome",
+    "https"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://geminicli.com/docs/hooks/writing-hooks",
+  "name": "Writing hooks for Gemini CLI | Gemini CLI",
+  "description": "This guide will walk you through creating hooks for Gemini CLI, from a simple\nlogging hook to a comprehensive workflow assistant that demonstrates all hook\nevents working together.",
+  "version": "v",
+  "keywords": [
+    "span",
+    "style",
+    "class",
+    "code",
+    "line",
+    "astro",
+    "indent",
+    "const",
+    "href",
+    "depth"
+  ]
+}

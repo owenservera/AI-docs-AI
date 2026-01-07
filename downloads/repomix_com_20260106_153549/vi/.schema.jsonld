@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://repomix.com/vi/guide/",
+  "name": "B\u1eaft \u0111\u1ea7u v\u1edbi Repomix | Repomix",
+  "description": "\u0110\u00f3ng g\u00f3i codebase c\u1ee7a b\u1ea1n th\u00e0nh c\u00e1c \u0111\u1ecbnh d\u1ea1ng th\u00e2n thi\u1ec7n v\u1edbi AI",
+  "dateModified": "2026-01-04T13:42:35.000Z",
+  "version": "v",
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "repomix",
+    "vplink",
+    "guide",
+    "aria",
+    "button"
+  ]
+}

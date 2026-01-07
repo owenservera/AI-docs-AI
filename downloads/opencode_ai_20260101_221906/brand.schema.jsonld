@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://opencode.ai/brand",
+  "name": "OpenCode | Brand",
+  "description": "OpenCode - The open source coding agent.",
+  "version": "13.958",
+  "keywords": [
+    "font",
+    "data",
+    "assets",
+    "stroke",
+    "href",
+    "width",
+    "path",
+    "button",
+    "link",
+    "style"
+  ]
+}

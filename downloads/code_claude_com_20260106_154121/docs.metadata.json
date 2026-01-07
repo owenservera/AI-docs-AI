@@ -1,0 +1,113 @@
+{
+  "url": "https://code.claude.com/docs",
+  "title": "Claude Code overview - Claude Code Docs",
+  "description": "Learn about Claude Code, Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code faster than ever before.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "react"
+    ],
+    "language": [
+      "python",
+      "javascript",
+      "typescript",
+      "java",
+      "go",
+      "rust",
+      "c++"
+    ],
+    "cloud": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "tool": [
+      "git",
+      "npm",
+      "webpack"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "langDir",
+      "docsClaudeCodeDest",
+      "function",
+      "e",
+      "c",
+      "d",
+      "getItem",
+      "i",
+      "for",
+      "docsClaudeCodeSrc",
+      "_components",
+      "entries",
+      "languageDirs",
+      "langCode",
+      "ignoreList",
+      "setAttribute",
+      "if",
+      "link",
+      "a",
+      "getElementById",
+      "key",
+      "f"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "1624",
+      "413",
+      "9624",
+      "push",
+      "5719",
+      "0125",
+      "json",
+      "ant",
+      "06",
+      "4812"
+    ],
+    "command_names": [
+      "bg-background-dark -z-10 pointer",
+      "whitespace-nowrap -translate-x-1",
+      "pb-4 -mt-10 pt"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 24794,
+  "code_blocks_count": 14,
+  "heading_count": 20,
+  "link_count": 84,
+  "image_count": 5,
+  "keywords": [
+    "claude",
+    "code",
+    "dark",
+    "href",
+    "text",
+    "static",
+    "chunks",
+    "title",
+    "gray",
+    "description",
+    "class",
+    "group",
+    "children",
+    "font",
+    "hover",
+    "color",
+    "groups",
+    "pages",
+    "span",
+    "https"
+  ],
+  "reading_time": 124,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-06T15:41:31.357023"
+}

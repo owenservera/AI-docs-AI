@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://opencode.ai/docs",
+  "name": "Intro | OpenCode",
+  "description": "Get started with OpenCode.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "A modern terminal emulator like:WezTerm, cross-platformAlacritty, cross-platformGhostty, Linux and macOSKitty, Linux and macOS"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "WezTerm, cross-platform"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Alacritty, cross-platform"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Ghostty, Linux and macOS"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Kitty, Linux and macOS"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "API keys for the LLM providers you want to use."
+    }
+  ],
+  "dateModified": "2025-12-31T16:54:01.000Z",
+  "version": "v",
+  "keywords": [
+    "class",
+    "span",
+    "astro",
+    "style",
+    "code",
+    "wiagppvi",
+    "data",
+    "href",
+    "aria",
+    "button"
+  ]
+}

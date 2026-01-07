@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/origintrials/",
+  "name": "Origin Trials",
+  "description": "Chrome origin trials allow developers to safely experiment with web platform features",
+  "keywords": [
+    "scriptelement",
+    "script",
+    "head",
+    "meta",
+    "content",
+    "document",
+    "html",
+    "const",
+    "prefix",
+    "body"
+  ]
+}

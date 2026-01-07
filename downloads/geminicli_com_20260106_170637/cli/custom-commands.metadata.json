@@ -1,0 +1,101 @@
+{
+  "url": "https://geminicli.com/docs/cli/custom-commands",
+  "title": "Custom commands | Gemini CLI",
+  "description": "Custom commands let you save and reuse your favorite or most frequently used\nprompts as personal shortcuts within Gemini CLI. You can create commands that\nare specific to a single project or commands ...",
+  "content_type": "troubleshooting",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go",
+      "rust"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "linux",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "you",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "18a4",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "678",
+      "31",
+      "test"
+    ],
+    "command_names": [
+      "grep -r {{args}} .}</span></div></div><div class=\"ec",
+      "grep -r \"It\\'s complicated\" .</code>.</li>",
+      "diff --staged",
+      "grep -r {{args}} .}\u007f&#x22;&#x22;&#x22;\"><div></div></button></div></figure></div>"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 7285,
+  "code_blocks_count": 88,
+  "heading_count": 13,
+  "link_count": 110,
+  "image_count": 5,
+  "keywords": [
+    "class",
+    "astro",
+    "span",
+    "code",
+    "style",
+    "href",
+    "aria",
+    "auto",
+    "line",
+    "depth",
+    "docs",
+    "current",
+    "strong",
+    "false",
+    "commands",
+    "path",
+    "hidden",
+    "command",
+    "file",
+    "data"
+  ],
+  "reading_time": 36,
+  "complexity_score": 5.4,
+  "metadata_generated": "2026-01-06T17:09:19.549684"
+}

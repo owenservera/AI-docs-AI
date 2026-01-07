@@ -1,0 +1,80 @@
+{
+  "url": "https://repomix.com/ko/guide/installation",
+  "title": "\uc124\uce58 | Repomix",
+  "description": "\ucf54\ub4dc\ubca0\uc774\uc2a4\ub97c AI \uce5c\ud654\uc801\uc778 \ud615\uc2dd\uc73c\ub85c \ud328\ud0a4\uc9d5",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "gcp",
+      "docker"
+    ],
+    "tool": [
+      "git",
+      "npm",
+      "yarn"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "json",
+      "push",
+      "com",
+      "lean",
+      "css",
+      "svg",
+      "js",
+      "gg"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 1736,
+  "code_blocks_count": 16,
+  "heading_count": 14,
+  "link_count": 76,
+  "image_count": 2,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "shiki",
+    "link",
+    "href",
+    "dark",
+    "light",
+    "style",
+    "vplink",
+    "guide",
+    "button",
+    "repomix",
+    "aria",
+    "label",
+    "code",
+    "text",
+    "item",
+    "github",
+    "level"
+  ],
+  "reading_time": 9,
+  "complexity_score": 5.1,
+  "metadata_generated": "2026-01-06T15:35:13.889690"
+}

@@ -1,0 +1,108 @@
+{
+  "url": "https://code.claude.com/docs/en/cli-reference",
+  "title": "CLI reference - Claude Code Docs",
+  "description": "Complete reference for Claude Code command-line interface, including commands and flags.",
+  "content_type": "conceptual",
+  "taxonomies": {
+    "framework": [
+      "react"
+    ],
+    "language": [
+      "python",
+      "javascript",
+      "typescript",
+      "java",
+      "go",
+      "rust",
+      "c++"
+    ],
+    "cloud": [
+      "azure"
+    ],
+    "tool": [
+      "git",
+      "webpack"
+    ],
+    "platform": [
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "langDir",
+      "docsClaudeCodeDest",
+      "function",
+      "e",
+      "c",
+      "d",
+      "getItem",
+      "i",
+      "for",
+      "docsClaudeCodeSrc",
+      "_components",
+      "entries",
+      "languageDirs",
+      "langCode",
+      "ignoreList",
+      "setAttribute",
+      "if",
+      "link",
+      "a",
+      "getElementById",
+      "key",
+      "f"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "1624",
+      "096",
+      "413",
+      "9624",
+      "push",
+      "3C10",
+      "json",
+      "5719",
+      "0125",
+      "6974"
+    ],
+    "command_names": [
+      "bg-background-dark -z-10 pointer",
+      "pb-4 -mt-10 pt",
+      "claude -p &quot;query&quot;</code></td><td style=\"text",
+      "claude -p &quot;explain this function&quot;</code></td></tr><tr><td style=\"text"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 29774,
+  "code_blocks_count": 148,
+  "heading_count": 7,
+  "link_count": 71,
+  "image_count": 5,
+  "keywords": [
+    "code",
+    "claude",
+    "children",
+    "href",
+    "text",
+    "style",
+    "static",
+    "chunks",
+    "left",
+    "dark",
+    "description",
+    "title",
+    "group",
+    "gray",
+    "class",
+    "textalign",
+    "font",
+    "color",
+    "groups",
+    "pages"
+  ],
+  "reading_time": 149,
+  "complexity_score": 4.4,
+  "metadata_generated": "2026-01-06T15:41:44.834512"
+}

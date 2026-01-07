@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/docs/webstore/publish",
+  "name": "Publish in the Chrome Web Store \u00a0|\u00a0 Chrome Extensions \u00a0|\u00a0 Chrome for Developers",
+  "description": "How to publish a new extension or theme to the Chrome Web Store.",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "docs",
+    "chrome",
+    "metadata",
+    "data",
+    "webstore",
+    "span",
+    "https"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://geminicli.com/docs/ide-integration",
+  "name": "IDE integration | Gemini CLI",
+  "description": "Gemini CLI can integrate with your IDE to provide a more seamless and\ncontext-aware experience. This integration allows the CLI to understand your\nworkspace better and enables powerful features like n...",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Make sure you have installed theGemini CLI Companionextension in\nyour IDE and that it is enabled."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Open a new terminal window in your IDE to ensure it picks up the correct\nenvironment."
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "class",
+    "astro",
+    "span",
+    "style",
+    "href",
+    "aria",
+    "depth",
+    "code",
+    "strong",
+    "docs"
+  ]
+}

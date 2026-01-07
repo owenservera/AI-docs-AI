@@ -1,0 +1,85 @@
+{
+  "url": "https://repomix.com/ja/guide/output",
+  "title": "\u51fa\u529b\u30d5\u30a9\u30fc\u30de\u30c3\u30c8 | Repomix",
+  "description": "\u30b3\u30fc\u30c9\u30d9\u30fc\u30b9\u3092AI\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc\u306a\u5f62\u5f0f\u306b\u30d1\u30c3\u30b1\u30fc\u30b8\u30f3\u30b0",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "framework": [
+      "react"
+    ],
+    "language": [
+      "typescript",
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia",
+      "feat"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "json",
+      "push",
+      "com",
+      "ts",
+      "yml",
+      "lean",
+      "css",
+      "key"
+    ],
+    "command_names": [
+      "Add --include-logs option for git commit history</span></span>",
+      "Add --include-logs option for git commit history&lt;/</span><span style=\""
+    ]
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 2540,
+  "code_blocks_count": 29,
+  "heading_count": 18,
+  "link_count": 80,
+  "image_count": 1,
+  "keywords": [
+    "span",
+    "shiki",
+    "class",
+    "data",
+    "dark",
+    "light",
+    "style",
+    "line",
+    "link",
+    "quot",
+    "href",
+    "button",
+    "code",
+    "vplink",
+    "guide",
+    "output",
+    "aria",
+    "repomix",
+    "github",
+    "tabindex"
+  ],
+  "reading_time": 13,
+  "complexity_score": 5.7,
+  "metadata_generated": "2026-01-06T15:33:49.662137"
+}

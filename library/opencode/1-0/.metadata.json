@@ -1,0 +1,92 @@
+{
+  "url": "https://opencode.ai/docs/1-0/",
+  "title": "Migrating to 1.0 | OpenCode",
+  "description": "What's new in OpenCode 1.0.",
+  "content_type": "conceptual",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ],
+    "version": [
+      "1.0"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "t",
+      "newIcon",
+      "SidebarRestore",
+      "replaceChildren",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "94",
+      "26",
+      "16",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "31",
+      "66l"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-05T23:09:39.000Z",
+  "word_count": 3142,
+  "code_blocks_count": 4,
+  "heading_count": 7,
+  "link_count": 61,
+  "image_count": 2,
+  "keywords": [
+    "astro",
+    "class",
+    "span",
+    "wiagppvi",
+    "style",
+    "color",
+    "badge",
+    "aria",
+    "href",
+    "docs",
+    "ufgicomt",
+    "depth",
+    "hidden",
+    "size",
+    "where",
+    "current",
+    "width",
+    "text",
+    "false",
+    "height"
+  ],
+  "reading_time": 16,
+  "complexity_score": 4.4,
+  "metadata_generated": "2026-01-06T16:46:46.561396"
+}

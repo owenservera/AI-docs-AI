@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "url": "https://developer.chrome.com/docs/extensions/develop/concepts/extensions-update-lifecycle",
+  "name": "The Chrome Extension update lifecycle \u00a0|\u00a0 Chrome Extensions \u00a0|\u00a0 Chrome for Developers",
+  "description": "How permission warnings work in Chrome extensions.",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "chrome",
+    "metadata",
+    "docs",
+    "https",
+    "href",
+    "data",
+    "extensions"
+  ]
+}

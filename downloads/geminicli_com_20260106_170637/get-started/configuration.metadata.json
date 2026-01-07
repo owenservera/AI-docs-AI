@@ -1,0 +1,112 @@
+{
+  "url": "https://geminicli.com/docs/get-started/configuration",
+  "title": "Gemini CLI configuration | Gemini CLI",
+  "description": "Note on configuration format, 9/17/25:The format of thesettings.jsonfile has been updated to a new, more organized structure.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "typescript",
+      "go",
+      "rust"
+    ],
+    "cloud": [
+      "aws",
+      "gcp",
+      "docker"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "members",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [
+      "/api/client"
+    ],
+    "file_extensions": [
+      "py",
+      "26",
+      "env",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "678",
+      "31"
+    ],
+    "command_names": [
+      "gemini --approval-mode auto_edit</code></li>",
+      "gemini -e my",
+      "gemini -i \"explain this code\"</code></li>",
+      "gemini -e none</code> to disable all extensions.</li>",
+      "gemini --allowed-tools \"ShellTool(git status)\"</code></li>"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 16800,
+  "code_blocks_count": 547,
+  "heading_count": 33,
+  "link_count": 143,
+  "image_count": 5,
+  "keywords": [
+    "span",
+    "class",
+    "code",
+    "strong",
+    "style",
+    "auto",
+    "astro",
+    "line",
+    "indent",
+    "gemini",
+    "href",
+    "default",
+    "aria",
+    "description",
+    "path",
+    "false",
+    "true",
+    "depth",
+    "context",
+    "model"
+  ],
+  "reading_time": 84,
+  "complexity_score": 5.5,
+  "metadata_generated": "2026-01-06T17:09:08.573151"
+}

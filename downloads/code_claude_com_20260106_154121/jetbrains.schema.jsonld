@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://code.claude.com/docs/en/jetbrains",
+  "name": "JetBrains IDEs - Claude Code Docs",
+  "description": "Use Claude Code with JetBrains IDEs including IntelliJ, PyCharm, WebStorm, and more",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Runclaude"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Enter the/configcommand"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Set the diff tool toautofor automatic IDE detection"
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "claude",
+    "code",
+    "href",
+    "static",
+    "chunks",
+    "dark",
+    "text",
+    "title",
+    "description",
+    "gray"
+  ]
+}

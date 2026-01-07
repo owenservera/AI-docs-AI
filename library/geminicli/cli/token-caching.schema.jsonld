@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://geminicli.com/docs/cli/token-caching",
+  "name": "Token caching and cost optimization | Gemini CLI",
+  "description": "Gemini CLI automatically optimizes API costs through token caching when using\nAPI key authentication (Gemini API key or Vertex AI). This feature reuses\nprevious system instructions and context to redu...",
+  "version": "v",
+  "keywords": [
+    "astro",
+    "class",
+    "span",
+    "aria",
+    "href",
+    "docs",
+    "current",
+    "false",
+    "style",
+    "hidden"
+  ]
+}

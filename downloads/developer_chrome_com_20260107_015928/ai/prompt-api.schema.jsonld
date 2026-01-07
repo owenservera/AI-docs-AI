@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/docs/extensions/ai/prompt-api",
+  "name": "The Prompt API \u00a0|\u00a0 AI on Chrome \u00a0|\u00a0 Chrome for Developers",
+  "description": "Discover the infinite possibilities of the Prompt API.",
+  "version": "171.3",
+  "keywords": [
+    "span",
+    "devsite",
+    "class",
+    "syntax",
+    "track",
+    "docs",
+    "data",
+    "metadata",
+    "code",
+    "href"
+  ]
+}

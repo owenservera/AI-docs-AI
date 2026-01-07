@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://repomix.com/guide/sponsors",
+  "name": "Sponsors | Repomix",
+  "description": "Support Repomix development and meet our amazing sponsors",
+  "dateModified": "2026-01-04T13:42:35.000Z",
+  "version": "v",
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "vplink",
+    "guide",
+    "sponsors",
+    "aria",
+    "button"
+  ]
+}

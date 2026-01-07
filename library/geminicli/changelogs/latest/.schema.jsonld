@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://geminicli.com/docs/changelogs/latest/",
+  "name": "Latest stable release: v0.21.0 - v0.21.1 | Gemini CLI",
+  "description": "For most users, our latest stable release is the recommended release. Install\nthe latest stable version with:",
+  "version": "v",
+  "keywords": [
+    "gemini",
+    "astro",
+    "class",
+    "https",
+    "google",
+    "span",
+    "github",
+    "pull",
+    "href",
+    "aria"
+  ]
+}

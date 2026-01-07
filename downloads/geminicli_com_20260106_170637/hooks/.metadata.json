@@ -1,0 +1,96 @@
+{
+  "url": "https://geminicli.com/docs/hooks/",
+  "title": "Gemini CLI hooks | Gemini CLI",
+  "description": "Hooks are scripts or programs that Gemini CLI executes at specific points in the\nagentic loop, allowing you to intercept and customize behavior without modifying\nthe CLI\u2019s source code.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go",
+      "rust"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "env",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "sh",
+      "31",
+      "test"
+    ],
+    "command_names": [
+      "migrate --from-claude"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 12835,
+  "code_blocks_count": 184,
+  "heading_count": 49,
+  "link_count": 183,
+  "image_count": 5,
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "code",
+    "astro",
+    "line",
+    "href",
+    "depth",
+    "indent",
+    "aria",
+    "auto",
+    "path",
+    "strong",
+    "data",
+    "hooks",
+    "anchor",
+    "hidden",
+    "button",
+    "width",
+    "icon"
+  ],
+  "reading_time": 64,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-06T17:08:25.972345"
+}

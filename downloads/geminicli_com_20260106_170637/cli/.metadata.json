@@ -1,0 +1,96 @@
+{
+  "url": "https://geminicli.com/docs/cli/",
+  "title": "Gemini CLI | Gemini CLI",
+  "description": "Within Gemini CLI,packages/cliis the frontend for users to send and receive\nprompts with the Gemini AI model and its associated tools. For a general\noverview of Gemini CLI, see themain documentation p...",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go",
+      "rust"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "18a4",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "678",
+      "31",
+      "test"
+    ],
+    "command_names": [
+      "gemini -p &#x22;What is fine tuning?&#x22;\"><div></div></button></div></figure></div>"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 4093,
+  "code_blocks_count": 8,
+  "heading_count": 5,
+  "link_count": 104,
+  "image_count": 5,
+  "keywords": [
+    "class",
+    "astro",
+    "span",
+    "href",
+    "aria",
+    "docs",
+    "style",
+    "current",
+    "false",
+    "hidden",
+    "width",
+    "script",
+    "icon",
+    "sidebar",
+    "strong",
+    "true",
+    "const",
+    "height",
+    "gemini",
+    "data"
+  ],
+  "reading_time": 20,
+  "complexity_score": 4.0,
+  "metadata_generated": "2026-01-06T17:07:17.140500"
+}

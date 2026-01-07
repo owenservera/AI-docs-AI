@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/docs/extensions/reference/manifest",
+  "name": "Manifest file format \u00a0|\u00a0 Chrome for Developers",
+  "description": "An overview of the manifest.json properties of a Chrome Extension.",
+  "keywords": [
+    "devsite",
+    "span",
+    "class",
+    "track",
+    "syntax",
+    "docs",
+    "metadata",
+    "data",
+    "chrome",
+    "href"
+  ]
+}

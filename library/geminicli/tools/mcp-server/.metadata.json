@@ -1,0 +1,107 @@
+{
+  "url": "https://geminicli.com/docs/tools/mcp-server/",
+  "title": "MCP servers with the Gemini CLI | Gemini CLI",
+  "description": "This document provides a guide to configuring and using Model Context Protocol\n(MCP) servers with the Gemini CLI.",
+  "content_type": "troubleshooting",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "python",
+      "typescript",
+      "go",
+      "rust"
+    ],
+    "cloud": [
+      "gcp",
+      "docker"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "the",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "py",
+      "26",
+      "app",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "678",
+      "31"
+    ],
+    "command_names": [
+      "python -m my_mcp_server",
+      "rm -e API_KEY my",
+      "js --verbose",
+      "run -i"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 20376,
+  "code_blocks_count": 230,
+  "heading_count": 83,
+  "link_count": 264,
+  "image_count": 5,
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "astro",
+    "code",
+    "depth",
+    "strong",
+    "href",
+    "server",
+    "line",
+    "path",
+    "auto",
+    "aria",
+    "anchor",
+    "indent",
+    "data",
+    "hidden",
+    "width",
+    "true",
+    "icon"
+  ],
+  "reading_time": 102,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-06T17:08:13.766208"
+}

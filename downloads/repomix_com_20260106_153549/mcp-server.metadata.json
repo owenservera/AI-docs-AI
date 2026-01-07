@@ -1,0 +1,87 @@
+{
+  "url": "https://repomix.com/guide/mcp-server",
+  "title": "MCP Server | Repomix",
+  "description": "Pack your codebase into AI-friendly formats",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "javascript",
+      "typescript",
+      "java",
+      "go"
+    ],
+    "cloud": [
+      "gcp",
+      "docker"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "json",
+      "com",
+      "push",
+      "ts",
+      "txt",
+      "000Z",
+      "lean",
+      "css"
+    ],
+    "command_names": [
+      "grep -A",
+      "grep -B"
+    ]
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 3038,
+  "code_blocks_count": 51,
+  "heading_count": 20,
+  "link_count": 86,
+  "image_count": 3,
+  "keywords": [
+    "span",
+    "class",
+    "data",
+    "shiki",
+    "dark",
+    "quot",
+    "light",
+    "style",
+    "code",
+    "link",
+    "href",
+    "line",
+    "repomix",
+    "button",
+    "server",
+    "guide",
+    "vplink",
+    "aria",
+    "strong",
+    "github"
+  ],
+  "reading_time": 15,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-06T15:36:27.469389"
+}

@@ -1,0 +1,80 @@
+{
+  "url": "https://repomix.com/ja/guide/development/using-repomix-as-a-library",
+  "title": "\u30e9\u30a4\u30d6\u30e9\u30ea\u3068\u3057\u3066\u306e\u4f7f\u7528 | Repomix",
+  "description": "\u30b3\u30fc\u30c9\u30d9\u30fc\u30b9\u3092AI\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc\u306a\u5f62\u5f0f\u306b\u30d1\u30c3\u30b1\u30fc\u30b8\u30f3\u30b0",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "java",
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "path",
+      "push",
+      "com",
+      "ts",
+      "lean",
+      "css",
+      "svg",
+      "js"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 1730,
+  "code_blocks_count": 19,
+  "heading_count": 11,
+  "link_count": 72,
+  "image_count": 1,
+  "keywords": [
+    "span",
+    "data",
+    "class",
+    "shiki",
+    "dark",
+    "style",
+    "light",
+    "link",
+    "href",
+    "repomix",
+    "vplink",
+    "guide",
+    "line",
+    "button",
+    "aria",
+    "code",
+    "text",
+    "library",
+    "item",
+    "content"
+  ],
+  "reading_time": 9,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-06T15:34:06.189133"
+}

@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://repomix.com/hi/",
+  "name": "Repomix | \u0905\u092a\u0928\u0947 \u0915\u094b\u0921\u092c\u0947\u0938 \u0915\u094b AI-\u092b\u094d\u0930\u0947\u0902\u0921\u0932\u0940 \u092b\u0949\u0930\u094d\u092e\u0947\u091f \u092e\u0947\u0902 \u092a\u0948\u0915\u0947\u091c \u0915\u0930\u0947\u0902",
+  "description": "\u0905\u092a\u0928\u0947 \u0915\u094b\u0921\u092c\u0947\u0938 \u0915\u094b AI-\u092b\u094d\u0930\u0947\u0902\u0921\u0932\u0940 \u092b\u0949\u0930\u094d\u092e\u0947\u091f \u092e\u0947\u0902 \u092a\u0948\u0915\u0947\u091c \u0915\u0930\u0947\u0902",
+  "version": "v",
+  "keywords": [
+    "span",
+    "class",
+    "data",
+    "shiki",
+    "dark",
+    "light",
+    "style",
+    "repomix",
+    "href",
+    "button"
+  ]
+}

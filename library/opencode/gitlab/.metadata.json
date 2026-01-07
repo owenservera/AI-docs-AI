@@ -1,0 +1,97 @@
+{
+  "url": "https://opencode.ai/docs/gitlab/",
+  "title": "GitLab | OpenCode",
+  "description": "Use OpenCode in GitLab issues and merge requests.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "java",
+      "go"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "t",
+      "newIcon",
+      "SidebarRestore",
+      "replaceChildren",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "94",
+      "7555",
+      "1174",
+      "26",
+      "3739",
+      "36l",
+      "16",
+      "68",
+      "2473",
+      "66l"
+    ],
+    "command_names": [
+      "curl --silent",
+      "install --yes curl wget gpg git &#x26;&#x26; rm",
+      "install --global opencode",
+      "recursive --force /var/lib/apt/lists/*</span></div></div><div class=\"ec",
+      "update --quiet &#x26;&#x26; apt"
+    ]
+  },
+  "version": "v",
+  "last_updated": "2026-01-05T23:09:39.000Z",
+  "word_count": 5115,
+  "code_blocks_count": 14,
+  "heading_count": 9,
+  "link_count": 72,
+  "image_count": 2,
+  "keywords": [
+    "span",
+    "class",
+    "astro",
+    "style",
+    "wiagppvi",
+    "code",
+    "line",
+    "href",
+    "color",
+    "opencode",
+    "aria",
+    "badge",
+    "indent",
+    "gitlab",
+    "docs",
+    "ufgicomt",
+    "depth",
+    "hidden",
+    "size",
+    "data"
+  ],
+  "reading_time": 26,
+  "complexity_score": 5.2,
+  "metadata_generated": "2026-01-06T16:46:56.784025"
+}

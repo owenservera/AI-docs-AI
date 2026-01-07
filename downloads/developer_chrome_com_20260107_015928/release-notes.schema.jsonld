@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://developer.chrome.com/release-notes",
+  "name": "Release notes \u00a0|\u00a0 Chrome for Developers",
+  "description": "Learn about changes to Chrome that affect developers",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "metadata",
+    "chrome",
+    "https",
+    "href",
+    "data",
+    "item",
+    "docs"
+  ]
+}

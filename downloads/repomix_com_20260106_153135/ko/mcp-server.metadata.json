@@ -1,0 +1,85 @@
+{
+  "url": "https://repomix.com/ko/guide/mcp-server",
+  "title": "MCP \uc11c\ubc84 | Repomix",
+  "description": "\ucf54\ub4dc\ubca0\uc774\uc2a4\ub97c AI \uce5c\ud654\uc801\uc778 \ud615\uc2dd\uc73c\ub85c \ud328\ud0a4\uc9d5",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "typescript",
+      "java",
+      "go"
+    ],
+    "cloud": [
+      "gcp",
+      "docker"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "Cline",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "json",
+      "com",
+      "push",
+      "ts",
+      "txt",
+      "000Z",
+      "lean",
+      "css"
+    ],
+    "command_names": [
+      "grep -A",
+      "grep -B"
+    ]
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 2819,
+  "code_blocks_count": 51,
+  "heading_count": 20,
+  "link_count": 86,
+  "image_count": 3,
+  "keywords": [
+    "span",
+    "class",
+    "data",
+    "shiki",
+    "dark",
+    "quot",
+    "light",
+    "style",
+    "code",
+    "link",
+    "href",
+    "line",
+    "button",
+    "vplink",
+    "guide",
+    "aria",
+    "strong",
+    "repomix",
+    "github",
+    "label"
+  ],
+  "reading_time": 14,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-06T15:35:30.654929"
+}

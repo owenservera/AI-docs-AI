@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://repomix.com/id/guide/",
+  "name": "Memulai dengan Repomix | Repomix",
+  "description": "Kemas basis kode Anda ke dalam format yang ramah AI",
+  "dateModified": "2026-01-04T13:42:35.000Z",
+  "version": "v",
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "repomix",
+    "vplink",
+    "guide",
+    "aria",
+    "button"
+  ]
+}

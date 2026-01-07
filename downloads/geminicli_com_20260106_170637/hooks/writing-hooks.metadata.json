@@ -1,0 +1,105 @@
+{
+  "url": "https://geminicli.com/docs/hooks/writing-hooks",
+  "title": "Writing hooks for Gemini CLI | Gemini CLI",
+  "description": "This guide will walk you through creating hooks for Gemini CLI, from a simple\nlogging hook to a comprehensive workflow assistant that demonstrates all hook\nevents working together.",
+  "content_type": "troubleshooting",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "javascript",
+      "java",
+      "go",
+      "rust"
+    ],
+    "cloud": [
+      "aws"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "env",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "sh",
+      "31",
+      "test"
+    ],
+    "command_names": [
+      "jq -r &#x27;.tool_input.file_path&#x27;)\u007f\u007f# Only test .ts files\u007fif [[ ! &#x22;$file_path&#x22; =~ \\.ts$ ]]; then\u007f  exit 0\u007ffi\u007f\u007f# Find corresponding test file\u007ftest_file=&#x22;${file_path%.ts}.test.ts&#x22;\u007f\u007fif [ !",
+      "jq -r &#x27;.tool_name&#x27;)\u007f\u007f# Log to file\u007fecho &#x22;[$(date)] Tool executed: $tool_name&#x22; >> .gemini/tool",
+      "jq -r &#x27;.tool_input.content // .tool_input.new_string // &#x22;&#x22;&#x27;)\u007f\u007f# Check for secrets\u007fif echo &#x22;$content&#x22; | grep",
+      "jq -r '.tool_name')</span></div></div><div class=\"ec",
+      "mkdir -p .gemini/hooks\u007fcat > .gemini/hooks/log"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 16831,
+  "code_blocks_count": 69,
+  "heading_count": 32,
+  "link_count": 156,
+  "image_count": 5,
+  "keywords": [
+    "span",
+    "style",
+    "class",
+    "code",
+    "line",
+    "astro",
+    "indent",
+    "const",
+    "href",
+    "depth",
+    "path",
+    "aria",
+    "data",
+    "hooks",
+    "gemini",
+    "json",
+    "hidden",
+    "button",
+    "docs",
+    "width"
+  ],
+  "reading_time": 84,
+  "complexity_score": 5.6,
+  "metadata_generated": "2026-01-06T17:10:07.983274"
+}

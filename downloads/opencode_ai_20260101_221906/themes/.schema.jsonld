@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://opencode.ai/docs/themes/",
+  "name": "Themes | OpenCode",
+  "description": "Select a built-in theme or define your own.",
+  "dateModified": "2025-12-31T16:54:01.000Z",
+  "version": "v",
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "astro",
+    "code",
+    "line",
+    "indent",
+    "light",
+    "wiagppvi",
+    "dark"
+  ]
+}

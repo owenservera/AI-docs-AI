@@ -1,0 +1,98 @@
+{
+  "url": "https://opencode.ai/docs/troubleshooting/",
+  "title": "Troubleshooting | OpenCode",
+  "description": "Common issues and how to resolve them.",
+  "content_type": "troubleshooting",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "tmpl",
+      "openBtn",
+      "getItem",
+      "replaceChildren",
+      "matchMedia",
+      "shortcut",
+      "forEach",
+      "querySelectorAll",
+      "querySelector",
+      "storedTheme",
+      "updatePickers",
+      "newIcon",
+      "theme",
+      "SidebarRestore",
+      "select",
+      "oldIcon",
+      "t",
+      "s",
+      "platformKey"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "mdx",
+      "31",
+      "64",
+      "17",
+      "18a4",
+      "33c",
+      "54a1",
+      "16",
+      "03",
+      "83"
+    ],
+    "command_names": [
+      "opencode --log-level DEBUG</code>.</p>",
+      "rm -rf ~/.local/share/opencode\"><div></div></button></div></figure></div>",
+      "install -y xclip\u007fapt install",
+      "rm -rf ~/.cache/opencode\"><div></div></button></div></figure></div>",
+      "install -y wl"
+    ]
+  },
+  "version": "v",
+  "last_updated": "2025-12-31T16:54:01.000Z",
+  "word_count": 3857,
+  "code_blocks_count": 35,
+  "heading_count": 12,
+  "link_count": 79,
+  "image_count": 2,
+  "keywords": [
+    "class",
+    "astro",
+    "span",
+    "style",
+    "wiagppvi",
+    "href",
+    "code",
+    "color",
+    "ufgicomt",
+    "depth",
+    "badge",
+    "aria",
+    "docs",
+    "opencode",
+    "data",
+    "hidden",
+    "size",
+    "auto",
+    "issues",
+    "where"
+  ],
+  "reading_time": 19,
+  "complexity_score": 5.1,
+  "metadata_generated": "2026-01-01T22:19:21.773405"
+}

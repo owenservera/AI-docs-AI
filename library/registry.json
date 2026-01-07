@@ -1,0 +1,46 @@
+{
+  "items": {
+    "testalias": {
+      "path": "C:\\0-BlackBoxProject-0\\DocsEngine\\docs-ai\\dummy_docs",
+      "link_path": "C:\\0-BlackBoxProject-0\\DocsEngine\\docs-ai\\library\\testalias",
+      "added_at": "2026-01-06T15:58:47.320048",
+      "metadata": {}
+    },
+    "opencode": {
+      "path": "C:\\0-BlackBoxProject-0\\DocsEngine\\docs-ai\\downloads\\opencode_ai_20260106_164627",
+      "link_path": "C:\\0-BlackBoxProject-0\\DocsEngine\\docs-ai\\library\\opencode",
+      "added_at": "2026-01-06T16:47:40.710241",
+      "metadata": {
+        "url": "https://opencode.ai/docs",
+        "crawl_id": "b1c66125-d7d0-430a-b475-033cac46204a"
+      }
+    },
+    "repomix": {
+      "path": "C:\\0-BlackBoxProject-0\\DocsEngine\\docs-ai\\downloads\\repomix_com_20260106_165231",
+      "link_path": "C:\\0-BlackBoxProject-0\\DocsEngine\\docs-ai\\library\\repomix",
+      "added_at": "2026-01-06T16:53:20.514544",
+      "metadata": {
+        "url": "https://repomix.com/guide",
+        "crawl_id": "c758e48a-83e8-4539-a2e9-979de24ade1d"
+      }
+    },
+    "geminicli": {
+      "path": "C:\\0-BlackBoxProject-0\\DocsEngine\\docs-ai\\downloads\\geminicli_com_20260106_170637",
+      "link_path": "C:\\0-BlackBoxProject-0\\DocsEngine\\docs-ai\\library\\geminicli",
+      "added_at": "2026-01-06T17:10:34.437720",
+      "metadata": {
+        "url": "https://geminicli.com/docs",
+        "crawl_id": "0d539e74-4223-450b-a862-cbf7165da905"
+      }
+    },
+    "developer": {
+      "path": "C:\\0-BlackBoxProject-0\\DocsEngine\\docs-ai\\downloads\\developer_chrome_com_20260107_015928",
+      "link_path": "C:\\0-BlackBoxProject-0\\DocsEngine\\docs-ai\\library\\developer",
+      "added_at": "2026-01-07T02:01:33.717759",
+      "metadata": {
+        "url": "https://developer.chrome.com/docs/extensions",
+        "crawl_id": "ca396a32-ec1c-401e-a5b9-8cf1bf3e4980"
+      }
+    }
+  }
+}

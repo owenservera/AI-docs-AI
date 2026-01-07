@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://opencode.ai/docs/agents",
+  "name": "Agents | OpenCode",
+  "description": "Configure and use specialized agents.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "For primary agents, use theTabkey to cycle through them during a session. You can also use your configuredswitch_agentkeybind."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Subagents can be invoked:Automaticallyby primary agents for specialized tasks based on their descriptions.Manually by@ mentioninga subagent in your message. For example.@general help me search for this function"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Automaticallyby primary agents for specialized tasks based on their descriptions."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Manually by@ mentioninga subagent in your message. For example.@general help me search for this function"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Navigation between sessions: When subagents create their own child sessions, you can navigate between the parent session and all child sessions using:<Leader>+Right(or your configuredsession_child_cyclekeybind) to cycle forward through parent \u2192 child1 \u2192 child2 \u2192 \u2026 \u2192 parent<Leader>+Left(or your configuredsession_child_cycle_reversekeybind) to cycle backward through parent \u2190 child1 \u2190 child2 \u2190 \u2026 \u2190 parentThis allows you to seamlessly switch between the main conversation and specialized subagent work."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "<Leader>+Right(or your configuredsession_child_cyclekeybind) to cycle forward through parent \u2192 child1 \u2192 child2 \u2192 \u2026 \u2192 parent"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "<Leader>+Left(or your configuredsession_child_cycle_reversekeybind) to cycle backward through parent \u2190 child1 \u2190 child2 \u2190 \u2026 \u2190 parent"
+    }
+  ],
+  "dateModified": "2025-12-31T16:54:01.000Z",
+  "version": "v",
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "code",
+    "astro",
+    "line",
+    "ufgicomt",
+    "depth",
+    "indent",
+    "href"
+  ]
+}

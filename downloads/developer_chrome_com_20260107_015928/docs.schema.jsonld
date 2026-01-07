@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "url": "https://developer.chrome.com/docs",
+  "name": "Documentation \u00a0|\u00a0 Docs \u00a0|\u00a0 Chrome for Developers",
+  "description": "Code samples, guides, and API reference you need for whatever you're building.",
+  "keywords": [
+    "devsite",
+    "class",
+    "item",
+    "landing",
+    "chrome",
+    "docs",
+    "https",
+    "track",
+    "developer",
+    "href"
+  ]
+}

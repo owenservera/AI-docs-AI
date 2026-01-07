@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://geminicli.com/docs/get-started/authentication/",
+  "name": "Gemini CLI authentication setup | Gemini CLI",
+  "description": "To use Gemini CLI, you\u2019ll need to authenticate with Google. This guide helps you\nquickly find the best way to sign in based on your account type and how you\u2019re\nusing the CLI.",
+  "genre": "API Documentation",
+  "version": "v",
+  "keywords": [
+    "class",
+    "span",
+    "astro",
+    "style",
+    "href",
+    "code",
+    "google",
+    "aria",
+    "gemini",
+    "depth"
+  ]
+}

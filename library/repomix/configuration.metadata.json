@@ -1,0 +1,85 @@
+{
+  "url": "https://repomix.com/guide/configuration",
+  "title": "Configuration | Repomix",
+  "description": "Pack your codebase into AI-friendly formats",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "typescript",
+      "java",
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "getItem",
+      "e",
+      "add",
+      "toggle",
+      "matchMedia",
+      "and",
+      "push",
+      "gtag"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "mjs",
+      "py",
+      "mts",
+      "com",
+      "md",
+      "org",
+      "cjs",
+      "test",
+      "push",
+      "ts"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 3838,
+  "code_blocks_count": 185,
+  "heading_count": 22,
+  "link_count": 93,
+  "image_count": 1,
+  "keywords": [
+    "span",
+    "shiki",
+    "class",
+    "data",
+    "code",
+    "dark",
+    "style",
+    "light",
+    "quot",
+    "line",
+    "link",
+    "href",
+    "configuration",
+    "repomix",
+    "output",
+    "file",
+    "button",
+    "guide",
+    "vplink",
+    "aria"
+  ],
+  "reading_time": 19,
+  "complexity_score": 5.5,
+  "metadata_generated": "2026-01-06T16:52:59.848474"
+}

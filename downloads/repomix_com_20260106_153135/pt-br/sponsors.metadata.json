@@ -1,0 +1,81 @@
+{
+  "url": "https://repomix.com/pt-br/guide/sponsors",
+  "title": "Patrocinadores | Repomix",
+  "description": "Apoie o desenvolvimento do Repomix e conhe\u00e7a nossos incr\u00edveis patrocinadores",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "push",
+      "Cq",
+      "com",
+      "app",
+      "css",
+      "lean",
+      "svg",
+      "js"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 1489,
+  "code_blocks_count": 0,
+  "heading_count": 8,
+  "link_count": 73,
+  "image_count": 4,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "vplink",
+    "guide",
+    "aria",
+    "button",
+    "sponsors",
+    "repomix",
+    "text",
+    "item",
+    "level",
+    "content",
+    "vpsidebaritem",
+    "indicator",
+    "vpmenulink",
+    "https",
+    "label"
+  ],
+  "reading_time": 7,
+  "complexity_score": 4.6,
+  "metadata_generated": "2026-01-06T15:35:11.290934"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://developer.chrome.com/docs/iwa",
+  "name": "Isolated Web Apps (IWA) \u00a0|\u00a0 Chrome for Developers",
+  "description": "Learn about Chrome Isolated Web Apps (IWA).",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "metadata",
+    "chrome",
+    "docs",
+    "https",
+    "href",
+    "data",
+    "item"
+  ]
+}

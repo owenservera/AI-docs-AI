@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "url": "https://developer.chrome.com/docs/extensions/develop/ui/override-chrome-pages",
+  "name": "Override Chrome pages \u00a0|\u00a0 Chrome for Developers",
+  "description": "How to override the Chrome bookmark manager, history, and new tab pages from your Chrome Extension.",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "docs",
+    "chrome",
+    "metadata",
+    "data",
+    "extensions",
+    "span",
+    "develop"
+  ]
+}

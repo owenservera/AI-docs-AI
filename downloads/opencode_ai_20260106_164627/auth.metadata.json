@@ -1,0 +1,67 @@
+{
+  "url": "https://opencode.ai/auth",
+  "title": "OpenAuth",
+  "description": "",
+  "content_type": "conceptual",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "tool": [
+      "git"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "url",
+      "oklch",
+      "var"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "5c0",
+      "7c",
+      "09",
+      "2c",
+      "4z",
+      "07",
+      "15",
+      "06",
+      "4c0",
+      "12"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 848,
+  "code_blocks_count": 0,
+  "heading_count": 0,
+  "link_count": 2,
+  "image_count": 2,
+  "keywords": [
+    "color",
+    "background",
+    "data",
+    "font",
+    "dark",
+    "success",
+    "light",
+    "oklch",
+    "calc",
+    "component",
+    "error",
+    "size",
+    "display",
+    "border",
+    "width",
+    "icon",
+    "flex",
+    "primary",
+    "clamp",
+    "center"
+  ],
+  "reading_time": 4,
+  "complexity_score": 0.1,
+  "metadata_generated": "2026-01-06T16:47:26.726002"
+}

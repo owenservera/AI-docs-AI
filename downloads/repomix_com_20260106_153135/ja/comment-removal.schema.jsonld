@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://repomix.com/ja/guide/comment-removal",
+  "name": "\u30bd\u30fc\u30b9\u30b3\u30fc\u30c9\u4e2d\u306e\u30b3\u30e1\u30f3\u30c8\u524a\u9664 | Repomix",
+  "description": "\u30b3\u30fc\u30c9\u30d9\u30fc\u30b9\u3092AI\u30d5\u30ec\u30f3\u30c9\u30ea\u30fc\u306a\u5f62\u5f0f\u306b\u30d1\u30c3\u30b1\u30fc\u30b8\u30f3\u30b0",
+  "dateModified": "2026-01-04T13:42:35.000Z",
+  "version": "v",
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "shiki",
+    "vplink",
+    "guide",
+    "code",
+    "button"
+  ]
+}

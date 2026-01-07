@@ -1,0 +1,100 @@
+{
+  "url": "https://geminicli.com/docs/extensions",
+  "title": "Gemini CLI extensions | Gemini CLI",
+  "description": "This documentation is up-to-date with the v0.4.0 release.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go",
+      "rust"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "env",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "678",
+      "31",
+      "test"
+    ],
+    "command_names": [
+      "rm -rf",
+      "update --all"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 7104,
+  "code_blocks_count": 106,
+  "heading_count": 16,
+  "link_count": 125,
+  "image_count": 5,
+  "keywords": [
+    "class",
+    "astro",
+    "span",
+    "code",
+    "style",
+    "href",
+    "extension",
+    "aria",
+    "auto",
+    "depth",
+    "gemini",
+    "extensions",
+    "docs",
+    "path",
+    "current",
+    "data",
+    "false",
+    "hidden",
+    "width",
+    "icon"
+  ],
+  "reading_time": 36,
+  "complexity_score": 5.2,
+  "metadata_generated": "2026-01-06T17:09:59.661911"
+}

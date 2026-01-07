@@ -1,0 +1,89 @@
+{
+  "url": "https://opencode.ai/docs/server/",
+  "title": "Server | OpenCode",
+  "description": "Interact with opencode server over HTTP.",
+  "content_type": "api_reference",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "tmpl",
+      "openBtn",
+      "getItem",
+      "replaceChildren",
+      "matchMedia",
+      "shortcut",
+      "forEach",
+      "querySelectorAll",
+      "querySelector",
+      "storedTheme",
+      "updatePickers",
+      "newIcon",
+      "theme",
+      "SidebarRestore",
+      "select",
+      "oldIcon",
+      "t",
+      "s",
+      "platformKey"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "mdx",
+      "31",
+      "64",
+      "17",
+      "18a4",
+      "2294",
+      "33c",
+      "54a1",
+      "16",
+      "03"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2025-12-31T16:54:01.000Z",
+  "word_count": 4761,
+  "code_blocks_count": 262,
+  "heading_count": 27,
+  "link_count": 161,
+  "image_count": 2,
+  "keywords": [
+    "code",
+    "astro",
+    "class",
+    "auto",
+    "span",
+    "style",
+    "href",
+    "ufgicomt",
+    "depth",
+    "wiagppvi",
+    "color",
+    "opencode",
+    "aria",
+    "badge",
+    "docs",
+    "path",
+    "https",
+    "github",
+    "session",
+    "types"
+  ],
+  "reading_time": 24,
+  "complexity_score": 5.2,
+  "metadata_generated": "2026-01-01T22:20:00.399711"
+}

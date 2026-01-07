@@ -1,0 +1,73 @@
+{
+  "url": "https://developer.chrome.com/docs/css-ui",
+  "title": "CSS and UI \u00a0|\u00a0 Chrome for Developers",
+  "description": "Find resources on topics such as typography, color, and layout.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "java",
+      "go"
+    ],
+    "platform": [
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "mix",
+      "size",
+      "linear",
+      "url",
+      "function",
+      "child"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "apps",
+      "35",
+      "825",
+      "3917",
+      "9C20",
+      "web",
+      "7C7",
+      "8C15",
+      "5167",
+      "8583"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 5961,
+  "code_blocks_count": 7,
+  "heading_count": 37,
+  "link_count": 139,
+  "image_count": 6,
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "item",
+    "chrome",
+    "docs",
+    "https",
+    "landing",
+    "metadata",
+    "data",
+    "href",
+    "developer",
+    "link",
+    "span",
+    "position",
+    "label",
+    "role",
+    "type",
+    "null",
+    "text"
+  ],
+  "reading_time": 30,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-07T02:00:11.424662"
+}

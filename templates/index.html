@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documentation Download Agent</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
+    <script src="https://unpkg.com/splitting@1.0.6/dist/splitting.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/splitting@1.0.6/dist/splitting.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.4.3/echarts.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --bg-primary: #1a1a1a;
+            --bg-secondary: #0f0f0f;
+            --accent-blue: #00a8ff;
+            --accent-green: #00ff88;
+            --text-primary: #ffffff;
+            --text-secondary: #e0e0e0;
+            --text-muted: #a0a0a0;
+            --warning: #ffb347;
+            --error: #ff6b6b;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            overflow-x: hidden;
+        }
+        
+        .font-mono {
+            font-family: 'JetBrains Mono', monospace;
+        }
+        
+        .bg-circuit {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            opacity: 0.03;
+            background-image: 
+                radial-gradient(circle at 20% 50%, var(--accent-blue) 0%, transparent 50%),
+                radial-gradient(circle at 80% 20%, var(--accent-green) 0%, transparent 50%),
+                radial-gradient(circle at 40% 80%, var(--accent-blue) 0%, transparent 50%);
+            animation: pulse 8s ease-in-out infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 0.03; }
+            50% { opacity: 0.08; }
+        }
+        
+        .glass-panel {
+            background: rgba(15, 15, 15, 0.8);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        
+        .neon-border {
+            border: 1px solid var(--accent-blue);
+            box-shadow: 0 0 10px rgba(0, 168, 255, 0.3);
+        }
+        
+        .btn-primary {
+            background: linear-gradient(135deg, var(--accent-blue), var(--accent-green));
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(0, 168, 255, 0.3);
+        }
+        
+        .btn-primary:active {
+            transform: translateY(0);
+        }
+        
+        .progress-bar {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            overflow: hidden;
+            position: relative;
+        }
+        
+        .progress-fill {
+            background: linear-gradient(90deg, var(--accent-blue), var(--accent-green));
+            height: 100%;
+            transition: width 0.5s ease;
+            position: relative;
+        }
+        
+        .progress-fill::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent);
+            animation: shimmer 2s infinite;
+        }
+        
+        @keyframes shimmer {
+            0% { transform: translateX(-100%); }
+            100% { transform: translateX(100%); }
+        }
+        
+        .file-tree {
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        
+        .file-tree::-webkit-scrollbar {
+            width: 6px;
+        }
+        
+        .file-tree::-webkit-scrollbar-track {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 3px;
+        }
+        
+        .file-tree::-webkit-scrollbar-thumb {
+            background: var(--accent-blue);
+            border-radius: 3px;
+        }
+        
+        .status-indicator {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            display: inline-block;
+            margin-right: 8px;
+        }
+        
+        .status-running { background: var(--accent-green); animation: pulse-dot 1s infinite; }
+        .status-stopped { background: var(--error); }
+        .status-completed { background: var(--accent-blue); }
+        .status-error { background: var(--warning); }
+        
+        @keyframes pulse-dot {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        
+        .hover-lift {
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        
+        .hover-lift:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+        }
+        
+        .gradient-text {
+            background: linear-gradient(135deg, var(--accent-blue), var(--accent-green));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .stats-card {
+            background: rgba(15, 15, 15, 0.6);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 12px;
+            padding: 1.5rem;
+            transition: all 0.3s ease;
+        }
+        
+        .stats-card:hover {
+            border-color: var(--accent-blue);
+            transform: translateY(-2px);
+        }
+        
+        .error-log {
+            background: rgba(255, 107, 107, 0.1);
+            border: 1px solid rgba(255, 107, 107, 0.3);
+            border-radius: 8px;
+            padding: 1rem;
+            max-height: 200px;
+            overflow-y: auto;
+        }
+        
+        .success-animation {
+            animation: successPulse 0.6s ease-out;
+        }
+        
+        @keyframes successPulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+        
+        .loading-dots::after {
+            content: '';
+            animation: dots 1.5s infinite;
+        }
+        
+        @keyframes dots {
+            0%, 20% { content: ''; }
+            40% { content: '.'; }
+            60% { content: '..'; }
+            80%, 100% { content: '...'; }
+        }
+        
+        .tooltip {
+            position: relative;
+        }
+        
+        .tooltip::after {
+            content: attr(data-tooltip);
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(0, 0, 0, 0.9);
+            color: white;
+            padding: 0.5rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            white-space: nowrap;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s;
+            z-index: 1000;
+        }
+        
+        .tooltip:hover::after {
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+    <div class="bg-circuit"></div>
+    
+    <!-- Header -->
+    <header class="glass-panel border-b border-gray-800">
+        <div class="container mx-auto px-6 py-8">
+            <div class="flex items-center justify-between">
+                <div>
+                    <h1 class="text-4xl font-bold gradient-text font-mono" id="main-title">
+                        Documentation Download Agent
+                    </h1>
+                    <p class="text-gray-400 mt-2">Archive any documentation site with a single click</p>
+                </div>
+                <div class="text-right">
+                    <div class="text-sm text-gray-500">Version 1.0.0</div>
+                    <div class="text-xs text-gray-600 mt-1">Ready to crawl</div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-6 py-8">
+        <!-- URL Input Section -->
+        <section class="glass-panel rounded-xl p-8 mb-8 hover-lift">
+            <h2 class="text-2xl font-semibold mb-6 flex items-center">
+                <span class="mr-3">🎯</span> Target Documentation
+            </h2>
+            
+            <div class="space-y-4">
+                <div>
+                    <label class="block text-sm font-medium text-gray-300 mb-2">
+                        Documentation Root URL
+                    </label>
+                    <input 
+                        type="url" 
+                        id="url-input"
+                        placeholder="https://opencode.ai/docs/"
+                        class="w-full px-4 py-3 bg-gray-900 border border-gray-700 rounded-lg text-white placeholder-gray-500 focus:border-blue-500 focus:ring-2 focus:ring-blue-500/20 transition-all font-mono"
+                    >
+                </div>
+                
+                <!-- Advanced Options Toggle -->
+                <div>
+                    <button id="advanced-toggle" class="text-blue-400 hover:text-blue-300 text-sm font-medium flex items-center">
+                        <span class="mr-2">⚙️</span>
+                        <span>Advanced Options</span>
+                        <span class="ml-2 transform transition-transform" id="toggle-icon">▼</span>
+                    </button>
+                </div>
+                
+                <!-- Advanced Options Panel -->
+                <div id="advanced-panel" class="hidden space-y-4 pt-4 border-t border-gray-800">
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        <div>
+                            <label class="block text-sm font-medium text-gray-300 mb-2">
+                                Max Depth
+                            </label>
+                            <input 
+                                type="range" 
+                                id="max-depth" 
+                                min="1" 
+                                max="5" 
+                                value="3"
+                                class="w-full h-2 bg-gray-700 rounded-lg appearance-none cursor-pointer slider"
+                            >
+                            <div class="text-sm text-gray-500 mt-1">Current: <span id="depth-value">3</span> levels</div>
+                        </div>
+                        
+                        <div>
+                            <label class="block text-sm font-medium text-gray-300 mb-2">
+                                Rate Limit (seconds)
+                            </label>
+                            <input 
+                                type="range" 
+                                id="rate-limit" 
+                                min="0" 
+                                max="5" 
+                                step="0.5"
+                                value="1"
+                                class="w-full h-2 bg-gray-700 rounded-lg appearance-none cursor-pointer slider"
+                            >
+                            <div class="text-sm text-gray-500 mt-1">Current: <span id="rate-value">1.0</span>s</div>
+                        </div>
+                    </div>
+                    
+                    <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+                        <label class="flex items-center space-x-2 cursor-pointer">
+                            <input type="checkbox" id="include-images" checked class="w-4 h-4 text-blue-600 bg-gray-700 border-gray-600 rounded focus:ring-blue-500">
+                            <span class="text-sm">Images</span>
+                        </label>
+                        <label class="flex items-center space-x-2 cursor-pointer">
+                            <input type="checkbox" id="include-css" checked class="w-4 h-4 text-blue-600 bg-gray-700 border-gray-600 rounded focus:ring-blue-500">
+                            <span class="text-sm">CSS</span>
+                        </label>
+                        <label class="flex items-center space-x-2 cursor-pointer">
+                            <input type="checkbox" id="include-js" checked class="w-4 h-4 text-blue-600 bg-gray-700 border-gray-600 rounded focus:ring-blue-500">
+                            <span class="text-sm">JavaScript</span>
+                        </label>
+                        <label class="flex items-center space-x-2 cursor-pointer">
+                            <input type="checkbox" id="include-fonts" checked class="w-4 h-4 text-blue-600 bg-gray-700 border-gray-600 rounded focus:ring-blue-500">
+                            <span class="text-sm">Fonts</span>
+                        </label>
+                    </div>
+                </div>
+                
+                <!-- Control Buttons -->
+                <div class="flex space-x-4 pt-4">
+                    <button 
+                        id="start-crawl" 
+                        class="btn-primary px-8 py-3 rounded-lg font-semibold text-white flex items-center space-x-2"
+                    >
+                        <span>🚀</span>
+                        <span>Start Crawling</span>
+                    </button>
+                    <button 
+                        id="stop-crawl" 
+                        class="px-8 py-3 rounded-lg font-semibold bg-red-600 hover:bg-red-700 text-white flex items-center space-x-2 disabled:opacity-50 disabled:cursor-not-allowed"
+                        disabled
+                    >
+                        <span>⏹️</span>
+                        <span>Stop</span>
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Status Dashboard -->
+        <section id="status-section" class="hidden">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-6 mb-8">
+                <div class="stats-card">
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <p class="text-sm text-gray-400">Status</p>
+                            <p class="text-2xl font-bold" id="crawl-status">
+                                <span class="status-indicator status-running"></span>
+                                Running
+                            </p>
+                        </div>
+                        <div class="text-3xl">📊</div>
+                    </div>
+                </div>
+                
+                <div class="stats-card">
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <p class="text-sm text-gray-400">Pages Found</p>
+                            <p class="text-2xl font-bold gradient-text" id="pages-found">0</p>
+                        </div>
+                        <div class="text-3xl">📄</div>
+                    </div>
+                </div>
+                
+                <div class="stats-card">
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <p class="text-sm text-gray-400">Downloaded</p>
+                            <p class="text-2xl font-bold gradient-text" id="pages-downloaded">0</p>
+                        </div>
+                        <div class="text-3xl">✅</div>
+                    </div>
+                </div>
+                
+                <div class="stats-card">
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <p class="text-sm text-gray-400">Elapsed Time</p>
+                            <p class="text-2xl font-bold gradient-text" id="elapsed-time">00:00</p>
+                        </div>
+                        <div class="text-3xl">⏱️</div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Progress Bar -->
+            <div class="glass-panel rounded-xl p-6 mb-8">
+                <div class="flex justify-between items-center mb-4">
+                    <h3 class="text-lg font-semibold">Crawling Progress</h3>
+                    <span class="text-sm text-gray-400" id="progress-percentage">0%</span>
+                </div>
+                <div class="progress-bar h-3">
+                    <div class="progress-fill" id="progress-fill" style="width: 0%"></div>
+                </div>
+                <div class="mt-4 text-sm text-gray-400">
+                    <span class="loading-dots" id="current-page">Initializing crawl</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- File Browser -->
+        <section id="file-browser-section" class="hidden">
+            <div class="glass-panel rounded-xl p-8 mb-8">
+                <div class="flex justify-between items-center mb-6">
+                    <h2 class="text-2xl font-semibold flex items-center">
+                        <span class="mr-3">📁</span> Downloaded Files
+                    </h2>
+                    <div class="flex space-x-3">
+                        <button 
+                            id="refresh-files" 
+                            class="px-4 py-2 bg-gray-700 hover:bg-gray-600 rounded-lg text-sm font-medium transition-colors tooltip"
+                            data-tooltip="Refresh file list"
+                        >
+                            🔄 Refresh
+                        </button>
+                        <button 
+                            id="download-zip" 
+                            class="btn-primary px-6 py-2 rounded-lg text-sm font-medium flex items-center space-x-2 tooltip"
+                            data-tooltip="Download as ZIP archive"
+                        >
+                            <span>📦</span>
+                            <span>Download ZIP</span>
+                        </button>
+                    </div>
+                </div>
+                
+                <!-- File Search -->
+                <div class="mb-6">
+                    <input 
+                        type="text" 
+                        id="file-search"
+                        placeholder="Search files..."
+                        class="w-full px-4 py-2 bg-gray-900 border border-gray-700 rounded-lg text-white placeholder-gray-500 focus:border-blue-500 focus:ring-2 focus:ring-blue-500/20"
+                    >
+                </div>
+                
+                <!-- File Tree -->
+                <div class="file-tree bg-gray-900 rounded-lg p-4" id="file-tree">
+                    <div class="text-center text-gray-500 py-8">
+                        No files to display. Start a crawl to see results here.
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Error Log -->
+        <section id="error-section" class="hidden">
+            <div class="glass-panel rounded-xl p-6">
+                <h3 class="text-lg font-semibold mb-4 flex items-center">
+                    <span class="mr-2">⚠️</span> Error Log
+                </h3>
+                <div class="error-log" id="error-log">
+                    <div class="text-center text-gray-500">No errors reported</div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="glass-panel border-t border-gray-800 mt-16">
+        <div class="container mx-auto px-6 py-8">
+            <div class="text-center text-gray-500">
+                <p>&copy; 2024 Documentation Download Agent. Built for developers, by developers.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Loading Overlay -->
+    <div id="loading-overlay" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+        <div class="glass-panel rounded-xl p-8 text-center">
+            <div class="animate-spin w-12 h-12 border-4 border-blue-500 border-t-transparent rounded-full mx-auto mb-4"></div>
+            <p class="text-lg font-semibold">Processing...</p>
+        </div>
+    </div>
+
+    <script src="/static/js/main.js"></script>
+</body>
+</html>

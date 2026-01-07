@@ -1,0 +1,111 @@
+{
+  "url": "https://code.claude.com/docs/en/legal-and-compliance",
+  "title": "Legal and compliance - Claude Code Docs",
+  "description": "Legal agreements, compliance certifications, and security information for Claude Code.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "react"
+    ],
+    "language": [
+      "python",
+      "javascript",
+      "typescript",
+      "java",
+      "go",
+      "rust",
+      "c++"
+    ],
+    "cloud": [
+      "aws",
+      "azure"
+    ],
+    "tool": [
+      "git",
+      "webpack"
+    ],
+    "platform": [
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "langDir",
+      "docsClaudeCodeDest",
+      "function",
+      "e",
+      "c",
+      "d",
+      "getItem",
+      "i",
+      "for",
+      "docsClaudeCodeSrc",
+      "_components",
+      "entries",
+      "languageDirs",
+      "langCode",
+      "ignoreList",
+      "setAttribute",
+      "files",
+      "if",
+      "link",
+      "a",
+      "getElementById",
+      "key",
+      "f"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "1624",
+      "413",
+      "9624",
+      "push",
+      "5719",
+      "0125",
+      "json",
+      "ant",
+      "06",
+      "4812"
+    ],
+    "command_names": [
+      "bg-background-dark -z-10 pointer",
+      "n --primary-light",
+      "n --primary-dark",
+      "pb-4 -mt-10 pt",
+      "n --primary"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 18570,
+  "code_blocks_count": 0,
+  "heading_count": 10,
+  "link_count": 60,
+  "image_count": 5,
+  "keywords": [
+    "claude",
+    "code",
+    "static",
+    "href",
+    "chunks",
+    "title",
+    "description",
+    "text",
+    "dark",
+    "group",
+    "gray",
+    "font",
+    "groups",
+    "pages",
+    "class",
+    "script",
+    "hover",
+    "https",
+    "flex",
+    "color"
+  ],
+  "reading_time": 93,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-06T15:41:46.567228"
+}

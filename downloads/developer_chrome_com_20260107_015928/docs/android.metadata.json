@@ -1,0 +1,71 @@
+{
+  "url": "https://developer.chrome.com/docs/android",
+  "title": "Web on Android \u00a0|\u00a0 Chrome for Developers",
+  "description": "Learn about Chrome's features for developing web apps on Android.",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go",
+      "rust"
+    ],
+    "platform": [
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "url",
+      "function",
+      "getElementsByTagName",
+      "insertBefore",
+      "createElement"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "apps",
+      "35",
+      "825",
+      "3917",
+      "9C20",
+      "web",
+      "7C7",
+      "8C15",
+      "5167",
+      "8583"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 5253,
+  "code_blocks_count": 0,
+  "heading_count": 36,
+  "link_count": 140,
+  "image_count": 2,
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "item",
+    "chrome",
+    "docs",
+    "landing",
+    "https",
+    "metadata",
+    "href",
+    "data",
+    "developer",
+    "android",
+    "position",
+    "custom",
+    "link",
+    "span",
+    "role",
+    "null",
+    "icon"
+  ],
+  "reading_time": 26,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-07T01:59:49.617067"
+}

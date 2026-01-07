@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://opencode.ai/docs/gitlab/",
+  "name": "GitLab | OpenCode",
+  "description": "Use OpenCode in GitLab issues and merge requests.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Store your OpenCode authentication JSON as a File type CI environment variables underSettings>CI/CD>Variables. Make sure to mark them as \u201cMasked and hidden\u201d."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Add the following to your.gitlab-ci.ymlfile..gitlab-ci.ymlinclude:-component:$CI_SERVER_FQDN/nagyv/gitlab-opencode/opencode@2inputs:config_dir:${CI_PROJECT_DIR}/opencode-configauth_json:$OPENCODE_AUTH_JSON# The variable name for your OpenCode authentication JSONcommand:optional-custom-commandmessage:\"Your prompt here\""
+    }
+  ],
+  "dateModified": "2025-12-31T16:54:01.000Z",
+  "version": "v",
+  "keywords": [
+    "span",
+    "class",
+    "astro",
+    "style",
+    "wiagppvi",
+    "code",
+    "line",
+    "href",
+    "color",
+    "opencode"
+  ]
+}

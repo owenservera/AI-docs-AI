@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://geminicli.com/docs/cli/headless/",
+  "name": "Headless mode | Gemini CLI",
+  "description": "Headless mode allows you to run Gemini CLI programmatically from command line\nscripts and automation tools without any interactive UI. This is ideal for\nscripting, automation, CI/CD pipelines, and bui...",
+  "version": "v",
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "astro",
+    "code",
+    "href",
+    "line",
+    "aria",
+    "indent",
+    "depth"
+  ]
+}

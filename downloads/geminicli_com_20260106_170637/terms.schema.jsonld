@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://geminicli.com/terms",
+  "name": "Terms | Gemini CLI",
+  "description": "Access to and use of the Gemini CLI website (the \u201cWebsite\u201d) is subject to theGoogle Terms of Service. Data collected by the Website will be handled in accordance with theGoogle Privacy Policy.",
+  "version": "v",
+  "keywords": [
+    "astro",
+    "class",
+    "href",
+    "const",
+    "script",
+    "dark",
+    "text",
+    "style",
+    "width",
+    "google"
+  ]
+}

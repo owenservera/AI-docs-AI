@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "url": "https://code.claude.com/docs/en/common-workflows",
+  "name": "Common workflows - Claude Code Docs",
+  "description": "Learn about common workflows with Claude Code.",
+  "version": "v",
+  "keywords": [
+    "dark",
+    "text",
+    "children",
+    "code",
+    "class",
+    "span",
+    "gray",
+    "shiki",
+    "claude",
+    "group"
+  ]
+}

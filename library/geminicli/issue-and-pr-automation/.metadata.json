@@ -1,0 +1,94 @@
+{
+  "url": "https://geminicli.com/docs/issue-and-pr-automation/",
+  "title": "Automation and triage processes | Gemini CLI",
+  "description": "This document provides a detailed overview of the automated processes we use to\nmanage and triage issues and pull requests. Our goal is to provide prompt\nfeedback and ensure that contributions are rev...",
+  "content_type": "troubleshooting",
+  "taxonomies": {
+    "language": [
+      "go",
+      "rust"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "18a4",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "678",
+      "31",
+      "test"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 5401,
+  "code_blocks_count": 29,
+  "heading_count": 9,
+  "link_count": 97,
+  "image_count": 5,
+  "keywords": [
+    "class",
+    "astro",
+    "span",
+    "href",
+    "aria",
+    "style",
+    "strong",
+    "docs",
+    "current",
+    "false",
+    "code",
+    "issue",
+    "depth",
+    "hidden",
+    "width",
+    "triage",
+    "icon",
+    "open",
+    "auto",
+    "path"
+  ],
+  "reading_time": 27,
+  "complexity_score": 4.8,
+  "metadata_generated": "2026-01-06T17:08:45.787778"
+}

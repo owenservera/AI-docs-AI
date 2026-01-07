@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://opencode.ai/docs/formatters",
+  "name": "Formatters | OpenCode",
+  "description": "OpenCode uses language specific formatters.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Checks the file extension against all enabled formatters."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Runs the appropriate formatter command on the file."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Applies the formatting changes automatically."
+    }
+  ],
+  "dateModified": "2026-01-05T23:09:39.000Z",
+  "version": "v",
+  "keywords": [
+    "class",
+    "span",
+    "astro",
+    "style",
+    "code",
+    "wiagppvi",
+    "color",
+    "href",
+    "badge",
+    "aria"
+  ]
+}

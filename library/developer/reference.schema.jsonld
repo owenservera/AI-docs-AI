@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/docs/extensions/reference",
+  "name": "Extensions / Reference \u00a0|\u00a0 Chrome for Developers",
+  "description": "Reference for the extensions manifest, related permissions and APIs",
+  "keywords": [
+    "devsite",
+    "class",
+    "item",
+    "track",
+    "chrome",
+    "metadata",
+    "docs",
+    "data",
+    "https",
+    "landing"
+  ]
+}

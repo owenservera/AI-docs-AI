@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "url": "https://opencode.ai/auth",
+  "name": "OpenAuth",
+  "description": "",
+  "keywords": [
+    "color",
+    "background",
+    "data",
+    "font",
+    "dark",
+    "success",
+    "light",
+    "oklch",
+    "calc",
+    "component"
+  ]
+}

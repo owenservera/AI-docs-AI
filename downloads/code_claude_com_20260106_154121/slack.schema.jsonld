@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://code.claude.com/docs/en/slack",
+  "name": "Claude Code in Slack - Claude Code Docs",
+  "description": "Delegate coding tasks directly from your Slack workspace",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Open the Claude app in Slack by clicking on \u201cClaude\u201d in your Apps section"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Navigate to the App Home tab"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Click \u201cConnect\u201d to link your Slack account with your Claude account"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Complete the authentication flow in your browser"
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "claude",
+    "code",
+    "href",
+    "text",
+    "dark",
+    "static",
+    "gray",
+    "chunks",
+    "title",
+    "description"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://developer.chrome.com/docs/accessibility",
+  "name": "Accessibility \u00a0|\u00a0 Chrome for Developers",
+  "description": "Digital accessibility, commonly abbreviated a11y, is about designing and building websites and web apps that disabled people can interact with in a meaningful and equivalent way.",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "chrome",
+    "metadata",
+    "item",
+    "docs",
+    "https",
+    "href",
+    "landing"
+  ]
+}

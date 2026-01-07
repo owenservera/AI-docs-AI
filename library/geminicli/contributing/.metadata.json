@@ -1,0 +1,112 @@
+{
+  "url": "https://geminicli.com/docs/contributing/",
+  "title": "How to contribute | Gemini CLI",
+  "description": "We would love to accept your patches and contributions to this project. This\ndocument includes:",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "react",
+      "express"
+    ],
+    "language": [
+      "javascript",
+      "typescript",
+      "java",
+      "go",
+      "rust"
+    ],
+    "database": [
+      "redis"
+    ],
+    "cloud": [
+      "docker"
+    ],
+    "tool": [
+      "git",
+      "npm",
+      "eslint",
+      "prettier"
+    ],
+    "platform": [
+      "macos",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "env",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "678",
+      "31",
+      "test"
+    ],
+    "command_names": [
+      "Add --json flag to 'config get' command</code></li>",
+      "install -g react",
+      "publish --workspaces",
+      "node --inspect-brk dist/gemini.js</code> within the"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 12238,
+  "code_blocks_count": 131,
+  "heading_count": 46,
+  "link_count": 200,
+  "image_count": 6,
+  "keywords": [
+    "class",
+    "span",
+    "astro",
+    "style",
+    "code",
+    "href",
+    "depth",
+    "aria",
+    "path",
+    "auto",
+    "anchor",
+    "hidden",
+    "data",
+    "width",
+    "true",
+    "icon",
+    "docs",
+    "height",
+    "strong",
+    "viewbox"
+  ],
+  "reading_time": 61,
+  "complexity_score": 5.1,
+  "metadata_generated": "2026-01-06T17:07:02.616479"
+}

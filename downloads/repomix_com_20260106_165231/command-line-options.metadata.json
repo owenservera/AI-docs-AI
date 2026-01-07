@@ -1,0 +1,81 @@
+{
+  "url": "https://repomix.com/guide/command-line-options",
+  "title": "Command Line Options | Repomix",
+  "description": "Pack your codebase into AI-friendly formats",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "getItem",
+      "e",
+      "add",
+      "toggle",
+      "matchMedia",
+      "push",
+      "gtag"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "com",
+      "add",
+      "md",
+      "png",
+      "js",
+      "css",
+      "lean",
+      "json",
+      "ts",
+      "000Z"
+    ],
+    "command_names": [
+      "with --include-logs (default: 50)</li></ul><h2 id=\"file",
+      "using --include patterns</li><li><code>",
+      "With --init"
+    ]
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 2182,
+  "code_blocks_count": 43,
+  "heading_count": 15,
+  "link_count": 73,
+  "image_count": 1,
+  "keywords": [
+    "data",
+    "span",
+    "class",
+    "shiki",
+    "link",
+    "style",
+    "dark",
+    "light",
+    "code",
+    "line",
+    "href",
+    "options",
+    "vplink",
+    "guide",
+    "repomix",
+    "aria",
+    "output",
+    "quot",
+    "button",
+    "command"
+  ],
+  "reading_time": 11,
+  "complexity_score": 5.4,
+  "metadata_generated": "2026-01-06T16:52:58.487714"
+}

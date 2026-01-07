@@ -1,0 +1,80 @@
+{
+  "url": "https://repomix.com/ja/guide/sponsors",
+  "title": "\u30b9\u30dd\u30f3\u30b5\u30fc | Repomix",
+  "description": "Repomix\u306e\u958b\u767a\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u3001\u7d20\u6674\u3089\u3057\u3044\u30b9\u30dd\u30f3\u30b5\u30fc\u69d8\u3092\u3054\u7d39\u4ecb",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "app",
+      "push",
+      "com",
+      "lean",
+      "css",
+      "svg",
+      "js",
+      "gg"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 1338,
+  "code_blocks_count": 0,
+  "heading_count": 8,
+  "link_count": 73,
+  "image_count": 4,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "vplink",
+    "guide",
+    "aria",
+    "button",
+    "sponsors",
+    "text",
+    "item",
+    "level",
+    "content",
+    "vpsidebaritem",
+    "indicator",
+    "vpmenulink",
+    "repomix",
+    "https",
+    "label"
+  ],
+  "reading_time": 7,
+  "complexity_score": 4.6,
+  "metadata_generated": "2026-01-06T15:34:11.400051"
+}

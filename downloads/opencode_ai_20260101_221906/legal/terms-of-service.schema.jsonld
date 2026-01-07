@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://opencode.ai/legal/terms-of-service",
+  "name": "OpenCode | Terms of Service",
+  "description": "OpenCode - The open source coding agent.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "infringes or violates the intellectual property rights or any other rights of anyone else (including OpenCode);"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "violates any law or regulation, including, without limitation, any applicable export control laws, privacy laws or any other purpose not reasonably intended by OpenCode;"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "is dangerous, harmful, fraudulent, deceptive, threatening, harassing, defamatory, obscene, or otherwise objectionable;"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "automatically or programmatically extracts data or Output (defined below);"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Represent that the Output was human-generated when it was not;"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "uses Output to develop artificial intelligence models that compete with the Services or any Third Party Models;"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 7,
+      "text": "attempts, in any manner, to obtain the password, account, or other security information from any other user;"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 8,
+      "text": "violates the security of any computer network, or cracks any passwords or security encryption codes;"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 9,
+      "text": "runs Maillist, Listserv, any form of auto-responder or \"spam\" on the Services, or any processes that run or are activated while you are not logged into the Services, or that otherwise interfere with the proper working of the Services (including by placing an unreasonable load on the Services' infrastructure);"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 10,
+      "text": "\"crawls,\" \"scrapes,\" or \"spiders\" any page, data, or portion of or relating to the Services or Content (through use of manual or automated means);"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 11,
+      "text": "copies or stores any significant portion of the Content; or"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 12,
+      "text": "decompiles, reverse engineers, or otherwise attempts to obtain the source code or underlying ideas or information of or relating to the Services."
+    }
+  ],
+  "keywords": [
+    "font",
+    "services",
+    "opencode",
+    "terms",
+    "data",
+    "href",
+    "these",
+    "assets",
+    "arbitration",
+    "link"
+  ]
+}

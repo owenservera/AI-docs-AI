@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://code.claude.com/docs/en",
+  "name": "Claude Code overview - Claude Code Docs",
+  "description": "Learn about Claude Code, Anthropic's agentic coding tool that lives in your terminal and helps you turn ideas into code faster than ever before.",
+  "version": "v",
+  "keywords": [
+    "claude",
+    "code",
+    "dark",
+    "href",
+    "text",
+    "static",
+    "chunks",
+    "title",
+    "gray",
+    "description"
+  ]
+}

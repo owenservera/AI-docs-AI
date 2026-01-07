@@ -1,0 +1,78 @@
+{
+  "url": "https://repomix.com/es/guide/usage",
+  "title": "Uso b\u00e1sico | Repomix",
+  "description": "Empaqueta tu c\u00f3digo en formatos amigables para IA",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "5mb",
+      "test",
+      "push",
+      "com",
+      "ts",
+      "txt",
+      "lean",
+      "css",
+      "svg"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 2779,
+  "code_blocks_count": 56,
+  "heading_count": 27,
+  "link_count": 87,
+  "image_count": 1,
+  "keywords": [
+    "span",
+    "class",
+    "data",
+    "shiki",
+    "dark",
+    "light",
+    "style",
+    "code",
+    "link",
+    "href",
+    "line",
+    "button",
+    "repomix",
+    "quot",
+    "aria",
+    "github",
+    "vplink",
+    "tabindex",
+    "guide",
+    "copy"
+  ],
+  "reading_time": 14,
+  "complexity_score": 5.4,
+  "metadata_generated": "2026-01-06T15:34:15.598868"
+}

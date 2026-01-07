@@ -1,0 +1,93 @@
+{
+  "url": "https://opencode.ai/docs/custom-tools/",
+  "title": "Custom Tools | OpenCode",
+  "description": "Create tools the LLM can call in opencode.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "python",
+      "javascript",
+      "typescript",
+      "java",
+      "go"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "t",
+      "newIcon",
+      "SidebarRestore",
+      "replaceChildren",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "94",
+      "py",
+      "26",
+      "36l",
+      "16",
+      "68",
+      "15",
+      "11",
+      "46",
+      "66l"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-05T23:09:39.000Z",
+  "word_count": 4266,
+  "code_blocks_count": 26,
+  "heading_count": 10,
+  "link_count": 72,
+  "image_count": 2,
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "astro",
+    "code",
+    "wiagppvi",
+    "line",
+    "href",
+    "color",
+    "tool",
+    "badge",
+    "aria",
+    "ufgicomt",
+    "depth",
+    "docs",
+    "indent",
+    "args",
+    "data",
+    "hidden",
+    "size"
+  ],
+  "reading_time": 21,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-06T16:47:17.723111"
+}

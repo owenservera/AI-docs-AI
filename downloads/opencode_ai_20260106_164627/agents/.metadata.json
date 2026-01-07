@@ -1,0 +1,92 @@
+{
+  "url": "https://opencode.ai/docs/agents/",
+  "title": "Agents | OpenCode",
+  "description": "Configure and use specialized agents.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "aws"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "t",
+      "newIcon",
+      "SidebarRestore",
+      "replaceChildren",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "7071",
+      "1174",
+      "74",
+      "2524",
+      "16",
+      "36l",
+      "6337",
+      "678",
+      "28",
+      "14"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-05T23:09:39.000Z",
+  "word_count": 9132,
+  "code_blocks_count": 90,
+  "heading_count": 30,
+  "link_count": 135,
+  "image_count": 2,
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "code",
+    "astro",
+    "line",
+    "ufgicomt",
+    "depth",
+    "indent",
+    "href",
+    "wiagppvi",
+    "data",
+    "agent",
+    "aria",
+    "color",
+    "title",
+    "badge",
+    "opencode",
+    "button",
+    "false"
+  ],
+  "reading_time": 46,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-06T16:47:01.481070"
+}

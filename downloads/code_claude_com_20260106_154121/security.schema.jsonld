@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://code.claude.com/docs/en/security",
+  "name": "Security - Claude Code Docs",
+  "description": "Learn about Claude Code's security safeguards and best practices for safe usage.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Review suggested commands before approval"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Avoid piping untrusted content directly to Claude"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Verify proposed changes to critical files"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Use virtual machines (VMs) to run scripts and make tool calls, especially when interacting with external web services"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Report suspicious behavior with/bug"
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "claude",
+    "code",
+    "href",
+    "static",
+    "chunks",
+    "title",
+    "text",
+    "description",
+    "dark",
+    "gray"
+  ]
+}

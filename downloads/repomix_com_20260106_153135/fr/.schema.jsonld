@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://repomix.com/fr/",
+  "name": "Repomix | Empaquetez votre code dans des formats adapt\u00e9s \u00e0 l'IA",
+  "description": "Empaquetez votre code dans des formats adapt\u00e9s \u00e0 l'IA",
+  "version": "v",
+  "keywords": [
+    "span",
+    "class",
+    "data",
+    "shiki",
+    "dark",
+    "light",
+    "style",
+    "repomix",
+    "code",
+    "href"
+  ]
+}

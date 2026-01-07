@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://code.claude.com/docs/en/troubleshooting",
+  "name": "Troubleshooting - Claude Code Docs",
+  "description": "Discover solutions to common issues with Claude Code installation and usage.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Set the path explicitly in PowerShell before running Claude:CopyAsk AI$env:CLAUDE_CODE_GIT_BASH_PATH=\"C:\\Program Files\\Git\\bin\\bash.exe\""
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Or add it to your system environment variables permanently through System Properties \u2192 Environment Variables."
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "dark",
+    "code",
+    "children",
+    "span",
+    "claude",
+    "text",
+    "color",
+    "style",
+    "href",
+    "shiki"
+  ]
+}

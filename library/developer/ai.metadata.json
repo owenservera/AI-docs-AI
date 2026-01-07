@@ -1,0 +1,73 @@
+{
+  "url": "https://developer.chrome.com/docs/extensions/ai",
+  "title": "Extensions and AI \u00a0|\u00a0 Chrome for Developers",
+  "description": "Learn how to develop extensions with AI",
+  "content_type": "how_to",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "url",
+      "function",
+      "getElementsByTagName",
+      "insertBefore",
+      "createElement"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "apps",
+      "35",
+      "825",
+      "3917",
+      "9C20",
+      "web",
+      "7C7",
+      "8C15",
+      "5167",
+      "8583"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 7118,
+  "code_blocks_count": 0,
+  "heading_count": 36,
+  "link_count": 156,
+  "image_count": 16,
+  "keywords": [
+    "devsite",
+    "class",
+    "chrome",
+    "track",
+    "https",
+    "docs",
+    "item",
+    "developer",
+    "metadata",
+    "landing",
+    "data",
+    "href",
+    "extensions",
+    "static",
+    "position",
+    "span",
+    "label",
+    "link",
+    "images",
+    "type"
+  ],
+  "reading_time": 36,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-07T02:00:32.885502"
+}

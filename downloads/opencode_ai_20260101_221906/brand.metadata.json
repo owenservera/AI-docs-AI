@@ -1,0 +1,76 @@
+{
+  "url": "https://opencode.ai/brand",
+  "title": "OpenCode | Brand",
+  "description": "OpenCode - The open source coding agent.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "t",
+      "fe",
+      "has",
+      "s",
+      "hasAttribute",
+      "Promise",
+      "url",
+      "forEach",
+      "push"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "8125",
+      "push",
+      "com",
+      "1875",
+      "25",
+      "org",
+      "ico",
+      "75M9",
+      "9583",
+      "png"
+    ],
+    "command_names": []
+  },
+  "version": "13.958",
+  "last_updated": null,
+  "word_count": 966,
+  "code_blocks_count": 0,
+  "heading_count": 1,
+  "link_count": 14,
+  "image_count": 8,
+  "keywords": [
+    "font",
+    "data",
+    "assets",
+    "stroke",
+    "href",
+    "width",
+    "path",
+    "button",
+    "link",
+    "style",
+    "face",
+    "family",
+    "display",
+    "opencode",
+    "format",
+    "swap",
+    "normal",
+    "weight",
+    "nerd",
+    "component"
+  ],
+  "reading_time": 5,
+  "complexity_score": 1.2,
+  "metadata_generated": "2026-01-01T22:20:33.889648"
+}

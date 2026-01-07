@@ -1,0 +1,86 @@
+{
+  "url": "https://repomix.com/ko/",
+  "title": "Repomix | \ucf54\ub4dc\ubca0\uc774\uc2a4\ub97c AI \uce5c\ud654\uc801\uc778 \ud615\uc2dd\uc73c\ub85c \ud328\ud0a4\uc9d5",
+  "description": "\ucf54\ub4dc\ubca0\uc774\uc2a4\ub97c AI \uce5c\ud654\uc801\uc778 \ud615\uc2dd\uc73c\ub85c \ud328\ud0a4\uc9d5",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "java",
+      "go"
+    ],
+    "cloud": [
+      "gcp",
+      "docker"
+    ],
+    "tool": [
+      "git",
+      "npm",
+      "yarn"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia",
+      "matrix"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "app",
+      "197",
+      "386",
+      "9a2",
+      "css",
+      "979",
+      "486",
+      "255",
+      "8A2",
+      "warp"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 2655,
+  "code_blocks_count": 33,
+  "heading_count": 20,
+  "link_count": 78,
+  "image_count": 11,
+  "keywords": [
+    "span",
+    "class",
+    "data",
+    "shiki",
+    "dark",
+    "light",
+    "style",
+    "href",
+    "button",
+    "repomix",
+    "code",
+    "label",
+    "line",
+    "quot",
+    "github",
+    "https",
+    "link",
+    "icon",
+    "aria",
+    "tabindex"
+  ],
+  "reading_time": 13,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-06T15:32:35.332903"
+}

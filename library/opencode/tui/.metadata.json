@@ -1,0 +1,99 @@
+{
+  "url": "https://opencode.ai/docs/tui/",
+  "title": "TUI | OpenCode",
+  "description": "Using the OpenCode terminal user interface.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "SidebarRestore",
+      "replaceChildren",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [
+      "/api/index"
+    ],
+    "file_extensions": [
+      "7071",
+      "1174",
+      "74",
+      "2524",
+      "16",
+      "36l",
+      "6337",
+      "678",
+      "28",
+      "14"
+    ],
+    "command_names": [
+      "include --wait",
+      "code --wait",
+      "ls -la"
+    ]
+  },
+  "version": "v",
+  "last_updated": "2026-01-05T23:09:39.000Z",
+  "word_count": 5943,
+  "code_blocks_count": 107,
+  "heading_count": 26,
+  "link_count": 125,
+  "image_count": 2,
+  "keywords": [
+    "class",
+    "astro",
+    "span",
+    "code",
+    "style",
+    "ufgicomt",
+    "depth",
+    "href",
+    "wiagppvi",
+    "data",
+    "aria",
+    "color",
+    "button",
+    "badge",
+    "auto",
+    "content",
+    "line",
+    "docs",
+    "copy",
+    "figure"
+  ],
+  "reading_time": 30,
+  "complexity_score": 5.1,
+  "metadata_generated": "2026-01-06T16:46:48.108417"
+}

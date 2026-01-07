@@ -1,0 +1,91 @@
+{
+  "url": "https://opencode.ai/docs/formatters",
+  "title": "Formatters | OpenCode",
+  "description": "OpenCode uses language specific formatters.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go",
+      "rust"
+    ],
+    "tool": [
+      "git",
+      "prettier"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "t",
+      "newIcon",
+      "SidebarRestore",
+      "replaceChildren",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "94",
+      "py",
+      "26",
+      "go",
+      "rake",
+      "36l",
+      "16",
+      "68",
+      "eex",
+      "66l"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-05T23:09:39.000Z",
+  "word_count": 3617,
+  "code_blocks_count": 45,
+  "heading_count": 7,
+  "link_count": 65,
+  "image_count": 2,
+  "keywords": [
+    "class",
+    "span",
+    "astro",
+    "style",
+    "code",
+    "wiagppvi",
+    "color",
+    "href",
+    "badge",
+    "aria",
+    "docs",
+    "auto",
+    "ufgicomt",
+    "depth",
+    "line",
+    "hidden",
+    "size",
+    "opencode",
+    "false",
+    "where"
+  ],
+  "reading_time": 18,
+  "complexity_score": 4.5,
+  "metadata_generated": "2026-01-06T16:47:36.488189"
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://code.claude.com/docs/en/quickstart",
+  "title": "Quickstart - Claude Code Docs",
+  "description": "Welcome to Claude Code!",
+  "content_type": "conceptual",
+  "taxonomies": {
+    "framework": [
+      "react"
+    ],
+    "language": [
+      "python",
+      "javascript",
+      "typescript",
+      "java",
+      "go",
+      "rust",
+      "c++"
+    ],
+    "cloud": [
+      "azure",
+      "docker"
+    ],
+    "tool": [
+      "git",
+      "npm",
+      "webpack"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "langDir",
+      "docsClaudeCodeDest",
+      "function",
+      "e",
+      "c",
+      "d",
+      "getItem",
+      "i",
+      "for",
+      "docsClaudeCodeSrc",
+      "_components",
+      "entries",
+      "languageDirs",
+      "langCode",
+      "ignoreList",
+      "setAttribute",
+      "if",
+      "link",
+      "a",
+      "getElementById",
+      "key",
+      "f"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "1624",
+      "096",
+      "413",
+      "9624",
+      "push",
+      "3C10",
+      "5719",
+      "0125",
+      "json",
+      "6974"
+    ],
+    "command_names": [
+      "bg-background-dark -z-10 pointer",
+      "whitespace-nowrap -translate-x-1",
+      "pb-4 -mt-10 pt"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 38300,
+  "code_blocks_count": 89,
+  "heading_count": 21,
+  "link_count": 91,
+  "image_count": 5,
+  "keywords": [
+    "dark",
+    "code",
+    "text",
+    "claude",
+    "children",
+    "class",
+    "gray",
+    "href",
+    "span",
+    "static",
+    "group",
+    "chunks",
+    "title",
+    "hover",
+    "description",
+    "stroke",
+    "shiki",
+    "color",
+    "button",
+    "white"
+  ],
+  "reading_time": 192,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-06T15:41:48.942491"
+}

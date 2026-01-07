@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "url": "https://developer.chrome.com/docs/chromedriver",
+  "name": "What is ChromeDriver? \u00a0|\u00a0 Chrome for Developers",
+  "description": "ChromeDriver is a standalone server that implements the W3C WebDriver standard.",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "docs",
+    "metadata",
+    "href",
+    "chrome",
+    "data",
+    "chromedriver",
+    "https"
+  ]
+}

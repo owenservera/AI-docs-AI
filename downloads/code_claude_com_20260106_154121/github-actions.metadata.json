@@ -1,0 +1,110 @@
+{
+  "url": "https://code.claude.com/docs/en/github-actions",
+  "title": "Claude Code GitHub Actions - Claude Code Docs",
+  "description": "Learn about integrating Claude Code into your development workflow with Claude Code GitHub Actions",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "react"
+    ],
+    "language": [
+      "python",
+      "javascript",
+      "typescript",
+      "java",
+      "go",
+      "rust",
+      "c++"
+    ],
+    "cloud": [
+      "aws",
+      "azure",
+      "gcp"
+    ],
+    "tool": [
+      "git",
+      "webpack"
+    ],
+    "platform": [
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "langDir",
+      "docsClaudeCodeDest",
+      "function",
+      "e",
+      "c",
+      "d",
+      "getItem",
+      "i",
+      "for",
+      "docsClaudeCodeSrc",
+      "_components",
+      "entries",
+      "languageDirs",
+      "langCode",
+      "ignoreList",
+      "setAttribute",
+      "files",
+      "if",
+      "link",
+      "a",
+      "getElementById",
+      "key",
+      "f"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "1624",
+      "096",
+      "413",
+      "br",
+      "9624",
+      "push",
+      "3C10",
+      "json",
+      "5719",
+      "0125"
+    ],
+    "command_names": [
+      "bg-background-dark -z-10 pointer",
+      "whitespace-nowrap -translate-x-1",
+      "pb-4 -mt-10 pt"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 55564,
+  "code_blocks_count": 115,
+  "heading_count": 40,
+  "link_count": 147,
+  "image_count": 5,
+  "keywords": [
+    "span",
+    "children",
+    "dark",
+    "code",
+    "claude",
+    "color",
+    "style",
+    "shiki",
+    "text",
+    "class",
+    "href",
+    "gray",
+    "static",
+    "group",
+    "chunks",
+    "title",
+    "description",
+    "hover",
+    "line",
+    "github"
+  ],
+  "reading_time": 278,
+  "complexity_score": 5.1,
+  "metadata_generated": "2026-01-06T15:42:06.696946"
+}

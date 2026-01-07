@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://geminicli.com/",
+  "name": "Build, debug & deploy with AI | Gemini CLI",
+  "description": "Query and edit large codebases, generate apps from images or PDFs, and\n    automate complex workflows\u2014all from your terminal with Gemini 3.",
+  "version": "v",
+  "keywords": [
+    "astro",
+    "class",
+    "script",
+    "const",
+    "href",
+    "dark",
+    "text",
+    "style",
+    "button",
+    "content"
+  ]
+}

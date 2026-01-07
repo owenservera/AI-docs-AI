@@ -1,0 +1,71 @@
+{
+  "url": "https://developer.chrome.com/release-notes",
+  "title": "Release notes \u00a0|\u00a0 Chrome for Developers",
+  "description": "Learn about changes to Chrome that affect developers",
+  "content_type": "how_to",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "platform": [
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "url",
+      "function",
+      "getElementsByTagName",
+      "insertBefore",
+      "var",
+      "createElement"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "apps",
+      "35",
+      "825",
+      "3917",
+      "9C20",
+      "web",
+      "7C7",
+      "8C15",
+      "5167",
+      "8583"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 3684,
+  "code_blocks_count": 0,
+  "heading_count": 5,
+  "link_count": 81,
+  "image_count": 2,
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "metadata",
+    "chrome",
+    "https",
+    "href",
+    "data",
+    "item",
+    "docs",
+    "developer",
+    "role",
+    "span",
+    "null",
+    "link",
+    "type",
+    "label",
+    "tooltip",
+    "position",
+    "title"
+  ],
+  "reading_time": 18,
+  "complexity_score": 4.0,
+  "metadata_generated": "2026-01-07T01:59:52.820554"
+}

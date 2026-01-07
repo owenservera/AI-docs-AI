@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://repomix.com/ko/guide/code-compress",
+  "name": "\ucf54\ub4dc \uc555\ucd95 | Repomix",
+  "description": "\ucf54\ub4dc\ubca0\uc774\uc2a4\ub97c AI \uce5c\ud654\uc801\uc778 \ud615\uc2dd\uc73c\ub85c \ud328\ud0a4\uc9d5",
+  "dateModified": "2026-01-04T13:42:35.000Z",
+  "version": "v",
+  "keywords": [
+    "span",
+    "data",
+    "class",
+    "shiki",
+    "dark",
+    "style",
+    "light",
+    "link",
+    "href",
+    "code"
+  ]
+}

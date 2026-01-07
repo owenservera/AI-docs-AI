@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://code.claude.com/docs/en/chrome",
+  "name": "Use Claude Code with Chrome (beta) - Claude Code Docs",
+  "description": "Connect Claude Code to your browser to test web apps, debug with console logs, and automate browser tasks.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Verify the Chrome extension (version 1.0.36 or higher) is installed"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Verify Claude Code is version 2.0.73 or higher by runningclaude --version"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Check that Chrome is running"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Run/chromeand select \u201cReconnect extension\u201d to re-establish the connection"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "If the issue persists, restart both Claude Code and Chrome"
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "claude",
+    "code",
+    "dark",
+    "text",
+    "href",
+    "static",
+    "chunks",
+    "gray",
+    "class",
+    "title"
+  ]
+}

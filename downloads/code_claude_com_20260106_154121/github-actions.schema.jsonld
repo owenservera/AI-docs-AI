@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://code.claude.com/docs/en/github-actions",
+  "name": "Claude Code GitHub Actions - Claude Code Docs",
+  "description": "Learn about integrating Claude Code into your development workflow with Claude Code GitHub Actions",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Install the Claude GitHub appto your repository:https://github.com/apps/claudeThe Claude GitHub app requires the following repository permissions:Contents: Read & write (to modify repository files)Issues: Read & write (to respond to issues)Pull requests: Read & write (to create PRs and push changes)For more details on security and permissions, see thesecurity documentation."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Contents: Read & write (to modify repository files)"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Issues: Read & write (to respond to issues)"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Pull requests: Read & write (to create PRs and push changes)"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Add ANTHROPIC_API_KEYto your repository secrets (Learn how to use secrets in GitHub Actions)"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 6,
+      "text": "Copy the workflow filefromexamples/claude.ymlinto your repository\u2019s.github/workflows/"
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "span",
+    "children",
+    "dark",
+    "code",
+    "claude",
+    "color",
+    "style",
+    "shiki",
+    "text",
+    "class"
+  ]
+}

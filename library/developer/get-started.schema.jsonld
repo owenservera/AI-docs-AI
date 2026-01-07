@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/docs/extensions/get-started",
+  "name": "Extensions / Get started \u00a0|\u00a0 Chrome for Developers",
+  "description": "All the basics to get started with Chrome extensions",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "item",
+    "metadata",
+    "chrome",
+    "docs",
+    "data",
+    "https",
+    "href"
+  ]
+}

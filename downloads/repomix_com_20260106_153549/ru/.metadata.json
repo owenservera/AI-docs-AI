@@ -1,0 +1,81 @@
+{
+  "url": "https://repomix.com/ru/guide/",
+  "title": "\u041d\u0430\u0447\u0430\u043b\u043e \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Repomix | Repomix",
+  "description": "\u0423\u043f\u0430\u043a\u043e\u0432\u043a\u0430 \u043a\u043e\u0434\u043e\u0432\u043e\u0439 \u0431\u0430\u0437\u044b \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u044b, \u0443\u0434\u043e\u0431\u043d\u044b\u0435 \u0434\u043b\u044f \u0418\u0418",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "git",
+      "test",
+      "app",
+      "push",
+      "svg",
+      "lean",
+      "css",
+      "net",
+      "dev",
+      "warp"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 1786,
+  "code_blocks_count": 7,
+  "heading_count": 11,
+  "link_count": 86,
+  "image_count": 11,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "repomix",
+    "vplink",
+    "guide",
+    "aria",
+    "button",
+    "https",
+    "text",
+    "item",
+    "level",
+    "content",
+    "label",
+    "vpsidebaritem",
+    "indicator",
+    "vpmenulink",
+    "github"
+  ],
+  "reading_time": 9,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-06T15:36:10.148742"
+}

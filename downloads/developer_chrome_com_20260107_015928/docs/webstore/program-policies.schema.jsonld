@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "url": "https://developer.chrome.com/docs/webstore/program-policies",
+  "name": "Chrome Web Store - Program Policies \u00a0|\u00a0 Chrome for Developers",
+  "description": "The Web Store program policies.",
+  "keywords": [
+    "devsite",
+    "class",
+    "item",
+    "landing",
+    "track",
+    "chrome",
+    "docs",
+    "https",
+    "list",
+    "metadata"
+  ]
+}

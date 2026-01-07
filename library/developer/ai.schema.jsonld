@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://developer.chrome.com/docs/extensions/ai",
+  "name": "Extensions and AI \u00a0|\u00a0 Chrome for Developers",
+  "description": "Learn how to develop extensions with AI",
+  "keywords": [
+    "devsite",
+    "class",
+    "chrome",
+    "track",
+    "https",
+    "docs",
+    "item",
+    "developer",
+    "metadata",
+    "landing"
+  ]
+}

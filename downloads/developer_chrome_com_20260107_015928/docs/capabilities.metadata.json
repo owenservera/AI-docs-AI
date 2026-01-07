@@ -1,0 +1,74 @@
+{
+  "url": "https://developer.chrome.com/docs/capabilities",
+  "title": "Capabilities \u00a0|\u00a0 Chrome for Developers",
+  "description": "Find out how to use Chrome's capabilities to build rich and engaging web experiences.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "java",
+      "go"
+    ],
+    "platform": [
+      "windows",
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "us",
+      "url",
+      "function",
+      "getElementsByTagName",
+      "insertBefore",
+      "createElement"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "apps",
+      "35",
+      "825",
+      "3917",
+      "9C20",
+      "web",
+      "7C7",
+      "8C15",
+      "5167",
+      "8583"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 5656,
+  "code_blocks_count": 0,
+  "heading_count": 34,
+  "link_count": 114,
+  "image_count": 7,
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "item",
+    "chrome",
+    "docs",
+    "landing",
+    "https",
+    "metadata",
+    "data",
+    "href",
+    "developer",
+    "capabilities",
+    "link",
+    "span",
+    "position",
+    "role",
+    "null",
+    "type",
+    "description"
+  ],
+  "reading_time": 28,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-07T01:59:39.191168"
+}

@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://code.claude.com/docs/en/desktop",
+  "name": "Claude Code on desktop - Claude Code Docs",
+  "description": "Run Claude Code tasks locally or on secure cloud infrastructure with the Claude desktop app",
+  "version": "v",
+  "keywords": [
+    "claude",
+    "code",
+    "href",
+    "static",
+    "chunks",
+    "text",
+    "title",
+    "dark",
+    "description",
+    "gray"
+  ]
+}

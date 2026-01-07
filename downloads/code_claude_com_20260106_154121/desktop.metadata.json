@@ -1,0 +1,110 @@
+{
+  "url": "https://code.claude.com/docs/en/desktop",
+  "title": "Claude Code on desktop - Claude Code Docs",
+  "description": "Run Claude Code tasks locally or on secure cloud infrastructure with the Claude desktop app",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "react"
+    ],
+    "language": [
+      "python",
+      "javascript",
+      "typescript",
+      "java",
+      "go",
+      "rust",
+      "c++"
+    ],
+    "cloud": [
+      "azure"
+    ],
+    "tool": [
+      "git",
+      "npm",
+      "yarn",
+      "webpack"
+    ],
+    "platform": [
+      "windows",
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "langDir",
+      "docsClaudeCodeDest",
+      "function",
+      "e",
+      "c",
+      "d",
+      "getItem",
+      "i",
+      "for",
+      "docsClaudeCodeSrc",
+      "_components",
+      "entries",
+      "languageDirs",
+      "langCode",
+      "ignoreList",
+      "setAttribute",
+      "if",
+      "link",
+      "a",
+      "getElementById",
+      "key",
+      "f"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "1624",
+      "096",
+      "413",
+      "9624",
+      "push",
+      "3C10",
+      "json",
+      "5719",
+      "0125",
+      "6974"
+    ],
+    "command_names": [
+      "bg-background-dark -z-10 pointer",
+      "whitespace-nowrap -translate-x-1",
+      "pb-4 -mt-10 pt"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 23122,
+  "code_blocks_count": 25,
+  "heading_count": 14,
+  "link_count": 84,
+  "image_count": 6,
+  "keywords": [
+    "claude",
+    "code",
+    "href",
+    "static",
+    "chunks",
+    "text",
+    "title",
+    "dark",
+    "description",
+    "gray",
+    "group",
+    "class",
+    "children",
+    "font",
+    "hover",
+    "groups",
+    "pages",
+    "flex",
+    "https",
+    "span"
+  ],
+  "reading_time": 116,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-06T15:41:56.442666"
+}

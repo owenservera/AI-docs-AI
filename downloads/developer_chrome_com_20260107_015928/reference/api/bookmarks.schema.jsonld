@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://developer.chrome.com/docs/extensions/reference/api/bookmarks",
+  "name": "chrome.bookmarks \u00a0|\u00a0 API \u00a0|\u00a0 Chrome for Developers",
+  "description": "DescriptionUse thechrome.bookmarksAPI to create, organize, and otherwise manipulate bookmarks. Also seeOverride Pages, which you can use to create a custom Bookmark Manager page.",
+  "keywords": [
+    "class",
+    "devsite",
+    "span",
+    "track",
+    "code",
+    "docs",
+    "data",
+    "type",
+    "syntax",
+    "metadata"
+  ]
+}

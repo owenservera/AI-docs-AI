@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://developer.chrome.com/docs/workbox",
+  "name": "Workbox \u00a0|\u00a0 Chrome for Developers",
+  "description": "Build progressive web apps (PWAs) with Workbox - the Service Worker library from the Chrome team",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "item",
+    "chrome",
+    "landing",
+    "docs",
+    "metadata",
+    "https",
+    "href"
+  ]
+}

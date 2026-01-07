@@ -1,0 +1,77 @@
+{
+  "url": "https://repomix.com/ko/guide/prompt-examples",
+  "title": "\ud504\ub86c\ud504\ud2b8 \uc608\uc2dc | Repomix",
+  "description": "\ucf54\ub4dc\ubca0\uc774\uc2a4\ub97c AI \uce5c\ud654\uc801\uc778 \ud615\uc2dd\uc73c\ub85c \ud328\ud0a4\uc9d5",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "push",
+      "com",
+      "lean",
+      "css",
+      "svg",
+      "js",
+      "gg",
+      "000Z"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 1903,
+  "code_blocks_count": 18,
+  "heading_count": 22,
+  "link_count": 80,
+  "image_count": 1,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "line",
+    "vplink",
+    "button",
+    "guide",
+    "aria",
+    "code",
+    "label",
+    "tabindex",
+    "quot",
+    "text",
+    "examples",
+    "item",
+    "level",
+    "content",
+    "prompt"
+  ],
+  "reading_time": 10,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-06T15:35:16.551274"
+}

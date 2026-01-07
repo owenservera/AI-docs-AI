@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://code.claude.com/docs/en/vs-code",
+  "name": "Use Claude Code in VS Code - Claude Code Docs",
+  "description": "Install and configure the Claude Code extension for VS Code. Get AI coding assistance with inline diffs, @-mentions, plan review, and keyboard shortcuts.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Open a file: The icon requires a file to be open\u2014having just a folder open isn\u2019t enough"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Check VS Code version: Requires 1.98.0 or higher (Help \u2192 About)"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Restart VS Code: Run \u201cDeveloper: Reload Window\u201d from the Command Palette"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Disable conflicting extensions: Temporarily disable other AI extensions (Cline, Continue, etc.)"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Check workspace trust: The extension doesn\u2019t work in Restricted Mode"
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "code",
+    "claude",
+    "children",
+    "href",
+    "static",
+    "dark",
+    "text",
+    "chunks",
+    "title",
+    "gray"
+  ]
+}

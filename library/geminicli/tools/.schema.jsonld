@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://geminicli.com/docs/tools/",
+  "name": "Gemini CLI tools | Gemini CLI",
+  "description": "The Gemini CLI includes built-in tools that the Gemini model uses to interact\nwith your local environment, access information, and perform actions. These\ntools enhance the CLI\u2019s capabilities, enabling...",
+  "version": "v",
+  "keywords": [
+    "astro",
+    "class",
+    "span",
+    "href",
+    "aria",
+    "docs",
+    "style",
+    "tools",
+    "gemini",
+    "current"
+  ]
+}

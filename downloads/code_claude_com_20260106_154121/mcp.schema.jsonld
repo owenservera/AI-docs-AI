@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "url": "https://code.claude.com/docs/en/mcp",
+  "name": "Connect Claude Code to tools via MCP - Claude Code Docs",
+  "description": "Learn how to connect Claude Code to your tools with the Model Context Protocol.",
+  "version": "v",
+  "keywords": [
+    "dark",
+    "span",
+    "children",
+    "shiki",
+    "color",
+    "style",
+    "code",
+    "text",
+    "class",
+    "claude"
+  ]
+}

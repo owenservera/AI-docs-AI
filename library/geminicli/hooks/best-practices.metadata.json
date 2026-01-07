@@ -1,0 +1,106 @@
+{
+  "url": "https://geminicli.com/docs/hooks/best-practices",
+  "title": "Hooks on Gemini CLI: Best practices | Gemini CLI",
+  "description": "This guide covers security considerations, performance optimization, debugging\ntechniques, and privacy considerations for developing and deploying hooks in\nGemini CLI.",
+  "content_type": "troubleshooting",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "javascript",
+      "java",
+      "go",
+      "rust"
+    ],
+    "cloud": [
+      "aws"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "r",
+      "t",
+      "newIcon",
+      "push",
+      "gtag",
+      "SidebarRestore",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "content",
+      "storedTheme",
+      "i",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "26",
+      "env",
+      "36l",
+      "68",
+      "15",
+      "11",
+      "46",
+      "sh",
+      "31",
+      "test"
+    ],
+    "command_names": [
+      "commit -m &#x22;Add project hooks for security and testing&#x22;\"><div></div></button></div></figure></div>",
+      "grep -oP &#x27;&#x22;tool_name&#x22;:\\s*&#x22;\\K[^&#x22;]+&#x27;)\"><div></div></button></div></figure></div>",
+      "set -e  # Exit on error\u007f\u007f# Hook logic\u007fprocess_input() {\u007f  # ...\u007f}\u007f\u007fif process_input; then\u007f  echo &#x22;Success message&#x22;\u007f  exit 0\u007felse\u007f  echo &#x22;Error message&#x22; >&#x26;2\u007f  exit 2\u007ffi\"><div></div></button></div></figure></div>",
+      "grep -E &#x22;write_.*|replace&#x22;\"><div></div></button></div></figure></div>",
+      "jq -r &#x27;.tool_name&#x27;)\"><div></div></button></div></figure></div>"
+    ]
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 15416,
+  "code_blocks_count": 111,
+  "heading_count": 45,
+  "link_count": 202,
+  "image_count": 5,
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "code",
+    "astro",
+    "line",
+    "depth",
+    "href",
+    "data",
+    "indent",
+    "aria",
+    "hooks",
+    "path",
+    "hook",
+    "button",
+    "strong",
+    "copy",
+    "json",
+    "content",
+    "copied"
+  ],
+  "reading_time": 77,
+  "complexity_score": 5.4,
+  "metadata_generated": "2026-01-06T17:10:10.556238"
+}

@@ -1,0 +1,81 @@
+{
+  "url": "https://opencode.ai/legal/privacy-policy",
+  "title": "OpenCode | Privacy Policy",
+  "description": "OpenCode - The open source coding agent.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "java",
+      "go"
+    ],
+    "cloud": [
+      "aws"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "t",
+      "fe",
+      "has",
+      "s",
+      "hasAttribute",
+      "Promise",
+      "url",
+      "forEach",
+      "push"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "8125",
+      "push",
+      "html",
+      "1875",
+      "83",
+      "org",
+      "ico",
+      "84",
+      "75M9",
+      "png"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 10618,
+  "code_blocks_count": 0,
+  "heading_count": 129,
+  "link_count": 63,
+  "image_count": 2,
+  "keywords": [
+    "data",
+    "personal",
+    "rights",
+    "font",
+    "under",
+    "services",
+    "privacy",
+    "href",
+    "resident",
+    "contact",
+    "request",
+    "process",
+    "please",
+    "processing",
+    "section",
+    "certain",
+    "assets",
+    "information",
+    "right",
+    "exercising"
+  ],
+  "reading_time": 53,
+  "complexity_score": 4.0,
+  "metadata_generated": "2026-01-01T22:20:36.738605"
+}

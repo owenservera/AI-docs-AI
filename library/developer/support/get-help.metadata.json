@@ -1,0 +1,76 @@
+{
+  "url": "https://developer.chrome.com/docs/extensions/support/get-help",
+  "title": "Get help with Chrome Extensions \u00a0|\u00a0 Chrome for Developers",
+  "description": "Where to go for help with questions not covered by the documentation.",
+  "content_type": "faq",
+  "taxonomies": {
+    "language": [
+      "java",
+      "go"
+    ],
+    "database": [
+      "oracle"
+    ],
+    "platform": [
+      "linux",
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "url",
+      "function",
+      "getElementsByTagName",
+      "insertBefore",
+      "createElement",
+      "eval"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "apps",
+      "35",
+      "825",
+      "3917",
+      "9C20",
+      "web",
+      "7C7",
+      "8C15",
+      "5167",
+      "8583"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 5496,
+  "code_blocks_count": 0,
+  "heading_count": 6,
+  "link_count": 147,
+  "image_count": 2,
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "metadata",
+    "docs",
+    "data",
+    "chrome",
+    "span",
+    "href",
+    "extensions",
+    "https",
+    "item",
+    "label",
+    "type",
+    "developer",
+    "title",
+    "tooltip",
+    "site",
+    "link",
+    "eventdetail"
+  ],
+  "reading_time": 27,
+  "complexity_score": 4.2,
+  "metadata_generated": "2026-01-07T02:01:23.555673"
+}

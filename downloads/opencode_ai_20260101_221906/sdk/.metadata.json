@@ -1,0 +1,93 @@
+{
+  "url": "https://opencode.ai/docs/sdk/",
+  "title": "SDK | OpenCode",
+  "description": "Type-safe JS client for opencode server.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "javascript",
+      "typescript",
+      "java",
+      "go"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "tmpl",
+      "openBtn",
+      "getItem",
+      "replaceChildren",
+      "matchMedia",
+      "shortcut",
+      "forEach",
+      "querySelectorAll",
+      "querySelector",
+      "storedTheme",
+      "updatePickers",
+      "newIcon",
+      "theme",
+      "SidebarRestore",
+      "select",
+      "oldIcon",
+      "t",
+      "s",
+      "platformKey"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "mdx",
+      "31",
+      "64",
+      "17",
+      "18a4",
+      "33c",
+      "54a1",
+      "16",
+      "03",
+      "83"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2025-12-31T16:54:01.000Z",
+  "word_count": 5411,
+  "code_blocks_count": 176,
+  "heading_count": 31,
+  "link_count": 137,
+  "image_count": 2,
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "code",
+    "astro",
+    "href",
+    "auto",
+    "wiagppvi",
+    "line",
+    "ufgicomt",
+    "depth",
+    "color",
+    "data",
+    "badge",
+    "aria",
+    "client",
+    "opencode",
+    "const",
+    "path",
+    "session"
+  ],
+  "reading_time": 27,
+  "complexity_score": 5.4,
+  "metadata_generated": "2026-01-01T22:19:58.409760"
+}

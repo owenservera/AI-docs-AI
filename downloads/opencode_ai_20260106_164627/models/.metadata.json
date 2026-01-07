@@ -1,0 +1,90 @@
+{
+  "url": "https://opencode.ai/docs/models/",
+  "title": "Models | OpenCode",
+  "description": "Configuring an LLM provider and model.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "you",
+      "shortcut",
+      "openBtn",
+      "t",
+      "newIcon",
+      "SidebarRestore",
+      "replaceChildren",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "94",
+      "7555",
+      "1174",
+      "26",
+      "3739",
+      "36l",
+      "16",
+      "68",
+      "2473",
+      "66l"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-05T23:09:39.000Z",
+  "word_count": 4939,
+  "code_blocks_count": 39,
+  "heading_count": 12,
+  "link_count": 84,
+  "image_count": 2,
+  "keywords": [
+    "span",
+    "class",
+    "astro",
+    "style",
+    "code",
+    "wiagppvi",
+    "href",
+    "line",
+    "color",
+    "aria",
+    "ufgicomt",
+    "depth",
+    "indent",
+    "badge",
+    "docs",
+    "models",
+    "auto",
+    "opencode",
+    "highlight",
+    "mark"
+  ],
+  "reading_time": 25,
+  "complexity_score": 5.2,
+  "metadata_generated": "2026-01-06T16:47:02.939869"
+}

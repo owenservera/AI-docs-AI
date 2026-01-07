@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "url": "https://opencode.ai/zen",
+  "name": "OpenCode Zen | A curated set of reliable optimized models for coding agents",
+  "description": "OpenCode - The open source coding agent.",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What problem is Zen solving?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There are so many models available, but only a few work well with coding agents. Most providers configure them differently with varying results."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How Zen works",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While we suggest you use Zen with OpenCode, you can use Zen with any agent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Be the first to know when we release new products",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Join the waitlist for early access."
+      }
+    }
+  ],
+  "version": "22.2952",
+  "keywords": [
+    "data",
+    "font",
+    "slot",
+    "path",
+    "assets",
+    "fill",
+    "span",
+    "href",
+    "currentcolor",
+    "width"
+  ]
+}

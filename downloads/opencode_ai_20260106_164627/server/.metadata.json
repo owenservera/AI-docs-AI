@@ -1,0 +1,91 @@
+{
+  "url": "https://opencode.ai/docs/server/",
+  "title": "Server | OpenCode",
+  "description": "Interact with opencode server over HTTP.",
+  "content_type": "api_reference",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "updatePickers",
+      "getItem",
+      "s",
+      "theme",
+      "oldIcon",
+      "platformKey",
+      "shortcut",
+      "openBtn",
+      "t",
+      "newIcon",
+      "SidebarRestore",
+      "replaceChildren",
+      "forEach",
+      "querySelectorAll",
+      "select",
+      "storedTheme",
+      "tmpl",
+      "querySelector",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "94",
+      "7555",
+      "1174",
+      "26",
+      "3739",
+      "36l",
+      "16",
+      "68",
+      "2473",
+      "66l"
+    ],
+    "command_names": [
+      "serve --cors http://localhost:5173"
+    ]
+  },
+  "version": "v",
+  "last_updated": "2026-01-05T23:09:39.000Z",
+  "word_count": 4819,
+  "code_blocks_count": 267,
+  "heading_count": 27,
+  "link_count": 161,
+  "image_count": 2,
+  "keywords": [
+    "code",
+    "astro",
+    "class",
+    "auto",
+    "span",
+    "style",
+    "href",
+    "ufgicomt",
+    "depth",
+    "wiagppvi",
+    "color",
+    "opencode",
+    "aria",
+    "badge",
+    "docs",
+    "path",
+    "https",
+    "github",
+    "session",
+    "anomalyco"
+  ],
+  "reading_time": 24,
+  "complexity_score": 5.2,
+  "metadata_generated": "2026-01-06T16:47:20.719110"
+}

@@ -1,0 +1,76 @@
+{
+  "url": "https://developer.chrome.com/docs/extensions/get-started",
+  "title": "Extensions / Get started \u00a0|\u00a0 Chrome for Developers",
+  "description": "All the basics to get started with Chrome extensions",
+  "content_type": "reference",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "java",
+      "go"
+    ],
+    "platform": [
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "url",
+      "function",
+      "getElementsByTagName",
+      "insertBefore",
+      "createElement"
+    ],
+    "api_endpoints": [
+      "/api/declarativeNetRequest",
+      "/api/sidePanel",
+      "/api/action"
+    ],
+    "file_extensions": [
+      "apps",
+      "35",
+      "825",
+      "3917",
+      "9C20",
+      "web",
+      "7C7",
+      "8C15",
+      "5167",
+      "8583"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 6046,
+  "code_blocks_count": 0,
+  "heading_count": 26,
+  "link_count": 146,
+  "image_count": 3,
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "item",
+    "metadata",
+    "chrome",
+    "docs",
+    "data",
+    "https",
+    "href",
+    "landing",
+    "developer",
+    "position",
+    "span",
+    "extensions",
+    "label",
+    "link",
+    "type",
+    "site",
+    "events"
+  ],
+  "reading_time": 30,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-07T02:00:25.683633"
+}

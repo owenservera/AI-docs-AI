@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "url": "https://developer.chrome.com/docs/extensions/support/file-a-bug",
+  "name": "File an extension bug \u00a0|\u00a0 Chrome Extensions \u00a0|\u00a0 Chrome for Developers",
+  "description": "How to report extension bugs or problems with documentation.",
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "metadata",
+    "docs",
+    "data",
+    "chrome",
+    "span",
+    "href",
+    "extensions"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "url": "https://developer.chrome.com/docs/chromedriver",
+  "title": "What is ChromeDriver? \u00a0|\u00a0 Chrome for Developers",
+  "description": "ChromeDriver is a standalone server that implements the W3C WebDriver standard.",
+  "content_type": "faq",
+  "taxonomies": {
+    "language": [
+      "java",
+      "go"
+    ],
+    "database": [
+      "oracle"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "linux",
+      "windows",
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "url",
+      "function",
+      "getElementsByTagName",
+      "insertBefore",
+      "createElement"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "apps",
+      "35",
+      "825",
+      "3917",
+      "9C20",
+      "io",
+      "web",
+      "7C7",
+      "8C15",
+      "5167"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 4483,
+  "code_blocks_count": 1,
+  "heading_count": 8,
+  "link_count": 131,
+  "image_count": 2,
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "docs",
+    "metadata",
+    "href",
+    "chrome",
+    "data",
+    "chromedriver",
+    "https",
+    "span",
+    "item",
+    "link",
+    "developer",
+    "title",
+    "type",
+    "tooltip",
+    "role",
+    "label",
+    "null"
+  ],
+  "reading_time": 22,
+  "complexity_score": 4.6,
+  "metadata_generated": "2026-01-07T01:59:40.965192"
+}

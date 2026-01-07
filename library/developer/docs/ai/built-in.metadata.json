@@ -1,0 +1,79 @@
+{
+  "url": "https://developer.chrome.com/docs/ai/built-in",
+  "title": "Built-in AI \u00a0|\u00a0 AI on Chrome \u00a0|\u00a0 Chrome for Developers",
+  "description": "Built-in AI brings powerful models client-side, so you can offer AI features to users, while protecting sensitive data and improving latency.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "language": [
+      "java",
+      "go"
+    ],
+    "database": [
+      "oracle"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "calc",
+      "function",
+      "var",
+      "url"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "apps",
+      "825",
+      "778",
+      "web",
+      "8C15",
+      "169",
+      "175",
+      "9C6",
+      "333",
+      "89"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 6277,
+  "code_blocks_count": 0,
+  "heading_count": 11,
+  "link_count": 151,
+  "image_count": 5,
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "docs",
+    "data",
+    "metadata",
+    "span",
+    "href",
+    "chrome",
+    "https",
+    "item",
+    "title",
+    "type",
+    "link",
+    "label",
+    "developer",
+    "tooltip",
+    "site",
+    "wide",
+    "eventdetail"
+  ],
+  "reading_time": 31,
+  "complexity_score": 5.0,
+  "metadata_generated": "2026-01-07T02:00:52.562073"
+}

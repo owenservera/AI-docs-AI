@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://code.claude.com/docs/en/settings",
+  "name": "Claude Code settings - Claude Code Docs",
+  "description": "Configure Claude Code with global and project-level settings, and environment variables.",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Enterprise(highest) - can\u2019t be overridden by anything"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Command line arguments- temporary session overrides"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Local- overrides project and user settings"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Project- overrides user settings"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "User(lowest) - applies when nothing else specifies the setting"
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "children",
+    "span",
+    "dark",
+    "style",
+    "code",
+    "color",
+    "shiki",
+    "text",
+    "claude",
+    "left"
+  ]
+}

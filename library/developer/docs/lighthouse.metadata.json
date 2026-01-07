@@ -1,0 +1,70 @@
+{
+  "url": "https://developer.chrome.com/docs/lighthouse",
+  "title": "Lighthouse \u00a0|\u00a0 Chrome for Developers",
+  "description": "Automate web performance audits with Lighthouse",
+  "content_type": "how_to",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "platform": [
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "url",
+      "function",
+      "getElementsByTagName",
+      "insertBefore",
+      "createElement"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "apps",
+      "35",
+      "825",
+      "3917",
+      "9C20",
+      "web",
+      "7C7",
+      "8C15",
+      "5167",
+      "8583"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 3973,
+  "code_blocks_count": 0,
+  "heading_count": 9,
+  "link_count": 88,
+  "image_count": 3,
+  "keywords": [
+    "devsite",
+    "class",
+    "track",
+    "metadata",
+    "chrome",
+    "docs",
+    "https",
+    "item",
+    "href",
+    "data",
+    "developer",
+    "lighthouse",
+    "link",
+    "role",
+    "null",
+    "span",
+    "type",
+    "position",
+    "label",
+    "tooltip"
+  ],
+  "reading_time": 20,
+  "complexity_score": 4.8,
+  "metadata_generated": "2026-01-07T01:59:57.211642"
+}

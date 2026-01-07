@@ -1,0 +1,81 @@
+{
+  "url": "https://developer.chrome.com/docs/extensions/reference/api/tabs",
+  "title": "chrome.tabs \u00a0|\u00a0 API \u00a0|\u00a0 Chrome for Developers",
+  "description": "DescriptionUse thechrome.tabsAPI to interact with the browser's tab system. You can use this API to create, modify, and rearrange tabs in the browser.",
+  "content_type": "reference",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "typescript",
+      "java",
+      "go"
+    ],
+    "database": [
+      "oracle"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "windows",
+      "ios",
+      "android",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "rgba",
+      "url"
+    ],
+    "api_endpoints": [
+      "/api/tabs",
+      "/api/tabs?hl"
+    ],
+    "file_extensions": [
+      "apps",
+      "825",
+      "5C21",
+      "web",
+      "55",
+      "8C15",
+      "2333",
+      "175",
+      "9C6",
+      "25em"
+    ],
+    "command_names": []
+  },
+  "version": null,
+  "last_updated": null,
+  "word_count": 16221,
+  "code_blocks_count": 145,
+  "heading_count": 129,
+  "link_count": 291,
+  "image_count": 2,
+  "keywords": [
+    "class",
+    "span",
+    "devsite",
+    "syntax",
+    "code",
+    "track",
+    "type",
+    "data",
+    "docs",
+    "chrome",
+    "extensions",
+    "reference",
+    "metadata",
+    "href",
+    "nbsp",
+    "label",
+    "stack",
+    "title",
+    "text",
+    "xsmall"
+  ],
+  "reading_time": 81,
+  "complexity_score": 5.1,
+  "metadata_generated": "2026-01-07T02:01:08.849561"
+}

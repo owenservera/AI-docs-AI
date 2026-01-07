@@ -1,0 +1,81 @@
+{
+  "url": "https://repomix.com/guide/claude-code-plugins",
+  "title": "Claude Code Plugins | Repomix",
+  "description": "Pack your codebase into AI-friendly formats",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "framework": [
+      "react"
+    ],
+    "language": [
+      "typescript",
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "getItem",
+      "e",
+      "add",
+      "toggle",
+      "matchMedia",
+      "push",
+      "gtag"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "com",
+      "add",
+      "md",
+      "png",
+      "js",
+      "css",
+      "lean",
+      "gg",
+      "test",
+      "push"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 2067,
+  "code_blocks_count": 26,
+  "heading_count": 21,
+  "link_count": 92,
+  "image_count": 1,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "code",
+    "href",
+    "repomix",
+    "guide",
+    "quot",
+    "vplink",
+    "plugins",
+    "aria",
+    "button",
+    "text",
+    "claude",
+    "plugin",
+    "label",
+    "github",
+    "tabindex",
+    "item"
+  ],
+  "reading_time": 10,
+  "complexity_score": 5.2,
+  "metadata_generated": "2026-01-06T16:53:08.489618"
+}

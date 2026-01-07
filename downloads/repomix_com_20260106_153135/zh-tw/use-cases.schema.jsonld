@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://repomix.com/zh-tw/guide/use-cases",
+  "name": "\u4f7f\u7528\u6848\u4f8b | Repomix",
+  "description": "\u5c07\u7a0b\u5f0f\u78bc\u5eab\u6253\u5305\u6210AI\u53cb\u597d\u7684\u683c\u5f0f",
+  "dateModified": "2026-01-04T13:42:35.000Z",
+  "version": "v",
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "href",
+    "code",
+    "button",
+    "aria",
+    "vplink",
+    "guide"
+  ]
+}

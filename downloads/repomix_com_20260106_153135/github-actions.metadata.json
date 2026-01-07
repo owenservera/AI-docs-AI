@@ -1,0 +1,78 @@
+{
+  "url": "https://repomix.com/guide/github-actions",
+  "title": "Using Repomix with GitHub Actions | Repomix",
+  "description": "Pack your codebase into AI-friendly formats",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "json",
+      "push",
+      "com",
+      "ts",
+      "yml",
+      "lean",
+      "css",
+      "svg"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 2015,
+  "code_blocks_count": 31,
+  "heading_count": 12,
+  "link_count": 71,
+  "image_count": 1,
+  "keywords": [
+    "span",
+    "data",
+    "class",
+    "shiki",
+    "style",
+    "dark",
+    "light",
+    "link",
+    "href",
+    "code",
+    "repomix",
+    "line",
+    "github",
+    "vplink",
+    "guide",
+    "actions",
+    "button",
+    "aria",
+    "output",
+    "text"
+  ],
+  "reading_time": 10,
+  "complexity_score": 5.4,
+  "metadata_generated": "2026-01-06T15:32:17.999796"
+}

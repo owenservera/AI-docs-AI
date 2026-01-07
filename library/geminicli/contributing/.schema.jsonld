@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://geminicli.com/docs/contributing/",
+  "name": "How to contribute | Gemini CLI",
+  "description": "We would love to accept your patches and contributions to this project. This\ndocument includes:",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Find an issuethat you want to work on. If an issue is tagged as\n\u201c\ud83d\udd12Maintainers only\u201d, this means it is reserved for project maintainers. We\nwill not accept pull requests related to these issues."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Fork the repositoryand create a new branch."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Make your changesin thepackages/directory."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "text": "Ensure all checks passby runningnpm run preflight."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "text": "Open a pull requestwith your changes."
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "class",
+    "span",
+    "astro",
+    "style",
+    "code",
+    "href",
+    "depth",
+    "aria",
+    "path",
+    "auto"
+  ]
+}

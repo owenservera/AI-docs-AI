@@ -1,0 +1,86 @@
+{
+  "url": "https://repomix.com",
+  "title": "Repomix | Pack your codebase into AI-friendly formats",
+  "description": "Pack your codebase into AI-friendly formats",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "javascript",
+      "java",
+      "go"
+    ],
+    "cloud": [
+      "gcp",
+      "docker"
+    ],
+    "tool": [
+      "git",
+      "npm",
+      "yarn"
+    ],
+    "platform": [
+      "linux",
+      "macos",
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "getItem",
+      "e",
+      "add",
+      "matrix",
+      "toggle",
+      "matchMedia",
+      "push",
+      "gtag"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "94",
+      "app",
+      "323",
+      "net",
+      "849",
+      "46",
+      "979",
+      "129",
+      "test",
+      "622"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": null,
+  "word_count": 2793,
+  "code_blocks_count": 33,
+  "heading_count": 20,
+  "link_count": 78,
+  "image_count": 11,
+  "keywords": [
+    "span",
+    "class",
+    "data",
+    "shiki",
+    "dark",
+    "light",
+    "style",
+    "repomix",
+    "href",
+    "code",
+    "button",
+    "line",
+    "label",
+    "quot",
+    "github",
+    "https",
+    "link",
+    "icon",
+    "aria",
+    "tabindex"
+  ],
+  "reading_time": 14,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-06T16:53:19.446466"
+}

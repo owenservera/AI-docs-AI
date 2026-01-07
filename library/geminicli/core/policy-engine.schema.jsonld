@@ -1,0 +1,37 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "url": "https://geminicli.com/docs/core/policy-engine",
+  "name": "Policy engine | Gemini CLI",
+  "description": "The Gemini CLI includes a powerful policy engine that provides fine-grained\ncontrol over tool execution. It allows users and administrators to define rules\nthat determine whether a tool call should be...",
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "text": "Create the policy directoryif it doesn\u2019t exist:Terminal windowmkdir-p~/.gemini/policies"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "text": "Create a new policy file(e.g.,~/.gemini/policies/my-rules.toml). You\ncan use any filename ending in.toml; all such files in this directory\nwill be loaded and combined:[[rule]]toolName =\"run_shell_command\"commandPrefix =\"git status\"decision =\"allow\"priority =100"
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "text": "Run a commandthat triggers the policy (e.g., ask Gemini CLI togit status). The tool will now execute automatically without prompting for\nconfirmation."
+    }
+  ],
+  "version": "v",
+  "keywords": [
+    "class",
+    "span",
+    "astro",
+    "style",
+    "code",
+    "href",
+    "aria",
+    "depth",
+    "auto",
+    "docs"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://repomix.com/guide/output",
+  "title": "Output Formats | Repomix",
+  "description": "Pack your codebase into AI-friendly formats",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "framework": [
+      "react"
+    ],
+    "language": [
+      "typescript",
+      "go"
+    ],
+    "cloud": [
+      "gcp"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "getItem",
+      "e",
+      "add",
+      "feat",
+      "toggle",
+      "matchMedia",
+      "push",
+      "gtag"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "com",
+      "yml",
+      "add",
+      "md",
+      "png",
+      "js",
+      "css",
+      "json",
+      "xml",
+      "000Z"
+    ],
+    "command_names": [
+      "Add --include-logs option for git commit history</span></span>"
+    ]
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 2829,
+  "code_blocks_count": 29,
+  "heading_count": 18,
+  "link_count": 80,
+  "image_count": 1,
+  "keywords": [
+    "span",
+    "shiki",
+    "class",
+    "data",
+    "dark",
+    "light",
+    "style",
+    "line",
+    "link",
+    "quot",
+    "href",
+    "code",
+    "output",
+    "button",
+    "vplink",
+    "guide",
+    "aria",
+    "repomix",
+    "text",
+    "json"
+  ],
+  "reading_time": 14,
+  "complexity_score": 5.7,
+  "metadata_generated": "2026-01-06T16:52:57.269409"
+}

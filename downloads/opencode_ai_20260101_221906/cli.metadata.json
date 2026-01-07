@@ -1,0 +1,97 @@
+{
+  "url": "https://opencode.ai/docs/cli",
+  "title": "CLI | OpenCode",
+  "description": "OpenCode CLI options and commands.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "javascript",
+      "java",
+      "go"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "windows",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "tmpl",
+      "openBtn",
+      "getItem",
+      "replaceChildren",
+      "matchMedia",
+      "shortcut",
+      "forEach",
+      "querySelectorAll",
+      "querySelector",
+      "storedTheme",
+      "updatePickers",
+      "newIcon",
+      "theme",
+      "SidebarRestore",
+      "select",
+      "oldIcon",
+      "t",
+      "s",
+      "platformKey"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "mdx",
+      "31",
+      "64",
+      "17",
+      "18a4",
+      "33c",
+      "54a1",
+      "16",
+      "03",
+      "83"
+    ],
+    "command_names": [
+      "web --port 4096",
+      "run --attach http://localhost:4096 &#x22;Explain async/await in JavaScript&#x22;\"><div></div></button></div></figure></div>",
+      "models --refresh"
+    ]
+  },
+  "version": "v",
+  "last_updated": "2025-12-31T16:54:01.000Z",
+  "word_count": 5889,
+  "code_blocks_count": 185,
+  "heading_count": 48,
+  "link_count": 140,
+  "image_count": 2,
+  "keywords": [
+    "span",
+    "class",
+    "code",
+    "style",
+    "astro",
+    "data",
+    "href",
+    "opencode",
+    "ufgicomt",
+    "depth",
+    "wiagppvi",
+    "auto",
+    "button",
+    "title",
+    "terminal",
+    "copy",
+    "figure",
+    "figcaption",
+    "copied",
+    "color"
+  ],
+  "reading_time": 29,
+  "complexity_score": 5.2,
+  "metadata_generated": "2026-01-01T22:20:56.412604"
+}

@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://geminicli.com/docs/hooks/best-practices/",
+  "name": "Hooks on Gemini CLI: Best practices | Gemini CLI",
+  "description": "This guide covers security considerations, performance optimization, debugging\ntechniques, and privacy considerations for developing and deploying hooks in\nGemini CLI.",
+  "version": "v",
+  "keywords": [
+    "span",
+    "class",
+    "style",
+    "code",
+    "astro",
+    "line",
+    "depth",
+    "href",
+    "data",
+    "indent"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "url": "https://opencode.ai/zen",
+  "title": "OpenCode Zen | A curated set of reliable optimized models for coding agents",
+  "description": "OpenCode - The open source coding agent.",
+  "content_type": "faq",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "aws"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "t",
+      "fe",
+      "has",
+      "s",
+      "hasAttribute",
+      "Promise",
+      "url",
+      "forEach",
+      "push"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "1232",
+      "5368",
+      "9209",
+      "9747",
+      "2567",
+      "0617",
+      "7303",
+      "5614",
+      "6512",
+      "png"
+    ],
+    "command_names": []
+  },
+  "version": "22.2952",
+  "last_updated": null,
+  "word_count": 2297,
+  "code_blocks_count": 0,
+  "heading_count": 6,
+  "link_count": 22,
+  "image_count": 9,
+  "keywords": [
+    "data",
+    "font",
+    "slot",
+    "path",
+    "assets",
+    "fill",
+    "span",
+    "href",
+    "currentcolor",
+    "width",
+    "link",
+    "style",
+    "height",
+    "http",
+    "button",
+    "face",
+    "family",
+    "display",
+    "viewbox",
+    "xmlns"
+  ],
+  "reading_time": 11,
+  "complexity_score": 2.2,
+  "metadata_generated": "2026-01-01T22:20:28.394652"
+}

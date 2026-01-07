@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "url": "https://geminicli.com/docs/changelogs/preview/",
+  "name": "Preview release: Release v0.22.0-preview.0 | Gemini CLI",
+  "description": "Our preview release includes the latest, new, and experimental features. This\nrelease may not be as stable as ourlatest weekly release.",
+  "version": "v",
+  "keywords": [
+    "astro",
+    "class",
+    "gemini",
+    "span",
+    "href",
+    "https",
+    "google",
+    "github",
+    "pull",
+    "aria"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "url": "https://opencode.ai/docs/providers",
+  "title": "Providers | OpenCode",
+  "description": "Using any LLM provider in OpenCode.",
+  "content_type": "how_to",
+  "taxonomies": {
+    "framework": [
+      "express"
+    ],
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "aws",
+      "azure"
+    ],
+    "tool": [
+      "git",
+      "npm"
+    ],
+    "platform": [
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "tmpl",
+      "openBtn",
+      "getItem",
+      "replaceChildren",
+      "matchMedia",
+      "shortcut",
+      "forEach",
+      "querySelectorAll",
+      "querySelector",
+      "storedTheme",
+      "updatePickers",
+      "newIcon",
+      "theme",
+      "SidebarRestore",
+      "select",
+      "oldIcon",
+      "t",
+      "s",
+      "platformKey"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "64",
+      "17a1",
+      "5547",
+      "4696",
+      "66",
+      "1875",
+      "16",
+      "2155",
+      "84",
+      "png"
+    ],
+    "command_names": [
+      "install -g opencode"
+    ]
+  },
+  "version": "v",
+  "last_updated": "2025-12-31T16:54:01.000Z",
+  "word_count": 15554,
+  "code_blocks_count": 383,
+  "heading_count": 49,
+  "link_count": 223,
+  "image_count": 2,
+  "keywords": [
+    "span",
+    "class",
+    "code",
+    "style",
+    "astro",
+    "line",
+    "data",
+    "button",
+    "copy",
+    "ufgicomt",
+    "depth",
+    "figure",
+    "figcaption",
+    "copied",
+    "href",
+    "title",
+    "indent",
+    "models",
+    "content",
+    "auto"
+  ],
+  "reading_time": 78,
+  "complexity_score": 5.3,
+  "metadata_generated": "2026-01-01T22:20:10.492873"
+}

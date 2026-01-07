@@ -1,0 +1,79 @@
+{
+  "url": "https://repomix.com/pt-br/guide/security",
+  "title": "Seguran\u00e7a | Repomix",
+  "description": "Empacote sua base de c\u00f3digo em formatos amig\u00e1veis para IA",
+  "content_type": "tutorial",
+  "taxonomies": {
+    "language": [
+      "go"
+    ],
+    "cloud": [
+      "aws",
+      "gcp"
+    ],
+    "tool": [
+      "git"
+    ],
+    "platform": [
+      "ios",
+      "web"
+    ]
+  },
+  "entities": {
+    "code_references": [
+      "add",
+      "e",
+      "toggle",
+      "gtag",
+      "getItem",
+      "push",
+      "matchMedia"
+    ],
+    "api_endpoints": [],
+    "file_extensions": [
+      "add",
+      "test",
+      "json",
+      "push",
+      "com",
+      "min",
+      "env",
+      "lean",
+      "css",
+      "svg"
+    ],
+    "command_names": []
+  },
+  "version": "v",
+  "last_updated": "2026-01-04T13:42:35.000Z",
+  "word_count": 1653,
+  "code_blocks_count": 9,
+  "heading_count": 11,
+  "link_count": 72,
+  "image_count": 1,
+  "keywords": [
+    "data",
+    "class",
+    "span",
+    "link",
+    "shiki",
+    "href",
+    "vplink",
+    "dark",
+    "guide",
+    "style",
+    "light",
+    "button",
+    "aria",
+    "text",
+    "security",
+    "item",
+    "level",
+    "content",
+    "vpsidebaritem",
+    "indicator"
+  ],
+  "reading_time": 8,
+  "complexity_score": 5.1,
+  "metadata_generated": "2026-01-06T15:34:59.272211"
+}
